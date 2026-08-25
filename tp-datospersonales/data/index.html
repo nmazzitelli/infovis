@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Mi historial de escucha en Spotify</title>
+
+  <style>
+    body {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      color: #222;
+    }
+
+    h1 {
+      margin-bottom: 10px;
+    }
+
+    .introduccion {
+      margin-bottom: 40px;
+      color: #555;
+    }
+
+    .visualizacion {
+      margin: 40px 0;
+    }
+
+    .datos {
+      margin-top: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <header>
+      <h1>Mi historial de escucha en Spotify</h1>
+
+      <p class="introduccion">
+        Una exploración visual de mis hábitos musicales a partir de los
+        datos de reproducción descargados de Spotify.
+      </p>
+    </header>
+
+    <section class="visualizacion">
+    <div style="min-height:400px" id="datawrapper-vis-KAhKB"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/KAhKB/embed.js" charset="utf-8" data-target="#datawrapper-vis-KAhKB"></script><noscript><img src="https://datawrapper.dwcdn.net/KAhKB/full.png" alt="Gráfico de barras horizontales con las horas de música escuchadas por año entre 2017 y 2025. El máximo ocurrió en 2020, con 977,3 horas, seguido por 2021, con 714,4 horas. El mínimo fue 2017, con 367,7 horas." /></noscript></div>
+    </section>
+
+    <p class="datos">
+      <a href="./data/horas_musica_por_anio.csv">
+        Ver los datos utilizados en esta visualización
+      </a>
+    </p>
+  </main>
+</body>
+</html>
