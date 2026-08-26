@@ -1,7 +1,8 @@
 # Visualización de Información
 
-https://nmazzitelli.github.io/infovis/
+- [Ejercicios de clase](https://nmazzitelli.github.io/infovis/)
 
 ## Trabajo Práctico: Visualización de Datos Personales
 
-https://nmazzitelli.github.io/infovis/tp-datospersonales/
+- [Mi historial de escucha en Spotify](https://nmazzitelli.github.io/infovis/tp-datospersonales/)
+- [Datos utilizados](./tp-datospersonales/data/)
