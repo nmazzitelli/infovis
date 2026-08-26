@@ -39,10 +39,10 @@
       color: #555;
     }
 
-    .grafico {
+    object {
       display: block;
       width: 100%;
-      height: auto;
+      height: 550px;
       margin-top: 20px;
     }
 
@@ -71,22 +71,19 @@
     </header>
 
     <section class="visualizacion">
-      <div
-        style="min-height: 400px"
-        id="datawrapper-vis-KAhKB"
-      >
+      <div style="min-height:400px" id="datawrapper-vis-KAhKB">
         <script
           type="text/javascript"
           defer
           src="https://datawrapper.dwcdn.net/KAhKB/embed.js"
           charset="utf-8"
-          data-target="#datawrapper-vis-KAhKB"
-        ></script>
+          data-target="#datawrapper-vis-KAhKB">
+        </script>
 
         <noscript>
           <img
             src="https://datawrapper.dwcdn.net/KAhKB/full.png"
-            alt="Gráfico de barras horizontales con las horas de música escuchadas por año entre 2017 y 2025. El máximo ocurrió en 2020, con 977,3 horas."
+            alt="Gráfico de barras horizontales con las horas de música escuchadas por año entre 2017 y 2025."
           >
         </noscript>
       </div>
@@ -106,11 +103,7 @@
         Los tonos más oscuros indican más horas de escucha.
       </p>
 
-      <img
-        class="grafico"
-        src="./escucha-por-dia-y-hora.svg"
-        alt="Mapa de calor de las horas de música escuchadas según el día de la semana y la franja horaria entre 2017 y 2025."
-      >
+      <object type="image/svg+xml" data="./escucha-por-dia-y-hora.svg"></object>
 
       <p class="fuente">
         Fuente: historial personal de Spotify. Horarios expresados en hora argentina.
