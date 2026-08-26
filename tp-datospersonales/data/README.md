@@ -12,7 +12,6 @@ Tampoco se publica el paquete **Spotify Account Data**, porque incluye datos de 
 
 - `escucha_anual.csv`: tabla simple, lista para importar en Datawrapper, RAWGraphs, Flourish o Tableau.
 - `escucha_anual.json`: los mismos datos más metadatos sobre la fuente y el procesamiento.
-- `muestra_anonimizada.json`: nueve registros representativos para mostrar la estructura de la fuente sin revelar canciones, artistas, dispositivos, IP ni timestamps exactos.
 
 ## Transformación
 
