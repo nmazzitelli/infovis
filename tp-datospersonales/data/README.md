@@ -12,6 +12,8 @@ Los archivos originales no se publican porque contienen información privada. Es
 - `escucha_anual.csv`: resumen anual ampliado con horas, reproducciones, días activos, canciones y artistas únicos, duplicados y cobertura.
 - `escucha_por_dia_y_hora.csv`: horas acumuladas por día y franja horaria, del 1/1/2017 al 31/12/2025. Fuente de RAWGraphs.
 
+  Campos: `Día` y `Hora` identifican el momento; `Horas` es el total escuchado; `Orden día` y `Orden hora` conservan el orden cronológico.
+
 ## Procesamiento
 
 Se conservaron únicamente reproducciones musicales, se apartaron 125 filas exactamente duplicadas y se sumó el tiempo reproducido por año. Los archivos originales no fueron modificados.
