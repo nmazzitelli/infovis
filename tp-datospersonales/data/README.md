@@ -4,7 +4,7 @@
 
 Los datos provienen de una descarga personal de **Spotify Extended Streaming History**. El historial disponible abarca del 1 de diciembre de 2015 al 9 de agosto de 2026.
 
-Los archivos originales no se publican porque contienen información privada. Este repositorio incluye únicamente tablas procesadas y agregadas.
+Los originales no se publican porque contienen direcciones IP. `fuente_anonimizada/` conserva los registros completos sin ese campo.
 
 ## Archivos
 
@@ -14,9 +14,12 @@ Los archivos originales no se publican porque contienen información privada. Es
 
   Campos: `Día` y `Hora` identifican el momento; `Horas` es el total escuchado; `Orden día` y `Orden hora` conservan el orden cronológico.
 
+- `fuente_anonimizada/spotify_extended/`: 19 historiales extendidos de audio y un manifiesto con 164.553 registros.
+- `../scripts/anonimizar_historial_spotify.mjs`: genera las copias sin IP.
+
 ## Procesamiento
 
-Se conservaron únicamente reproducciones musicales, se apartaron 125 filas exactamente duplicadas y se sumó el tiempo reproducido por año. Los archivos originales no fueron modificados.
+Para los CSV se conservaron reproducciones musicales, se apartaron 125 filas exactamente duplicadas y se agregaron los tiempos. Los originales no fueron modificados.
 
 2015, 2016 y 2026 tienen cobertura parcial. Por eso el gráfico principal compara solamente 2017–2025.
 
@@ -24,4 +27,4 @@ Para la tabla semanal, los horarios se convirtieron a hora argentina y se agrupa
 
 ## Privacidad
 
-Se eliminaron datos de cuenta, IP, país, dispositivo, plataforma, timestamps exactos, canciones, artistas, álbumes e identificadores de Spotify.
+En los historiales publicados solo se eliminó `ip_addr`. Se conservaron timestamps, país, plataforma, dispositivo y metadatos de contenido.

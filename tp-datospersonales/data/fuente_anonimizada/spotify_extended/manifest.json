@@ -1,0 +1,115 @@
+{
+  "source": "Spotify Extended Streaming History",
+  "scope": "Streaming_History_Audio",
+  "removed_fields": [
+    "ip_addr"
+  ],
+  "preserved_fields": [
+    "audiobook_chapter_title",
+    "audiobook_chapter_uri",
+    "audiobook_title",
+    "audiobook_uri",
+    "conn_country",
+    "episode_name",
+    "episode_show_name",
+    "incognito_mode",
+    "master_metadata_album_album_name",
+    "master_metadata_album_artist_name",
+    "master_metadata_track_name",
+    "ms_played",
+    "offline",
+    "offline_timestamp",
+    "platform",
+    "reason_end",
+    "reason_start",
+    "shuffle",
+    "skipped",
+    "spotify_episode_uri",
+    "spotify_track_uri",
+    "ts"
+  ],
+  "coverage": {
+    "first_timestamp": "2015-12-01T03:57:28Z",
+    "last_timestamp": "2026-08-09T21:13:10Z"
+  },
+  "total_files": 19,
+  "total_records": 164553,
+  "files": [
+    {
+      "file": "Streaming_History_Audio_2015.json",
+      "records": 406
+    },
+    {
+      "file": "Streaming_History_Audio_2016.json",
+      "records": 645
+    },
+    {
+      "file": "Streaming_History_Audio_2017.json",
+      "records": 9535
+    },
+    {
+      "file": "Streaming_History_Audio_2018.json",
+      "records": 15295
+    },
+    {
+      "file": "Streaming_History_Audio_2018_1.json",
+      "records": 57
+    },
+    {
+      "file": "Streaming_History_Audio_2019.json",
+      "records": 12992
+    },
+    {
+      "file": "Streaming_History_Audio_2020.json",
+      "records": 15599
+    },
+    {
+      "file": "Streaming_History_Audio_2020_1.json",
+      "records": 6279
+    },
+    {
+      "file": "Streaming_History_Audio_2021.json",
+      "records": 15405
+    },
+    {
+      "file": "Streaming_History_Audio_2021_1.json",
+      "records": 4448
+    },
+    {
+      "file": "Streaming_History_Audio_2022.json",
+      "records": 15693
+    },
+    {
+      "file": "Streaming_History_Audio_2022_1.json",
+      "records": 3647
+    },
+    {
+      "file": "Streaming_History_Audio_2023.json",
+      "records": 16142
+    },
+    {
+      "file": "Streaming_History_Audio_2023_1.json",
+      "records": 1018
+    },
+    {
+      "file": "Streaming_History_Audio_2024.json",
+      "records": 16070
+    },
+    {
+      "file": "Streaming_History_Audio_2024_1.json",
+      "records": 3313
+    },
+    {
+      "file": "Streaming_History_Audio_2025.json",
+      "records": 16026
+    },
+    {
+      "file": "Streaming_History_Audio_2025_1.json",
+      "records": 3838
+    },
+    {
+      "file": "Streaming_History_Audio_2026.json",
+      "records": 8145
+    }
+  ]
+}
