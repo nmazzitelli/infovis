@@ -17,7 +17,10 @@ const csvOutputPath = path.join(
   "data",
   "generos_musicbrainz_sin_clasificar.csv",
 );
-const maxArtists = Number(process.env.MUSICBRAINZ_MAX_ARTISTS ?? 500);
+const maxArtists = Number(
+  process.env.MUSICBRAINZ_MAX_ARTISTS ?? Number.MAX_SAFE_INTEGER,
+);
+const artistsPerRequest = 10;
 const requestIntervalMilliseconds = 1_100;
 const userAgent =
   "infovis-student-project/1.0 (https://github.com/nmazzitelli/infovis)";
@@ -26,7 +29,9 @@ const normalizeName = (value) =>
   value
     .normalize("NFKD")
     .replaceAll(/[\u0300-\u036f]/g, "")
+    .replaceAll(/[^\p{L}\p{N}]+/gu, " ")
     .trim()
+    .replaceAll(/\s+/g, " ")
     .toLocaleLowerCase("es");
 
 const parseCsv = (text) => {
@@ -80,11 +85,22 @@ const csvCell = (value) => {
 const sleep = (milliseconds) =>
   new Promise((resolve) => setTimeout(resolve, milliseconds));
 
-const searchArtist = async (name, attempt = 1) => {
+const chunks = (values, size) => {
+  const result = [];
+  for (let index = 0; index < values.length; index += size) {
+    result.push(values.slice(index, index + size));
+  }
+  return result;
+};
+
+const searchArtists = async (names, attempt = 1) => {
+  const artistQuery = names
+    .map((name) => `artist:"${name.replaceAll('"', '\\"')}"`)
+    .join(" OR ");
   const query = new URLSearchParams({
-    query: `artist:"${name.replaceAll('"', '\\"')}"`,
+    query: artistQuery,
     fmt: "json",
-    limit: "5",
+    limit: "100",
   });
   const response = await fetch(
     `https://musicbrainz.org/ws/2/artist/?${query.toString()}`,
@@ -94,7 +110,7 @@ const searchArtist = async (name, attempt = 1) => {
   if ([429, 500, 502, 503, 504].includes(response.status) && attempt <= 6) {
     const retryAfter = Number(response.headers.get("retry-after") ?? attempt * 2);
     await sleep(Math.max(1, retryAfter) * 1_000);
-    return searchArtist(name, attempt + 1);
+    return searchArtists(names, attempt + 1);
   }
 
   if (!response.ok) {
@@ -261,41 +277,48 @@ const saveOutputs = async () => {
 };
 
 let queriedThisRun = 0;
-for (const artist of targetArtists) {
-  if (artist.lookup_status !== "not_queried") continue;
+const pendingArtists = targetArtists.filter(
+  (artist) => artist.lookup_status === "not_queried",
+);
 
-  const result = await searchArtist(artist.source_artist_name);
-  const candidates = result.artists ?? [];
-  const exactCandidates = candidates.filter(
-    (candidate) =>
-      normalizeName(candidate.name) === normalizeName(artist.source_artist_name),
+for (const batch of chunks(pendingArtists, artistsPerRequest)) {
+  const result = await searchArtists(
+    batch.map((artist) => artist.source_artist_name),
   );
-  const match = exactCandidates[0] ?? candidates[0];
+  const candidates = result.artists ?? [];
 
-  if (!match) {
-    artist.lookup_status = "not_found";
-    artist.match_method = "no_result";
-  } else {
-    artist.lookup_status = "matched";
-    artist.match_method = exactCandidates.length
-      ? "exact_normalized_name"
-      : "top_search_result";
-    artist.musicbrainz_artist_id = match.id;
-    artist.musicbrainz_artist_name = match.name;
-    artist.musicbrainz_score = Number(match.score ?? 0);
-    artist.musicbrainz_disambiguation = match.disambiguation ?? null;
-    artist.musicbrainz_tags = (match.tags ?? [])
-      .map((tag) => ({ name: tag.name, count: Number(tag.count ?? 0) }))
-      .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
-    artist.genre_candidate_tags = artist.musicbrainz_tags.filter(
-      (tag) => tag.count > 0,
+  for (const artist of batch) {
+    const exactCandidates = candidates.filter(
+      (candidate) =>
+        normalizeName(candidate.name) === normalizeName(artist.source_artist_name),
     );
+    const match = exactCandidates[0];
+
+    if (!match) {
+      artist.lookup_status = "not_found";
+      artist.match_method = "no_exact_batch_result";
+    } else {
+      artist.lookup_status = "matched";
+      artist.match_method = "exact_normalized_name";
+      artist.musicbrainz_artist_id = match.id;
+      artist.musicbrainz_artist_name = match.name;
+      artist.musicbrainz_score = Number(match.score ?? 0);
+      artist.musicbrainz_disambiguation = match.disambiguation ?? null;
+      artist.musicbrainz_tags = (match.tags ?? [])
+        .map((tag) => ({ name: tag.name, count: Number(tag.count ?? 0) }))
+        .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+      artist.genre_candidate_tags = artist.musicbrainz_tags.filter(
+        (tag) => tag.count > 0,
+      );
+    }
   }
 
-  queriedThisRun += 1;
-  if (queriedThisRun % 25 === 0) {
+  queriedThisRun += batch.length;
+  if (queriedThisRun % 100 === 0) {
     await saveOutputs();
-    console.log(`Consultados: ${queriedThisRun}/${targetArtists.length}`);
+    console.log(
+      `Nuevos consultados: ${queriedThisRun}/${pendingArtists.length}`,
+    );
   }
   await sleep(requestIntervalMilliseconds);
 }
