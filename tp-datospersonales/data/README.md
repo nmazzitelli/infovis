@@ -9,6 +9,7 @@ Historial personal de Spotify del 1 de diciembre de 2015 al 9 de agosto de 2026.
 - `artistas_generos_musicbrainz.json`: artistas y etiquetas originales de MusicBrainz, sin agrupar.
 - `generos_musicbrainz_sin_clasificar.csv`: las mismas etiquetas en formato tabular.
 - `generos_por_anio_flourish.csv`: horas anuales por macro-género para Flourish.
+- `artistas_por_anio_tableau.csv`: horas, reproducciones, canciones distintas y género por artista y año para Tableau.
 - `fuente_anonimizada/spotify_extended/`: 19 archivos JSON del historial extendido.
 
 Cada artista se asignó a un único macro-género; los casos sin etiquetas claras quedaron como `Sin clasificar`.
