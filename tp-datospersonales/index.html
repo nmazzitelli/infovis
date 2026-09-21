@@ -7,69 +7,99 @@
   <title>Mi historial de escucha en Spotify</title>
 
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      max-width: 900px;
+      max-width: 1100px;
       margin: 0 auto;
-      padding: 40px 20px;
+      padding: 48px 24px 64px;
       font-family: Arial, sans-serif;
-      line-height: 1.5;
+      font-size: 16px;
+      line-height: 1.55;
       color: #222;
     }
 
     h1 {
-      margin-bottom: 10px;
+      margin: 0 0 10px;
+      font-size: 38px;
+      line-height: 1.15;
     }
 
     h2 {
-      margin-bottom: 8px;
-      font-size: 28px;
+      margin: 0 0 8px;
+      font-size: 30px;
+      line-height: 1.2;
     }
 
     .introduccion {
-      margin-bottom: 40px;
+      max-width: 760px;
+      margin: 0;
+      font-size: 18px;
       color: #555;
     }
 
     .visualizacion {
-      margin: 50px 0;
+      margin: 64px 0;
     }
 
     .herramienta {
-      margin-top: 6px;
-      margin-bottom: 0;
-      font-size: 10px;
+      margin: 8px 0 0;
+      font-size: 11px;
       color: #888;
     }
 
     .descripcion {
-      margin-top: 0;
+      margin: 0 0 20px;
+      font-size: 17px;
       color: #555;
     }
 
     .conclusion {
-      margin-top: 18px;
+      margin: 24px 0 0;
       font-weight: bold;
     }
 
     .visualizacion > object {
       display: block;
-      width: 1000px;
-      height: 550px;
-      margin-top: 20px;
-      margin-bottom: -55px;
-      transform: scale(0.9);
-      transform-origin: top left;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1000 / 550;
+      margin: 20px 0 0;
     }
 
     .fuente {
-      margin-top: 8px;
+      margin: 8px 0 0;
       font-size: 12px;
       color: #666;
     }
 
     .datos {
-      margin-top: 20px;
+      margin: 18px 0 0;
       font-size: 14px;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    @media (max-width: 700px) {
+      body {
+        padding: 28px 16px 48px;
+      }
+
+      h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 26px;
+      }
+
+      .visualizacion {
+        margin: 48px 0;
+      }
     }
   </style>
 </head>
