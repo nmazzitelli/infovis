@@ -1,2 +1,7 @@
 # Archivos generados automáticamente por macOS
 .DS_Store
+
+# Credenciales locales
+.env
+.env.*
+!.env.example
