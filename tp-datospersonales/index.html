@@ -7,18 +7,45 @@
   <title>Mi historial de escucha en Spotify</title>
 
   <style>
+    :root {
+      --fondo: #f5f4f8;
+      --tarjeta: #ffffff;
+      --texto: #222222;
+      --texto-secundario: #66616f;
+      --acento: #6144cf;
+      --borde: #e4e0eb;
+    }
+
     * {
       box-sizing: border-box;
     }
 
+    html {
+      scroll-behavior: smooth;
+      background: var(--fondo);
+    }
+
     body {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 48px 24px 64px;
+      margin: 0;
       font-family: Arial, sans-serif;
       font-size: 16px;
       line-height: 1.55;
-      color: #222;
+      color: var(--texto);
+      background: var(--fondo);
+    }
+
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    .encabezado {
+      padding: 42px 44px;
+      color: #fff;
+      background: linear-gradient(135deg, #4930ad 0%, #7457df 100%);
+      border-radius: 20px;
+      box-shadow: 0 16px 36px rgba(66, 43, 151, 0.18);
     }
 
     h1 {
@@ -37,23 +64,63 @@
       max-width: 760px;
       margin: 0;
       font-size: 18px;
-      color: #555;
+      color: rgba(255, 255, 255, 0.86);
+    }
+
+    .indice {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 26px;
+    }
+
+    .indice a {
+      padding: 8px 13px;
+      color: #fff;
+      font-size: 14px;
+      font-weight: bold;
+      text-decoration: none;
+      background: rgba(255, 255, 255, 0.12);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      border-radius: 999px;
+      transition: background-color 160ms ease, transform 160ms ease;
+    }
+
+    .indice a:hover,
+    .indice a:focus-visible {
+      background: rgba(255, 255, 255, 0.22);
+      transform: translateY(-1px);
     }
 
     .visualizacion {
-      margin: 64px 0;
+      margin: 34px 0;
+      padding: 32px;
+      background: var(--tarjeta);
+      border: 1px solid var(--borde);
+      border-radius: 18px;
+      box-shadow: 0 8px 24px rgba(42, 34, 67, 0.06);
+      scroll-margin-top: 24px;
+    }
+
+    .seccion-etiqueta {
+      margin: 0 0 16px;
+      color: var(--acento);
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
     }
 
     .herramienta {
       margin: 8px 0 0;
       font-size: 11px;
-      color: #888;
+      color: #8b8693;
     }
 
     .descripcion {
       margin: 0 0 20px;
       font-size: 17px;
-      color: #555;
+      color: var(--texto-secundario);
     }
 
     .conclusion {
@@ -72,7 +139,7 @@
     .fuente {
       margin: 8px 0 0;
       font-size: 12px;
-      color: #666;
+      color: var(--texto-secundario);
     }
 
     .datos {
@@ -84,9 +151,19 @@
       max-width: 100%;
     }
 
+    a {
+      color: var(--acento);
+      text-underline-offset: 3px;
+    }
+
     @media (max-width: 700px) {
-      body {
+      main {
         padding: 28px 16px 48px;
+      }
+
+      .encabezado {
+        padding: 30px 24px;
+        border-radius: 16px;
       }
 
       h1 {
@@ -98,7 +175,8 @@
       }
 
       .visualizacion {
-        margin: 48px 0;
+        margin: 24px 0;
+        padding: 22px;
       }
     }
   </style>
@@ -106,16 +184,25 @@
 
 <body>
   <main>
-    <header>
+    <header class="encabezado">
       <h1>Mi historial de escucha en Spotify</h1>
 
       <p class="introduccion">
         Una exploración visual de mis hábitos musicales a partir de los
         datos de reproducción descargados de Spotify.
       </p>
+
+      <nav class="indice" aria-label="Índice de visualizaciones">
+        <a href="#horas-por-anio">Horas por año</a>
+        <a href="#momentos">Momentos de escucha</a>
+        <a href="#generos">Géneros</a>
+        <a href="#artistas">Artistas</a>
+      </nav>
     </header>
 
-    <section class="visualizacion">
+    <section class="visualizacion" id="horas-por-anio">
+      <p class="seccion-etiqueta">01 · Evolución anual</p>
+
       <div style="min-height:436px" id="datawrapper-vis-ygTKn">
         <script
           type="text/javascript"
@@ -136,7 +223,9 @@
       <p class="herramienta">Visualización realizada con Datawrapper</p>
     </section>
 
-    <section class="visualizacion">
+    <section class="visualizacion" id="momentos">
+      <p class="seccion-etiqueta">02 · Momentos de escucha</p>
+
       <h2>¿En qué momentos de la semana escucho más música?</h2>
 
       <p class="descripcion">
@@ -164,7 +253,9 @@
       </p>
     </section>
 
-    <section class="visualizacion">
+    <section class="visualizacion" id="generos">
+      <p class="seccion-etiqueta">03 · Evolución por género</p>
+
       <div
         class="flourish-embed flourish-chart"
         data-src="visualisation/30319472">
@@ -182,7 +273,9 @@
       <p class="herramienta">Visualización realizada con Flourish</p>
     </section>
 
-    <section class="visualizacion">
+    <section class="visualizacion" id="artistas">
+      <p class="seccion-etiqueta">04 · Artistas más escuchados</p>
+
       <div
         class="tableauPlaceholder"
         id="viz1790012599707"
