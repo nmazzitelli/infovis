@@ -8,12 +8,12 @@
 
   <style>
     :root {
-      --fondo: #f5f4f8;
-      --tarjeta: #ffffff;
-      --texto: #222222;
-      --texto-secundario: #66616f;
-      --acento: #6144cf;
-      --borde: #e4e0eb;
+      --fondo: #efede8;
+      --papel: #fffcf6;
+      --tinta: #24212a;
+      --texto-secundario: #625d68;
+      --acento: #6849c8;
+      --borde: #d8d1c6;
     }
 
     * {
@@ -30,33 +30,80 @@
       font-family: Arial, sans-serif;
       font-size: 16px;
       line-height: 1.55;
-      color: var(--texto);
-      background: var(--fondo);
+      color: var(--tinta);
+      background:
+        linear-gradient(rgba(78, 65, 96, 0.035) 1px, transparent 1px),
+        var(--fondo);
+      background-size: 100% 28px;
     }
 
     main {
-      max-width: 1100px;
+      max-width: 1160px;
       margin: 0 auto;
-      padding: 32px 24px 64px;
+      padding: 30px 24px 72px;
     }
 
     .encabezado {
-      padding: 42px 44px;
+      position: relative;
+      overflow: hidden;
+      padding: 48px 48px 44px;
       color: #fff;
-      background: linear-gradient(135deg, #4930ad 0%, #7457df 100%);
-      border-radius: 20px;
-      box-shadow: 0 16px 36px rgba(66, 43, 151, 0.18);
+      background: #27222f;
+      border: 1px solid #1c1822;
+      border-radius: 6px;
+    }
+
+    .encabezado::after {
+      position: absolute;
+      top: -68px;
+      right: 28px;
+      width: 340px;
+      aspect-ratio: 1;
+      content: "";
+      background:
+        radial-gradient(circle at center, #b6b0be 0 2%, #211d27 2.5% 15%, #0e0c12 15.5% 18%, transparent 18.5%),
+        repeating-radial-gradient(circle at center, #100e14 0 4px, #282430 5px 8px);
+      border: 7px solid #0d0b10;
+      border-radius: 50%;
+      box-shadow: 0 20px 34px rgba(0, 0, 0, 0.34), inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+      opacity: 1;
+      transform: rotate(-10deg);
+    }
+
+    .encabezado > * {
+      position: relative;
+      z-index: 1;
+    }
+
+    .encabezado h1,
+    .encabezado .introduccion,
+    .encabezado .indice,
+    .encabezado .sobrelinea {
+      max-width: 680px;
+    }
+
+    .sobrelinea {
+      margin: 0 0 14px;
+      color: #f0b65c;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
     }
 
     h1 {
       margin: 0 0 10px;
-      font-size: 38px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(38px, 5vw, 54px);
+      font-weight: normal;
       line-height: 1.15;
     }
 
     h2 {
       margin: 0 0 8px;
-      font-size: 30px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(28px, 3vw, 36px);
+      font-weight: normal;
       line-height: 1.2;
     }
 
@@ -70,41 +117,41 @@
     .indice {
       display: flex;
       flex-wrap: wrap;
-      gap: 10px;
-      margin-top: 26px;
+      gap: 0 18px;
+      margin-top: 30px;
     }
 
     .indice a {
-      padding: 8px 13px;
+      padding: 3px 0;
       color: #fff;
       font-size: 14px;
       font-weight: bold;
       text-decoration: none;
-      background: rgba(255, 255, 255, 0.12);
-      border: 1px solid rgba(255, 255, 255, 0.3);
-      border-radius: 999px;
-      transition: background-color 160ms ease, transform 160ms ease;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+      transition: color 160ms ease, border-color 160ms ease;
     }
 
     .indice a:hover,
     .indice a:focus-visible {
-      background: rgba(255, 255, 255, 0.22);
-      transform: translateY(-1px);
+      color: #f0b65c;
+      border-color: #f0b65c;
     }
 
     .visualizacion {
-      margin: 34px 0;
-      padding: 32px;
-      background: var(--tarjeta);
+      --color-seccion: var(--acento);
+      margin: 30px 0;
+      padding: 38px;
+      background: var(--papel);
       border: 1px solid var(--borde);
-      border-radius: 18px;
-      box-shadow: 0 8px 24px rgba(42, 34, 67, 0.06);
+      border-top: 5px solid var(--color-seccion);
+      border-radius: 6px;
+      box-shadow: 6px 7px 0 rgba(74, 62, 88, 0.07);
       scroll-margin-top: 24px;
     }
 
     .seccion-etiqueta {
       margin: 0 0 16px;
-      color: var(--acento);
+      color: var(--color-seccion);
       font-size: 12px;
       font-weight: bold;
       letter-spacing: 0.08em;
@@ -112,9 +159,10 @@
     }
 
     .herramienta {
-      margin: 8px 0 0;
+      margin: 12px 0 0;
       font-size: 11px;
-      color: #8b8693;
+      color: #837b88;
+      letter-spacing: 0.02em;
     }
 
     .descripcion {
@@ -162,8 +210,13 @@
       }
 
       .encabezado {
-        padding: 30px 24px;
-        border-radius: 16px;
+        padding: 34px 26px;
+      }
+
+      .encabezado::after {
+        top: -78px;
+        right: -100px;
+        width: 280px;
       }
 
       h1 {
@@ -176,7 +229,7 @@
 
       .visualizacion {
         margin: 24px 0;
-        padding: 22px;
+        padding: 26px 22px;
       }
     }
   </style>
@@ -185,6 +238,7 @@
 <body>
   <main>
     <header class="encabezado">
+      <p class="sobrelinea">Archivo personal de escucha · 2017—2025</p>
       <h1>Mi historial de escucha en Spotify</h1>
 
       <p class="introduccion">
@@ -201,7 +255,7 @@
     </header>
 
     <section class="visualizacion" id="horas-por-anio">
-      <p class="seccion-etiqueta">01 · Evolución anual</p>
+      <p class="seccion-etiqueta">Evolución anual</p>
 
       <div style="min-height:436px" id="datawrapper-vis-ygTKn">
         <script
@@ -224,7 +278,7 @@
     </section>
 
     <section class="visualizacion" id="momentos">
-      <p class="seccion-etiqueta">02 · Momentos de escucha</p>
+      <p class="seccion-etiqueta">Momentos de escucha</p>
 
       <h2>¿En qué momentos de la semana escucho más música?</h2>
 
@@ -254,7 +308,7 @@
     </section>
 
     <section class="visualizacion" id="generos">
-      <p class="seccion-etiqueta">03 · Evolución por género</p>
+      <p class="seccion-etiqueta">Evolución por género</p>
 
       <div
         class="flourish-embed flourish-chart"
@@ -274,7 +328,7 @@
     </section>
 
     <section class="visualizacion" id="artistas">
-      <p class="seccion-etiqueta">04 · Artistas más escuchados</p>
+      <p class="seccion-etiqueta">Artistas más escuchados</p>
 
       <div
         class="tableauPlaceholder"
