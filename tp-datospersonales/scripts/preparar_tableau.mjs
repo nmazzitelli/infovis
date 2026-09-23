@@ -109,6 +109,12 @@ const csvCell = (value) => {
 
 const categoryForTag = (tagName) => {
   const normalized = String(tagName ?? "").toLocaleLowerCase("es").trim();
+  if (/\b(indie dance|indietronica|indie electronic)\b/.test(normalized)) {
+    return "Electrónica y dance";
+  }
+  if (/\b(alternative hip[- ]hop|indie hip[- ]hop)\b/.test(normalized)) {
+    return "Hip-hop y rap";
+  }
   if (
     /\b(progressive house|melodic house|minimal house|tech house)\b/.test(
       normalized,

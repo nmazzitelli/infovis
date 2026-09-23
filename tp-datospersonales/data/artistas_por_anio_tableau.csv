@@ -88,7 +88,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2017,Protean Remedy,Sin clasificar,0.721556,10,7,87
 2017,Calle 13,Hip-hop y rap,0.701408,27,4,88
 2017,Ex Somniac,Sin clasificar,0.690222,11,6,89
-2017,Wanakin,Sin clasificar,0.685649,21,1,90
+2017,Wanakin,Hip-hop y rap,0.685649,21,1,90
 2017,Alexio,Urbano latino,0.665318,31,3,91
 2017,Marco Carola,Electrónica y dance,0.645411,11,1,92
 2017,Mark Eternal,Sin clasificar,0.643556,9,6,93
@@ -133,7 +133,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2017,Patrick Topping,Electrónica y dance,0.332171,4,2,132
 2017,Minebender,Sin clasificar,0.330000,5,1,133
 2017,ECKO,Hip-hop y rap,0.323834,19,3,134
-2017,Darius Syrossian,Sin clasificar,0.323571,4,3,135
+2017,Darius Syrossian,Electrónica y dance,0.323571,4,3,135
 2017,Patricio Rey y sus Redonditos de Ricota,Rock y alternativo,0.322611,6,6,136
 2017,The Doors,Rock y alternativo,0.305083,9,8,137
 2017,U2,Rock y alternativo,0.303238,12,7,138
@@ -149,7 +149,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2017,Justin Quiles,Urbano latino,0.252877,7,6,148
 2017,Round Table Knights,Electrónica y dance,0.251823,4,1,149
 2017,Nirvana,Rock y alternativo,0.245141,15,4,150
-2017,De La Calle,Sin clasificar,0.244973,17,8,151
+2017,De La Calle,Urbano latino,0.244973,17,8,151
 2017,Joaquín Sabina,Rock y alternativo,0.241325,11,7,152
 2017,Kodigo,Sin clasificar,0.237091,7,2,153
 2017,MC Kevinho,Sin clasificar,0.232997,9,3,154
@@ -305,7 +305,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2017,Di Chiara Brothers,Electrónica y dance,0.047847,1,1,304
 2017,Maggie Lindemann,Rock y alternativo,0.047415,1,1,305
 2017,David Hazeltine,"R&B, soul, funk y jazz",0.046814,2,1,306
-2017,La Champions Liga,Sin clasificar,0.046814,2,2,307
+2017,La Champions Liga,Cumbia y tropical,0.046814,2,2,307
 2017,The Who,Rock y alternativo,0.046585,1,1,308
 2017,"Tito ""El Bambino""",Urbano latino,0.046262,2,1,309
 2017,The Handsome Family,Otros,0.046248,1,1,310
@@ -359,7 +359,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2017,Mary J. Blige,"R&B, soul, funk y jazz",0.024329,1,1,358
 2017,DJ Nelson,Urbano latino,0.023891,1,1,359
 2017,Scorpions,Rock y alternativo,0.023542,2,1,360
-2017,Papichamp,Sin clasificar,0.023123,3,1,361
+2017,Papichamp,Urbano latino,0.023123,3,1,361
 2017,Eric Bibb,Otros,0.021770,3,1,362
 2017,El Cuarteto De Nos,Rock y alternativo,0.020520,1,1,363
 2017,KALEO,Rock y alternativo,0.020421,2,1,364
@@ -422,7 +422,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2017,Kinder Malo,Hip-hop y rap,0.009185,1,1,421
 2017,Los Reggaetronics,Sin clasificar,0.009104,1,1,422
 2017,Ronan Hardiman,Otros,0.009023,1,1,423
-2017,DJ Yayo,Sin clasificar,0.009017,1,1,424
+2017,DJ Yayo,Urbano latino,0.009017,1,1,424
 2017,Freddie King,Otros,0.008985,1,1,425
 2017,Helado Negro,Rock y alternativo,0.008817,1,1,426
 2017,Alice Lamb,Sin clasificar,0.008772,1,1,427
@@ -471,7 +471,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2017,Cream,Rock y alternativo,0.005154,2,1,470
 2017,Livgren,Sin clasificar,0.005154,3,1,471
 2017,Muse,Rock y alternativo,0.004889,2,2,472
-2017,Angel Y Khriz,Sin clasificar,0.004624,1,1,473
+2017,Angel Y Khriz,Urbano latino,0.004624,1,1,473
 2017,John Mayall & The Bluesbreakers,Rock y alternativo,0.004624,1,1,474
 2017,Arbolito,Sin clasificar,0.004392,1,1,475
 2017,Jade,Electrónica y dance,0.004378,1,1,476
@@ -560,7 +560,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2017,Soundgarden,Rock y alternativo,0.001309,1,1,559
 2017,Magnate Y Valentino,Sin clasificar,0.001290,1,1,560
 2017,Bell Biv DeVoe,Hip-hop y rap,0.001283,1,1,561
-2017,El Reja,Sin clasificar,0.001277,1,1,562
+2017,El Reja,Cumbia y tropical,0.001277,1,1,562
 2017,Pedro Jesus,Sin clasificar,0.001193,1,1,563
 2017,Yo Gotti,Hip-hop y rap,0.001180,1,1,564
 2017,Syn Cole,Sin clasificar,0.001161,1,1,565
@@ -642,7 +642,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2017,Elton John,Rock y alternativo,0.000393,1,1,641
 2017,Vance Joy,Rock y alternativo,0.000387,1,1,642
 2017,Mym,Sin clasificar,0.000386,1,1,643
-2017,Marama,Sin clasificar,0.000367,1,1,644
+2017,Marama,Cumbia y tropical,0.000367,1,1,644
 2017,Frankie Knuckles,Electrónica y dance,0.000329,1,1,645
 2017,Yoskar Sarante,Cumbia y tropical,0.000326,1,1,646
 2017,Eddie Money,Rock y alternativo,0.000322,1,1,647
@@ -798,7 +798,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Sam Paganini,Electrónica y dance,0.689636,27,1,119
 2018,Eminem,Hip-hop y rap,0.687103,22,10,120
 2018,Jory Boy,Urbano latino,0.686978,30,3,121
-2018,Grupo Carabo,Sin clasificar,0.671101,22,2,122
+2018,Grupo Carabo,Cumbia y tropical,0.671101,22,2,122
 2018,Don Omar,Urbano latino,0.667129,17,4,123
 2018,Latmun,Electrónica y dance,0.657286,19,3,124
 2018,The Beatles,Rock y alternativo,0.654704,32,18,125
@@ -827,14 +827,14 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Deborah de Luca,Electrónica y dance,0.491833,16,9,148
 2018,Chris Lake,Electrónica y dance,0.476296,16,1,149
 2018,Bontan,Electrónica y dance,0.469684,14,2,150
-2018,Sak Noel,Sin clasificar,0.463267,12,1,151
+2018,Sak Noel,Electrónica y dance,0.463267,12,1,151
 2018,David Guetta,Electrónica y dance,0.455322,26,20,152
 2018,Wave Sound Group,Sin clasificar,0.451384,9,3,153
 2018,Juan Rios,Hip-hop y rap,0.450291,14,3,154
 2018,Alan Fitzpatrick,Electrónica y dance,0.450189,27,1,155
 2018,Ocean Bank,Sin clasificar,0.444938,7,3,156
 2018,Arcangel & De La Ghetto,Urbano latino,0.441396,32,1,157
-2018,Rayito Colombiano,Sin clasificar,0.430171,15,9,158
+2018,Rayito Colombiano,Cumbia y tropical,0.430171,15,9,158
 2018,Made in M,Hip-hop y rap,0.416302,17,4,159
 2018,Kaiserdisco,Electrónica y dance,0.415336,7,1,160
 2018,George Thorogood,Rock y alternativo,0.413745,15,2,161
@@ -848,7 +848,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Babasonicos,Rock y alternativo,0.368886,10,9,169
 2018,Pacho El Antifeka,Urbano latino,0.365131,8,1,170
 2018,David Gilmour,Rock y alternativo,0.364477,5,5,171
-2018,De La Calle,Sin clasificar,0.364335,14,6,172
+2018,De La Calle,Urbano latino,0.364335,14,6,172
 2018,Dayme y El High,Urbano latino,0.361397,29,1,173
 2018,Bjarki,Electrónica y dance,0.354678,12,2,174
 2018,LEON (Italy),Electrónica y dance,0.350780,5,1,175
@@ -864,10 +864,10 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Robbie Williams,Pop,0.308493,11,4,185
 2018,Pacific Ocean Samples,Sin clasificar,0.307111,6,3,186
 2018,Danny Serrano,Electrónica y dance,0.305069,3,1,187
-2018,Mak Donal,Sin clasificar,0.303237,7,5,188
+2018,Mak Donal,Urbano latino,0.303237,7,5,188
 2018,Shiba San,Electrónica y dance,0.301513,7,1,189
 2018,FPR,Sin clasificar,0.297194,10,10,190
-2018,Format:B,Sin clasificar,0.297112,13,2,191
+2018,Format:B,Electrónica y dance,0.297112,13,2,191
 2018,Bryant Myer,Sin clasificar,0.284707,4,1,192
 2018,Eladio Carrion,Urbano latino,0.281834,18,4,193
 2018,"Wise ""the Gold Pen""",Urbano latino,0.278095,7,1,194
@@ -915,7 +915,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Viejas Locas,Rock y alternativo,0.195702,6,3,236
 2018,Kale “La Evolución”,Urbano latino,0.194880,5,1,237
 2018,Space of Waves,Sin clasificar,0.190135,4,2,238
-2018,Papichamp,Sin clasificar,0.187565,6,3,239
+2018,Papichamp,Urbano latino,0.187565,6,3,239
 2018,Sampling XL,Sin clasificar,0.186568,5,2,240
 2018,Eloy,Rock y alternativo,0.186462,8,3,241
 2018,Enrico Sangiuliano,Electrónica y dance,0.183705,4,4,242
@@ -924,7 +924,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,The Sound Designers,Sin clasificar,0.179847,9,2,245
 2018,Divididos,Rock y alternativo,0.177674,9,4,246
 2018,IBRA,Electrónica y dance,0.174863,6,1,247
-2018,Stainless,Sin clasificar,0.174825,10,1,248
+2018,Stainless,Electrónica y dance,0.174825,10,1,248
 2018,Manuel Turizo,Urbano latino,0.172774,7,2,249
 2018,Dr. Drumah,Sin clasificar,0.171292,5,1,250
 2018,chief.,Hip-hop y rap,0.171249,4,1,251
@@ -952,7 +952,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Amar Azul,Cumbia y tropical,0.138224,4,3,273
 2018,Andrea Sannino,Sin clasificar,0.135596,2,1,274
 2018,Cauty,Urbano latino,0.135122,3,1,275
-2018,Christian Smith,Sin clasificar,0.134715,1,1,276
+2018,Christian Smith,Electrónica y dance,0.134715,1,1,276
 2018,Liu,Electrónica y dance,0.134096,8,1,277
 2018,Wolfine,Urbano latino,0.133294,6,2,278
 2018,Ranji,Electrónica y dance,0.131409,3,2,279
@@ -974,7 +974,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Rvssian,Hip-hop y rap,0.112691,31,3,295
 2018,La Sonora Dinamita,Cumbia y tropical,0.112359,2,2,296
 2018,Mac DeMarco,Rock y alternativo,0.111129,5,3,297
-2018,El Reja,Sin clasificar,0.109342,3,3,298
+2018,El Reja,Cumbia y tropical,0.109342,3,3,298
 2018,Anitta,Pop,0.107509,4,1,299
 2018,El Pepo,Sin clasificar,0.106137,8,6,300
 2018,El Dipy,Cumbia y tropical,0.104178,6,4,301
@@ -995,8 +995,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,El Villano,Sin clasificar,0.094332,8,6,316
 2018,Frook,Sin clasificar,0.093973,3,2,317
 2018,Taj Mahal,Otros,0.093564,2,2,318
-2018,Zato DJ,Sin clasificar,0.093090,20,10,319
-2018,DJ Yayo,Sin clasificar,0.092382,7,4,320
+2018,Zato DJ,Urbano latino,0.093090,20,10,319
+2018,DJ Yayo,Urbano latino,0.092382,7,4,320
 2018,"quickly, quickly",Hip-hop y rap,0.092270,1,1,321
 2018,Bizarrap,Hip-hop y rap,0.091661,7,3,322
 2018,Jon Ososki,Sin clasificar,0.090649,1,1,323
@@ -1022,7 +1022,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Adam Beyer,Electrónica y dance,0.076184,3,1,343
 2018,Jambao,Sin clasificar,0.075889,2,1,344
 2018,Psalm Trees,Hip-hop y rap,0.075480,3,1,345
-2018,Neil Smallridge,Sin clasificar,0.075199,1,1,346
+2018,Neil Smallridge,Electrónica y dance,0.075199,1,1,346
 2018,La Nueva Luna,Cumbia y tropical,0.075104,1,1,347
 2018,OMI,Pop,0.074195,2,2,348
 2018,Pusho,Urbano latino,0.073756,3,3,349
@@ -1042,7 +1042,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Black Caviar,Sin clasificar,0.068003,3,2,363
 2018,The Dave Brubeck Quartet,"R&B, soul, funk y jazz",0.067693,1,1,364
 2018,James Heather,Sin clasificar,0.067485,1,1,365
-2018,Wanakin,Sin clasificar,0.067146,5,5,366
+2018,Wanakin,Hip-hop y rap,0.067146,5,5,366
 2018,Edward Maya,Electrónica y dance,0.066591,2,1,367
 2018,Viral,Sin clasificar,0.065905,3,2,368
 2018,Shakira,Pop,0.065812,5,3,369
@@ -1065,7 +1065,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,MC Fioti,"R&B, soul, funk y jazz",0.059441,1,1,386
 2018,Aso,Hip-hop y rap,0.058915,2,1,387
 2018,Daft Punk,Electrónica y dance,0.058656,1,1,388
-2018,Josh Wink,Sin clasificar,0.058557,2,1,389
+2018,Josh Wink,Electrónica y dance,0.058557,2,1,389
 2018,SwuM,Hip-hop y rap,0.058366,3,3,390
 2018,Trebol Clan,Urbano latino,0.058362,2,2,391
 2018,Hakka Mix,Sin clasificar,0.057771,6,1,392
@@ -1094,7 +1094,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,The Alabama Lovesnakes,Sin clasificar,0.049016,1,1,415
 2018,Yao Cabrera,Sin clasificar,0.048487,3,1,416
 2018,Harris Cole,Hip-hop y rap,0.048333,1,1,417
-2018,Marama,Sin clasificar,0.047658,3,3,418
+2018,Marama,Cumbia y tropical,0.047658,3,3,418
 2018,Beth Yen,Sin clasificar,0.047169,1,1,419
 2018,B-Side,Hip-hop y rap,0.047161,1,1,420
 2018,Sugi.wa,Hip-hop y rap,0.046982,1,1,421
@@ -1113,7 +1113,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Moux,Otros,0.044489,1,1,434
 2018,YoungBoy Never Broke Again,Hip-hop y rap,0.044444,1,1,435
 2018,Melodiesinfonie,Hip-hop y rap,0.043651,1,1,436
-2018,La Champions Liga,Sin clasificar,0.043474,17,4,437
+2018,La Champions Liga,Cumbia y tropical,0.043474,17,4,437
 2018,Randy,Urbano latino,0.043339,2,2,438
 2018,DJ Derelict,Sin clasificar,0.042570,1,1,439
 2018,The Hives,Rock y alternativo,0.042544,1,1,440
@@ -1126,7 +1126,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Solardo,Sin clasificar,0.040624,2,1,447
 2018,Mirco Caruso,Electrónica y dance,0.040380,2,2,448
 2018,Lil Wayne,Hip-hop y rap,0.040346,2,1,449
-2018,Tambó Tambó,Sin clasificar,0.040281,1,1,450
+2018,Tambó Tambó,Cumbia y tropical,0.040281,1,1,450
 2018,Dani Wilde,Otros,0.039800,1,1,451
 2018,Ł3śł3ý,Sin clasificar,0.039725,7,2,452
 2018,Hollen,Sin clasificar,0.039409,2,2,453
@@ -1589,7 +1589,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2018,Black Eyed Peas,Hip-hop y rap,0.000246,1,1,910
 2018,Tony Dize,Urbano latino,0.000240,1,1,911
 2018,Rk El Loquillo,Sin clasificar,0.000237,1,1,912
-2018,Angel Y Khriz,Sin clasificar,0.000186,1,1,913
+2018,Angel Y Khriz,Urbano latino,0.000186,1,1,913
 2018,Deep Rain Sampling,Sin clasificar,0.000185,1,1,914
 2018,Glenn Close,Sin clasificar,0.000121,1,1,915
 2018,DJ Cowen Remix,Sin clasificar,0.000044,1,1,916
@@ -1722,10 +1722,10 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Shiba San,Electrónica y dance,0.498048,16,4,126
 2019,Latmun,Electrónica y dance,0.496303,19,2,127
 2019,Harrison BDP,Electrónica y dance,0.494926,13,2,128
-2019,Bryant M.,Sin clasificar,0.493490,8,1,129
+2019,Bryant M.,Urbano latino,0.493490,8,1,129
 2019,Arctic Monkeys,Rock y alternativo,0.490649,8,8,130
 2019,VITIZE,Electrónica y dance,0.481992,24,2,131
-2019,Briant Mayers,Sin clasificar,0.481266,9,1,132
+2019,Briant Mayers,Urbano latino,0.481266,9,1,132
 2019,Matador,Electrónica y dance,0.472225,14,2,133
 2019,Billie Eilish,Pop,0.471084,16,9,134
 2019,Rafael Cerato,Electrónica y dance,0.462871,21,1,135
@@ -1733,8 +1733,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Claptone,Electrónica y dance,0.444819,15,8,137
 2019,Chiky Dee Jay,Urbano latino,0.441282,14,3,138
 2019,Adam Beyer,Electrónica y dance,0.438142,8,2,139
-2019,Josh Wink,Sin clasificar,0.426269,21,1,140
-2019,PARTY SHIRT,Sin clasificar,0.424328,11,2,141
+2019,Josh Wink,Electrónica y dance,0.426269,21,1,140
+2019,PARTY SHIRT,Electrónica y dance,0.424328,11,2,141
 2019,Jamby El Favo,Urbano latino,0.420604,22,2,142
 2019,Chaim,Electrónica y dance,0.411757,6,1,143
 2019,Deborah de Luca,Electrónica y dance,0.408909,13,5,144
@@ -1755,9 +1755,9 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Amelie Lens,Electrónica y dance,0.333161,9,4,159
 2019,Ñengo Flow,Urbano latino,0.320937,18,4,160
 2019,Duki,Hip-hop y rap,0.319518,20,9,161
-2019,DJ Cronox,Sin clasificar,0.317358,7,6,162
+2019,DJ Cronox,Urbano latino,0.317358,7,6,162
 2019,Tujamo,Electrónica y dance,0.316772,9,1,163
-2019,Dura DJ,Sin clasificar,0.315370,12,7,164
+2019,Dura DJ,Urbano latino,0.315370,12,7,164
 2019,Michael Jackson,Pop,0.312932,11,6,165
 2019,FPR,Sin clasificar,0.310355,14,10,166
 2019,damaa.beats,Hip-hop y rap,0.309947,6,1,167
@@ -1775,15 +1775,15 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Megadeth,Metal,0.279264,16,6,179
 2019,Dimitri Vegas & Like Mike,Electrónica y dance,0.276863,18,5,180
 2019,Mark B.,Urbano latino,0.274773,29,3,181
-2019,GAWP,Sin clasificar,0.272245,13,3,182
-2019,Ilario Alicante,Sin clasificar,0.271850,2,1,183
-2019,Andrew Meller,Sin clasificar,0.270737,10,2,184
+2019,GAWP,Electrónica y dance,0.272245,13,3,182
+2019,Ilario Alicante,Electrónica y dance,0.271850,2,1,183
+2019,Andrew Meller,Electrónica y dance,0.270737,10,2,184
 2019,Nico Bertone,Sin clasificar,0.270369,7,1,185
 2019,The Deli,Hip-hop y rap,0.269567,7,1,186
 2019,Hydroxyde,Sin clasificar,0.265401,12,1,187
 2019,Anuel 2ble,Sin clasificar,0.264949,5,1,188
 2019,Stefano Noferini,Electrónica y dance,0.263942,5,1,189
-2019,Mak Donal,Sin clasificar,0.263498,20,7,190
+2019,Mak Donal,Urbano latino,0.263498,20,7,190
 2019,DICC,Hip-hop y rap,0.260769,11,2,191
 2019,Dayme y El High,Urbano latino,0.260614,26,6,192
 2019,Climbers,Electrónica y dance,0.259340,10,1,193
@@ -1814,7 +1814,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Homer El Mero Mero,Sin clasificar,0.226584,24,4,218
 2019,Trap Capos,Urbano latino,0.225682,16,4,219
 2019,ZetaDJ,Sin clasificar,0.225394,11,5,220
-2019,Hannah Wants,Sin clasificar,0.224827,5,1,221
+2019,Hannah Wants,Electrónica y dance,0.224827,5,1,221
 2019,Kinder Malo,Hip-hop y rap,0.223757,11,4,222
 2019,Psalm Trees,Hip-hop y rap,0.221106,9,1,223
 2019,Charlotte de Witte,Electrónica y dance,0.220053,11,3,224
@@ -1835,7 +1835,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Gregory Porter,"R&B, soul, funk y jazz",0.186550,3,1,239
 2019,Bjarki,Electrónica y dance,0.184536,5,2,240
 2019,Mozthaza,Sin clasificar,0.182498,6,3,241
-2019,Rayito Colombiano,Sin clasificar,0.181229,6,5,242
+2019,Rayito Colombiano,Cumbia y tropical,0.181229,6,5,242
 2019,Sou El Flotador,Urbano latino,0.176442,10,1,243
 2019,Philanthrope,Hip-hop y rap,0.168291,8,1,244
 2019,Mario Luis,Cumbia y tropical,0.167884,3,3,245
@@ -1847,7 +1847,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Gilda,Cumbia y tropical,0.154849,8,4,251
 2019,Nymano,Hip-hop y rap,0.151424,7,1,252
 2019,Chemical Surf,Electrónica y dance,0.151122,12,2,253
-2019,Stainless,Sin clasificar,0.148240,5,1,254
+2019,Stainless,Electrónica y dance,0.148240,5,1,254
 2019,Javier Bussola,Sin clasificar,0.144608,2,2,255
 2019,Papu DJ,Urbano latino,0.143967,4,2,256
 2019,Pedro Capó,Pop,0.143355,4,1,257
@@ -1855,12 +1855,12 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,System Of A Down,Metal,0.141855,4,3,259
 2019,Julian Jeweil,Electrónica y dance,0.139694,5,1,260
 2019,Tenova,Sin clasificar,0.139616,10,1,261
-2019,Neil Smallridge,Sin clasificar,0.136346,4,1,262
+2019,Neil Smallridge,Electrónica y dance,0.136346,4,1,262
 2019,Radiohead,Rock y alternativo,0.134659,2,2,263
-2019,DJ Yayo,Sin clasificar,0.131201,8,3,264
+2019,DJ Yayo,Urbano latino,0.131201,8,3,264
 2019,Amount,Sin clasificar,0.129283,1,1,265
 2019,ChiChi Peralta,Cumbia y tropical,0.128091,6,6,266
-2019,Blaster DJ,Sin clasificar,0.126782,6,1,267
+2019,Blaster DJ,Urbano latino,0.126782,6,1,267
 2019,Master C & J,Sin clasificar,0.125511,8,1,268
 2019,Dale Howard,Electrónica y dance,0.124858,1,1,269
 2019,Calle 13,Hip-hop y rap,0.124827,4,2,270
@@ -1903,7 +1903,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Example,Hip-hop y rap,0.096523,4,1,307
 2019,Hank Mobley,"R&B, soul, funk y jazz",0.095995,2,1,308
 2019,Surditto DJ,Sin clasificar,0.095803,4,1,309
-2019,Melé,Sin clasificar,0.095244,2,1,310
+2019,Melé,Electrónica y dance,0.095244,2,1,310
 2019,The Sandbox,Sin clasificar,0.094814,4,1,311
 2019,Oliver Heldens,Electrónica y dance,0.094447,2,2,312
 2019,Julieta Venegas,Rock y alternativo,0.093693,3,1,313
@@ -1914,7 +1914,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,YSY A,Urbano latino,0.092447,10,3,318
 2019,Ke Personajes,Cumbia y tropical,0.092273,4,2,319
 2019,Tomppabeats,Hip-hop y rap,0.091812,5,4,320
-2019,Sak Noel,Sin clasificar,0.090314,5,1,321
+2019,Sak Noel,Electrónica y dance,0.090314,5,1,321
 2019,Dímelo Flow,Urbano latino,0.090270,9,3,322
 2019,Stryker,Sin clasificar,0.089326,2,1,323
 2019,DJ Nelson,Urbano latino,0.089131,3,3,324
@@ -1941,7 +1941,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Juhn,Urbano latino,0.078933,9,3,345
 2019,The Rolling Stones,Rock y alternativo,0.075556,1,1,346
 2019,Rage Against The Machine,Metal,0.075275,2,2,347
-2019,Lucho Dee Jay,Sin clasificar,0.075215,9,2,348
+2019,Lucho Dee Jay,Urbano latino,0.075215,9,2,348
 2019,Bryan Adams,Rock y alternativo,0.075058,1,1,349
 2019,Miike Snow,Electrónica y dance,0.073300,1,1,350
 2019,INVŌKER,Metal,0.072751,1,1,351
@@ -1952,7 +1952,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Mala Fama,Cumbia y tropical,0.071556,2,2,356
 2019,Archie Bronson Outfit,Rock y alternativo,0.071518,1,1,357
 2019,Timmy Trumpet,Electrónica y dance,0.071493,3,1,358
-2019,Los Auténticos Decadentes,Sin clasificar,0.069636,3,2,359
+2019,Los Auténticos Decadentes,Rock y alternativo,0.069636,3,2,359
 2019,Rombai,Sin clasificar,0.069563,7,1,360
 2019,Turner,Electrónica y dance,0.069557,1,1,361
 2019,Laura Marling,Rock y alternativo,0.068645,1,1,362
@@ -1960,10 +1960,10 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Solardo,Sin clasificar,0.068348,2,2,364
 2019,Pulp,Rock y alternativo,0.068337,1,1,365
 2019,Yandel,Urbano latino,0.068265,3,3,366
-2019,DJ Kessler,Sin clasificar,0.067922,3,1,367
+2019,DJ Kessler,Urbano latino,0.067922,3,1,367
 2019,HM Surf,Hip-hop y rap,0.067503,6,2,368
 2019,Neo Pistea,Urbano latino,0.067292,9,2,369
-2019,Hector Couto,Sin clasificar,0.067172,3,1,370
+2019,Hector Couto,Electrónica y dance,0.067172,3,1,370
 2019,Steve Aoki,Electrónica y dance,0.065662,5,2,371
 2019,Rival Sons,Rock y alternativo,0.065504,1,1,372
 2019,Amy Winehouse,"R&B, soul, funk y jazz",0.065462,2,1,373
@@ -1999,8 +1999,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Christian Lukes,Sin clasificar,0.058254,2,1,403
 2019,Choomba,Sin clasificar,0.058132,1,1,404
 2019,Bacilos,Pop,0.057723,2,2,405
-2019,Christian Smith,Sin clasificar,0.057476,1,1,406
-2019,Denis Horvat,Sin clasificar,0.057075,1,1,407
+2019,Christian Smith,Electrónica y dance,0.057476,1,1,406
+2019,Denis Horvat,Electrónica y dance,0.057075,1,1,407
 2019,eevee,Hip-hop y rap,0.056925,3,2,408
 2019,Menor Menor,Urbano latino,0.056830,2,1,409
 2019,Lalo Ebratt,Otros,0.056661,2,1,410
@@ -2022,7 +2022,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Jonydj,Sin clasificar,0.053138,3,3,426
 2019,No Te Va Gustar,Rock y alternativo,0.052759,1,1,427
 2019,Paula Temple,Sin clasificar,0.052669,1,1,428
-2019,Zato DJ,Sin clasificar,0.052663,8,3,429
+2019,Zato DJ,Urbano latino,0.052663,8,3,429
 2019,Litüus,Sin clasificar,0.052481,1,1,430
 2019,Doorm Special Remix,Sin clasificar,0.052256,1,1,431
 2019,Lola Indigo,Pop,0.052013,1,1,432
@@ -2050,13 +2050,13 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Shaun Track,Sin clasificar,0.044842,2,2,454
 2019,Clean Bandit,Electrónica y dance,0.044750,1,1,455
 2019,CamelPhat,Electrónica y dance,0.044637,1,1,456
-2019,Rossi.,Sin clasificar,0.044295,1,1,457
+2019,Rossi.,Electrónica y dance,0.044295,1,1,457
 2019,Cazztek,Sin clasificar,0.043847,3,2,458
 2019,Pig&Dan,Sin clasificar,0.043701,1,1,459
 2019,Marvel B,Sin clasificar,0.043217,10,2,460
 2019,Leo Mattioli,Cumbia y tropical,0.043101,5,2,461
 2019,Bon Jovi,Rock y alternativo,0.042967,2,1,462
-2019,Angel Y Khriz,Sin clasificar,0.042891,1,1,463
+2019,Angel Y Khriz,Urbano latino,0.042891,1,1,463
 2019,Tomi DJ,Urbano latino,0.042708,1,1,464
 2019,Shawn Mendes,Pop,0.041921,2,2,465
 2019,Push,Electrónica y dance,0.041686,1,1,466
@@ -2079,7 +2079,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Gorgon City,Electrónica y dance,0.037229,2,1,483
 2019,Bitte Please,Sin clasificar,0.036983,1,1,484
 2019,Ariana Grande,Pop,0.036945,1,1,485
-2019,La Champions Liga,Sin clasificar,0.036860,1,1,486
+2019,La Champions Liga,Cumbia y tropical,0.036860,1,1,486
 2019,Dante Spinetta,Sin clasificar,0.036562,2,2,487
 2019,KEVVO,Sin clasificar,0.036332,2,1,488
 2019,FMK,Sin clasificar,0.036144,2,1,489
@@ -2157,8 +2157,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Zion,Urbano latino,0.019555,2,2,561
 2019,Yak,Rock y alternativo,0.019481,1,1,562
 2019,Austin Mahone,Pop,0.019476,1,1,563
-2019,De La Calle,Sin clasificar,0.018658,1,1,564
-2019,Mambo DJ,Sin clasificar,0.018461,1,1,565
+2019,De La Calle,Urbano latino,0.018658,1,1,564
+2019,Mambo DJ,Urbano latino,0.018461,1,1,565
 2019,Dr. Fresch,Sin clasificar,0.018455,10,1,566
 2019,Malaa,Electrónica y dance,0.018431,1,1,567
 2019,6ix9ine,Hip-hop y rap,0.018129,3,2,568
@@ -2193,7 +2193,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Joey Montana,Urbano latino,0.013007,3,1,597
 2019,Felguk,Electrónica y dance,0.012790,1,1,598
 2019,Dayvi,Sin clasificar,0.012789,1,1,599
-2019,Papichamp,Sin clasificar,0.012604,1,1,600
+2019,Papichamp,Urbano latino,0.012604,1,1,600
 2019,Luigi 21 Plus,Urbano latino,0.012469,2,2,601
 2019,Ilan Bluestone,Electrónica y dance,0.011904,2,1,602
 2019,Blondie,Rock y alternativo,0.011691,3,1,603
@@ -2209,7 +2209,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Los Locos Del Ritmo,Rock y alternativo,0.009824,1,1,613
 2019,DJ Tao,Urbano latino,0.009626,3,2,614
 2019,Emanero,Sin clasificar,0.009575,1,1,615
-2019,Format:B,Sin clasificar,0.009419,8,1,616
+2019,Format:B,Electrónica y dance,0.009419,8,1,616
 2019,Liquid Soul,Rock y alternativo,0.009400,1,1,617
 2019,Baby Rasta,Urbano latino,0.009314,1,1,618
 2019,FREQNCY,Sin clasificar,0.009288,1,1,619
@@ -2228,7 +2228,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Chilled Ibiza,Sin clasificar,0.007837,1,1,632
 2019,L-Gante,Cumbia y tropical,0.007745,3,2,633
 2019,Anonimus,Hip-hop y rap,0.007690,3,1,634
-2019,Banda XXI,Sin clasificar,0.007668,5,4,635
+2019,Banda XXI,Cumbia y tropical,0.007668,5,4,635
 2019,Mark Knight,Electrónica y dance,0.007175,1,1,636
 2019,Black Caviar,Sin clasificar,0.007102,2,1,637
 2019,Chapu Martinez,Sin clasificar,0.007029,1,1,638
@@ -2315,7 +2315,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2019,Dontcry,Hip-hop y rap,0.002012,1,1,719
 2019,Play-N-Skillz,Hip-hop y rap,0.001998,3,1,720
 2019,Maneva,Sin clasificar,0.001979,1,1,721
-2019,S.A.M.,Sin clasificar,0.001926,1,1,722
+2019,S.A.M.,Electrónica y dance,0.001926,1,1,722
 2019,Sam Berson,Sin clasificar,0.001898,1,1,723
 2019,Río Roma,Pop,0.001842,1,1,724
 2019,MOÜGLI,Sin clasificar,0.001763,1,1,725
@@ -2530,7 +2530,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Dirty Doering,Electrónica y dance,0.724535,9,1,135
 2020,Wisin,Urbano latino,0.698719,14,4,136
 2020,Nina Kraviz,Electrónica y dance,0.694639,7,2,137
-2020,Lele Pons,Sin clasificar,0.693416,41,1,138
+2020,Lele Pons,Urbano latino,0.693416,41,1,138
 2020,DICC,Hip-hop y rap,0.682216,16,1,139
 2020,La Sonora Master,Cumbia y tropical,0.670130,14,4,140
 2020,El Taiger,Urbano latino,0.663936,14,1,141
@@ -2539,9 +2539,9 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Miky Woodz,Urbano latino,0.642096,22,9,144
 2020,Wisin & Yandel,Urbano latino,0.625059,23,15,145
 2020,Wade,Electrónica y dance,0.624878,23,5,146
-2020,Hraach,Sin clasificar,0.622778,8,1,147
+2020,Hraach,Electrónica y dance,0.622778,8,1,147
 2020,Guns N' Roses,Rock y alternativo,0.622716,9,8,148
-2020,Jay Nortown,Sin clasificar,0.620404,12,1,149
+2020,Jay Nortown,Electrónica y dance,0.620404,12,1,149
 2020,Pink Floyd,Rock y alternativo,0.619499,13,9,150
 2020,Mark B.,Urbano latino,0.599828,22,1,151
 2020,Tempo,Urbano latino,0.589010,19,2,152
@@ -2555,9 +2555,9 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Monolink,Electrónica y dance,0.559491,6,4,160
 2020,Josh Butler,Electrónica y dance,0.558774,12,4,161
 2020,Alexio La Bruja,Urbano latino,0.558625,11,1,162
-2020,Delph,Sin clasificar,0.546660,15,1,163
+2020,Delph,Electrónica y dance,0.546660,15,1,163
 2020,The Police,Rock y alternativo,0.529115,9,7,164
-2020,Daniel Steinberg,Sin clasificar,0.511392,10,2,165
+2020,Daniel Steinberg,Electrónica y dance,0.511392,10,2,165
 2020,WhoMadeWho,Electrónica y dance,0.510997,12,1,166
 2020,Matador,Electrónica y dance,0.503562,6,4,167
 2020,Yotto,Electrónica y dance,0.500157,9,6,168
@@ -2576,41 +2576,41 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Dennis Cruz,Electrónica y dance,0.434282,7,3,181
 2020,Flashmob,Electrónica y dance,0.432344,8,3,182
 2020,Calle 13,Hip-hop y rap,0.424372,10,3,183
-2020,S.A.M.,Sin clasificar,0.417633,5,1,184
+2020,S.A.M.,Electrónica y dance,0.417633,5,1,184
 2020,DJ Pirata,Urbano latino,0.409806,6,5,185
 2020,Dale Howard,Electrónica y dance,0.409317,17,5,186
 2020,Dave Knud,Sin clasificar,0.408106,5,3,187
 2020,Rafa Barrios,Electrónica y dance,0.401778,9,3,188
-2020,GAWP,Sin clasificar,0.401431,7,2,189
-2020,Nils Hoffmann,Sin clasificar,0.397388,7,1,190
+2020,GAWP,Electrónica y dance,0.401431,7,2,189
+2020,Nils Hoffmann,Electrónica y dance,0.397388,7,1,190
 2020,Konstantin Sibold,Electrónica y dance,0.390320,7,1,191
 2020,Avoure,Electrónica y dance,0.387481,5,2,192
 2020,Latmun,Electrónica y dance,0.387028,7,3,193
 2020,Blue Foundation,Electrónica y dance,0.386042,9,2,194
 2020,Collective States,Sin clasificar,0.385847,3,1,195
-2020,Luuk Van Dijk,Sin clasificar,0.385549,5,1,196
+2020,Luuk Van Dijk,Electrónica y dance,0.385549,5,1,196
 2020,Iron Maiden,Metal,0.384832,13,4,197
-2020,The Martinez Brothers,Sin clasificar,0.384670,5,1,198
+2020,The Martinez Brothers,Electrónica y dance,0.384670,5,1,198
 2020,Mihalis Safras,Electrónica y dance,0.382294,5,3,199
 2020,Betoko,Electrónica y dance,0.379204,5,2,200
 2020,DJ Koze,Electrónica y dance,0.378214,3,2,201
 2020,Joris Voorn,Electrónica y dance,0.372966,6,5,202
 2020,The Slum Vagabunds,Sin clasificar,0.371045,5,1,203
 2020,RÜFÜS DU SOL,Electrónica y dance,0.368711,9,6,204
-2020,Ilario Alicante,Sin clasificar,0.362890,9,2,205
+2020,Ilario Alicante,Electrónica y dance,0.362890,9,2,205
 2020,Christian Löffler,Electrónica y dance,0.361001,10,2,206
-2020,Neil Smallridge,Sin clasificar,0.359826,5,1,207
+2020,Neil Smallridge,Electrónica y dance,0.359826,5,1,207
 2020,Dosem,Electrónica y dance,0.359460,6,4,208
 2020,Pete Oak,Electrónica y dance,0.357816,4,1,209
 2020,Stephan Jolk,Electrónica y dance,0.355158,4,2,210
-2020,Future Class,Sin clasificar,0.354601,18,1,211
+2020,Future Class,Electrónica y dance,0.354601,18,1,211
 2020,Tom Flynn,Sin clasificar,0.354091,4,1,212
 2020,Raumakustik,Electrónica y dance,0.347519,9,1,213
 2020,Benny Benni,Urbano latino,0.343910,8,2,214
 2020,Lary Over,Urbano latino,0.341909,7,6,215
 2020,C.R.O,Urbano latino,0.341342,8,3,216
 2020,Guy J,Electrónica y dance,0.340623,3,2,217
-2020,Sebastian Manuel,Sin clasificar,0.335237,3,1,218
+2020,Sebastian Manuel,Electrónica y dance,0.335237,3,1,218
 2020,CamelPhat,Electrónica y dance,0.334214,5,5,219
 2020,Joan Manuel Serrat,Otros,0.332549,14,9,220
 2020,Junior Sanchez,Electrónica y dance,0.329901,11,3,221
@@ -2622,10 +2622,10 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Martin Ikin,Electrónica y dance,0.320871,10,4,227
 2020,KHEA,Urbano latino,0.319263,13,5,228
 2020,Maroon 5,Rock y alternativo,0.317066,5,5,229
-2020,Langenberg,Sin clasificar,0.316261,5,1,230
+2020,Langenberg,Electrónica y dance,0.316261,5,1,230
 2020,Jonny Joel,Sin clasificar,0.312694,6,3,231
 2020,Pimp Flaco,Hip-hop y rap,0.310617,12,4,232
-2020,Volkoder,Sin clasificar,0.308170,4,2,233
+2020,Volkoder,Electrónica y dance,0.308170,4,2,233
 2020,Tinlicker,Electrónica y dance,0.298911,4,3,234
 2020,Super Flu,Electrónica y dance,0.298190,5,3,235
 2020,Booka Shade,Electrónica y dance,0.297659,3,1,236
@@ -2634,20 +2634,20 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Pantera,Metal,0.292990,4,2,239
 2020,Hot Natured,Electrónica y dance,0.291848,3,2,240
 2020,El Kuelgue,Sin clasificar,0.291368,6,6,241
-2020,Teho,Sin clasificar,0.289701,3,2,242
+2020,Teho,Electrónica y dance,0.289701,3,2,242
 2020,kalsy,Sin clasificar,0.286690,3,1,243
 2020,Dirty South,Electrónica y dance,0.284521,4,3,244
-2020,Hannah Wants,Sin clasificar,0.282833,6,1,245
+2020,Hannah Wants,Electrónica y dance,0.282833,6,1,245
 2020,Tali,Electrónica y dance,0.278898,14,1,246
 2020,Chaim,Electrónica y dance,0.278672,3,1,247
 2020,&ME,Electrónica y dance,0.275749,2,1,248
 2020,Mirco Caruso,Electrónica y dance,0.275313,4,1,249
 2020,Mario Luis,Cumbia y tropical,0.271278,6,5,250
-2020,Angel Y Khriz,Sin clasificar,0.271024,8,3,251
+2020,Angel Y Khriz,Urbano latino,0.271024,8,3,251
 2020,Locked Groove,Sin clasificar,0.269719,4,2,252
 2020,Samim,Electrónica y dance,0.269515,6,1,253
 2020,Maria Becerra,Urbano latino,0.269297,13,3,254
-2020,Patrice Bäumel,Sin clasificar,0.259939,2,1,255
+2020,Patrice Bäumel,Electrónica y dance,0.259939,2,1,255
 2020,Matt Karmil,Electrónica y dance,0.258561,9,1,256
 2020,Tim Deluxe,Electrónica y dance,0.255956,4,1,257
 2020,Jamie Jones,Electrónica y dance,0.255139,4,2,258
@@ -2662,9 +2662,9 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,6ix9ine,Hip-hop y rap,0.244771,7,2,267
 2020,Mija,Electrónica y dance,0.241661,4,1,268
 2020,Diplo,Electrónica y dance,0.238765,8,2,269
-2020,Kaz James,Sin clasificar,0.238391,2,1,270
+2020,Kaz James,Electrónica y dance,0.238391,2,1,270
 2020,Apir,Sin clasificar,0.237399,2,1,271
-2020,Harry Nach,Sin clasificar,0.235169,8,1,272
+2020,Harry Nach,Urbano latino,0.235169,8,1,272
 2020,Alex H,Sin clasificar,0.234631,2,1,273
 2020,Kollektiv Turmstrasse,Electrónica y dance,0.234385,2,1,274
 2020,Miles Davis,"R&B, soul, funk y jazz",0.232068,4,2,275
@@ -2692,7 +2692,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Adele,Pop,0.208158,11,4,297
 2020,Guti & Dubshape,Sin clasificar,0.207855,2,1,298
 2020,Samuli Kemppi,Electrónica y dance,0.204147,3,2,299
-2020,PARTY SHIRT,Sin clasificar,0.203324,4,2,300
+2020,PARTY SHIRT,Electrónica y dance,0.203324,4,2,300
 2020,Snoop Dogg,Hip-hop y rap,0.197945,7,3,301
 2020,Rage Against The Machine,Metal,0.197628,4,2,302
 2020,Bob Marley & The Wailers,Cumbia y tropical,0.195622,6,5,303
@@ -2735,7 +2735,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Charly García,Rock y alternativo,0.161552,3,3,340
 2020,Juanka,Urbano latino,0.159576,4,3,341
 2020,Dominik Eulberg,Sin clasificar,0.158583,1,1,342
-2020,DJ Yayo,Sin clasificar,0.157617,3,2,343
+2020,DJ Yayo,Urbano latino,0.157617,3,2,343
 2020,PAWSA,Electrónica y dance,0.155382,7,5,344
 2020,PAX,Electrónica y dance,0.154930,6,3,345
 2020,Mauro Augugliaro,Sin clasificar,0.154575,2,1,346
@@ -2744,11 +2744,11 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Amenazzy,Urbano latino,0.153944,7,3,349
 2020,Cristoph,Electrónica y dance,0.153890,3,3,350
 2020,The Temptations,"R&B, soul, funk y jazz",0.153713,6,1,351
-2020,Gabriel Rocha,Sin clasificar,0.153342,2,1,352
+2020,Gabriel Rocha,Electrónica y dance,0.153342,2,1,352
 2020,Jordy Sánchez,Sin clasificar,0.153033,3,1,353
 2020,Will Saul,Electrónica y dance,0.152726,2,1,354
 2020,NATTI NATASHA,Urbano latino,0.152464,9,4,355
-2020,Paskman,Sin clasificar,0.152081,2,1,356
+2020,Paskman,Electrónica y dance,0.152081,2,1,356
 2020,KREAM,Electrónica y dance,0.151743,4,3,357
 2020,Oliver Heldens,Electrónica y dance,0.150873,4,4,358
 2020,Tiësto,Electrónica y dance,0.148784,3,3,359
@@ -2785,20 +2785,20 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Dayne S,Sin clasificar,0.134401,3,1,390
 2020,Rafael Cerato,Electrónica y dance,0.134110,3,2,391
 2020,Steven Williams,Sin clasificar,0.133796,3,1,392
-2020,El Reja,Sin clasificar,0.132880,5,3,393
+2020,El Reja,Cumbia y tropical,0.132880,5,3,393
 2020,Club Atlético Boca Juniors FanChants,Otros,0.131970,19,10,394
 2020,Alex Bau,Sin clasificar,0.131367,1,1,395
 2020,Musicologo Y Menes,Sin clasificar,0.131322,2,2,396
 2020,El Mundo,Sin clasificar,0.131319,1,1,397
 2020,Karmon,Sin clasificar,0.130234,2,1,398
-2020,Paul Deep (AR),Sin clasificar,0.129444,1,1,399
+2020,Paul Deep (AR),Electrónica y dance,0.129444,1,1,399
 2020,Josep Alba,Sin clasificar,0.128370,2,2,400
 2020,Franck Orff,Sin clasificar,0.128361,1,1,401
 2020,Dread Mar I,Cumbia y tropical,0.128236,4,2,402
 2020,Nihil Young,Sin clasificar,0.127917,1,1,403
 2020,Mattei & Omich,Sin clasificar,0.127481,1,1,404
 2020,Tom Jay,Sin clasificar,0.127434,1,1,405
-2020,Josh Wink,Sin clasificar,0.127365,4,1,406
+2020,Josh Wink,Electrónica y dance,0.127365,4,1,406
 2020,Alex Sensation,Urbano latino,0.127231,4,1,407
 2020,Underworld,Electrónica y dance,0.126800,1,1,408
 2020,Drake,Hip-hop y rap,0.126745,7,1,409
@@ -2811,7 +2811,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Iron Curtis,Sin clasificar,0.124080,1,1,416
 2020,Fatima Yamaha,Electrónica y dance,0.124031,1,1,417
 2020,Luther Allison,Otros,0.123759,1,1,418
-2020,Mak Donal,Sin clasificar,0.123567,3,3,419
+2020,Mak Donal,Urbano latino,0.123567,3,3,419
 2020,Dr Honey,Sin clasificar,0.122751,2,1,420
 2020,CMM,Electrónica y dance,0.122496,1,1,421
 2020,Dusty Kid,Electrónica y dance,0.122438,4,1,422
@@ -2830,7 +2830,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Camilo,Otros,0.119084,7,4,435
 2020,Sammy & Falsetto,Urbano latino,0.118523,3,1,436
 2020,DJ Roma Oficial,Sin clasificar,0.118508,4,1,437
-2020,Mind Against,Sin clasificar,0.118307,1,1,438
+2020,Mind Against,Electrónica y dance,0.118307,1,1,438
 2020,Crvvcks,Sin clasificar,0.118167,2,1,439
 2020,Subb-an,Sin clasificar,0.118145,1,1,440
 2020,Cali Y El Dandee,Urbano latino,0.117942,7,2,441
@@ -2849,7 +2849,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Freiboitar,Sin clasificar,0.114093,1,1,454
 2020,Ultra Naté,Sin clasificar,0.113956,3,1,455
 2020,B.o.B,Hip-hop y rap,0.113718,2,2,456
-2020,Format:B,Sin clasificar,0.113513,3,1,457
+2020,Format:B,Electrónica y dance,0.113513,3,1,457
 2020,TOTO,Rock y alternativo,0.112318,5,1,458
 2020,Re.You,Electrónica y dance,0.111542,1,1,459
 2020,Queens of the Stone Age,Rock y alternativo,0.111448,2,2,460
@@ -2867,7 +2867,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Gregory Porter,"R&B, soul, funk y jazz",0.108638,2,1,472
 2020,Tryst (UK),Sin clasificar,0.108602,2,1,473
 2020,Robag Wruhme,Electrónica y dance,0.108381,1,1,474
-2020,Golan Zocher,Sin clasificar,0.108368,1,1,475
+2020,Golan Zocher,Electrónica y dance,0.108368,1,1,475
 2020,TINI,Pop,0.108071,10,4,476
 2020,Danny Serrano,Electrónica y dance,0.107796,1,1,477
 2020,Enkode,Sin clasificar,0.107658,2,1,478
@@ -2947,7 +2947,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Los Palmeras,Cumbia y tropical,0.088505,3,3,552
 2020,Lyanno,Urbano latino,0.088327,3,3,553
 2020,Mariah Angeliq,Urbano latino,0.087884,2,2,554
-2020,Zato DJ,Sin clasificar,0.087597,2,1,555
+2020,Zato DJ,Urbano latino,0.087597,2,1,555
 2020,Pacho El Antifeka,Urbano latino,0.087234,2,1,556
 2020,Michael Calfan,Sin clasificar,0.087001,2,2,557
 2020,Undercatt,Sin clasificar,0.086921,1,1,558
@@ -2999,7 +2999,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Roslyn,Sin clasificar,0.074387,1,1,604
 2020,Alkilados,Urbano latino,0.074075,1,1,605
 2020,Sinfonico,Urbano latino,0.074026,2,1,606
-2020,Dura DJ,Sin clasificar,0.073964,4,3,607
+2020,Dura DJ,Urbano latino,0.073964,4,3,607
 2020,Wax Motif,Electrónica y dance,0.073633,1,1,608
 2020,Dj Bans,Sin clasificar,0.073433,4,1,609
 2020,Victoria R,Sin clasificar,0.073291,2,1,610
@@ -3018,7 +3018,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Pj Sin Suela,Sin clasificar,0.070659,2,1,623
 2020,Layton Giordani,Sin clasificar,0.070573,1,1,624
 2020,Heart,Rock y alternativo,0.070536,1,1,625
-2020,Jan Blomqvist,Sin clasificar,0.070503,1,1,626
+2020,Jan Blomqvist,Electrónica y dance,0.070503,1,1,626
 2020,Michael Klein,Sin clasificar,0.070268,1,1,627
 2020,Las Ketchup,Pop,0.070131,2,1,628
 2020,Wiz Khalifa,Hip-hop y rap,0.070049,2,2,629
@@ -3062,8 +3062,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Eix,Urbano latino,0.064865,3,3,667
 2020,Okain,Sin clasificar,0.064580,1,1,668
 2020,DESNA,Sin clasificar,0.064579,1,1,669
-2020,Monkey Safari,Sin clasificar,0.064557,1,1,670
-2020,Hector Couto,Sin clasificar,0.064552,1,1,671
+2020,Monkey Safari,Electrónica y dance,0.064557,1,1,670
+2020,Hector Couto,Electrónica y dance,0.064552,1,1,671
 2020,EDUKE,Sin clasificar,0.064380,1,1,672
 2020,Spandau Ballet,Pop,0.064300,1,1,673
 2020,N O M I N A L,Sin clasificar,0.064058,1,1,674
@@ -3075,7 +3075,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Bersuit Vergarabat,Rock y alternativo,0.063107,3,2,680
 2020,Amtrac,Electrónica y dance,0.063042,1,1,681
 2020,Pathos Humano,Sin clasificar,0.062778,1,1,682
-2020,Shermanology,Sin clasificar,0.062504,2,2,683
+2020,Shermanology,Electrónica y dance,0.062504,2,2,683
 2020,MARUV,Electrónica y dance,0.062469,1,1,684
 2020,Ba Bunni,Sin clasificar,0.062153,1,1,685
 2020,Migrantes,Sin clasificar,0.061873,2,1,686
@@ -3201,7 +3201,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Citizenn,Sin clasificar,0.048533,1,1,806
 2020,TrapCartel,Sin clasificar,0.048452,1,1,807
 2020,R.K.M & Ken-Y,Sin clasificar,0.048415,2,2,808
-2020,ANNA,Sin clasificar,0.048304,1,1,809
+2020,ANNA,Electrónica y dance,0.048304,1,1,809
 2020,Tina Charles,Electrónica y dance,0.048119,1,1,810
 2020,Mike Candys,Electrónica y dance,0.048104,1,1,811
 2020,Ugg'A,Sin clasificar,0.048056,1,1,812
@@ -3325,18 +3325,18 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Marka Akme,Sin clasificar,0.030454,1,1,930
 2020,Rezz,Electrónica y dance,0.030422,2,1,931
 2020,N.O.R.E.,Hip-hop y rap,0.030314,2,1,932
-2020,Marama,Sin clasificar,0.030142,1,1,933
+2020,Marama,Cumbia y tropical,0.030142,1,1,933
 2020,Flatmate,Sin clasificar,0.029718,1,1,934
 2020,The Who,Rock y alternativo,0.029544,1,1,935
 2020,Chapa C,Pop,0.029502,1,1,936
-2020,Treekoo,Sin clasificar,0.029097,1,1,937
+2020,Treekoo,Urbano latino,0.029097,1,1,937
 2020,Victor Russo,Sin clasificar,0.028305,1,1,938
 2020,Stingray313,Sin clasificar,0.028179,1,1,939
 2020,Dave Summit,Sin clasificar,0.027281,3,1,940
-2020,De La Calle,Sin clasificar,0.027118,1,1,941
+2020,De La Calle,Urbano latino,0.027118,1,1,941
 2020,El Retutu,Sin clasificar,0.026814,1,1,942
 2020,Barbara Lewis,Pop,0.026633,1,1,943
-2020,Karina,Sin clasificar,0.026546,2,2,944
+2020,Karina,Cumbia y tropical,0.026546,2,2,944
 2020,Café Tacvba,Rock y alternativo,0.026440,6,2,945
 2020,Nfasis,Sin clasificar,0.026329,4,2,946
 2020,Cut Snake,Electrónica y dance,0.025839,1,1,947
@@ -3392,7 +3392,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Los Enanitos Verdes,Rock y alternativo,0.016913,3,2,997
 2020,Yan Weynn,Sin clasificar,0.016629,1,1,998
 2020,J.J. Cale,Rock y alternativo,0.016524,2,2,999
-2020,Andrew Meller,Sin clasificar,0.016210,2,1,1000
+2020,Andrew Meller,Electrónica y dance,0.016210,2,1,1000
 2020,Flo Rida,Hip-hop y rap,0.015472,1,1,1001
 2020,Juanes,Rock y alternativo,0.015472,3,1,1002
 2020,Robbie Williams,Pop,0.015313,1,1,1003
@@ -3408,7 +3408,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Patrik Berg,Sin clasificar,0.014359,1,1,1013
 2020,White Cliffs,Sin clasificar,0.013929,1,1,1014
 2020,Mike + The Mechanics,Rock y alternativo,0.012863,3,2,1015
-2020,Tambó Tambó,Sin clasificar,0.012670,1,1,1016
+2020,Tambó Tambó,Cumbia y tropical,0.012670,1,1,1016
 2020,Inner City,Electrónica y dance,0.012268,1,1,1017
 2020,Greeicy,Urbano latino,0.012196,1,1,1018
 2020,Reflekt,Sin clasificar,0.012187,1,1,1019
@@ -3464,7 +3464,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Space Gypsies,Sin clasificar,0.007082,2,1,1069
 2020,猪俣 猛,Sin clasificar,0.007014,1,1,1070
 2020,Dimelo Sam,Sin clasificar,0.006766,1,1,1071
-2020,Mariano Mellino,Sin clasificar,0.006740,1,1,1072
+2020,Mariano Mellino,Electrónica y dance,0.006740,1,1,1072
 2020,Tenova,Sin clasificar,0.006604,6,1,1073
 2020,The Deli,Hip-hop y rap,0.006519,1,1,1074
 2020,The Strokes,Rock y alternativo,0.006483,2,2,1075
@@ -3547,7 +3547,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Ben Sollee,Otros,0.002267,2,1,1152
 2020,BksSonido,Sin clasificar,0.002206,1,1,1153
 2020,Falo,Urbano latino,0.002204,2,1,1154
-2020,Tory Lanez,"R&B, soul, funk y jazz",0.002189,1,1,1155
+2020,Tory Lanez,Hip-hop y rap,0.002189,1,1,1155
 2020,Harry Styles,Pop,0.002139,3,1,1156
 2020,"Pekeño 77, Cazzu, Neo Pistea, C.R.O, Bhavi, Homer El Mero Mero, Ruben Rada",Sin clasificar,0.002131,1,1,1157
 2020,Justnormal,Hip-hop y rap,0.002092,1,1,1158
@@ -3579,7 +3579,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Ckwnce,Sin clasificar,0.001343,2,1,1184
 2020,Olivier Giacomotto,Electrónica y dance,0.001306,1,1,1185
 2020,Paul Spring,Sin clasificar,0.001303,1,1,1186
-2020,Newman (I Love),Sin clasificar,0.001300,1,1,1187
+2020,Newman (I Love),Electrónica y dance,0.001300,1,1,1187
 2020,Pescado Rabioso,Rock y alternativo,0.001275,1,1,1188
 2020,El Chombo,Urbano latino,0.001219,1,1,1189
 2020,Valentino Khan,Electrónica y dance,0.001171,1,1,1190
@@ -3607,7 +3607,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Duki,Hip-hop y rap,0.000647,1,1,1212
 2020,Grupo Arenas,Sin clasificar,0.000645,1,1,1213
 2020,Ramon Tapia,Sin clasificar,0.000626,1,1,1214
-2020,Stainless,Sin clasificar,0.000594,1,1,1215
+2020,Stainless,Electrónica y dance,0.000594,1,1,1215
 2020,Bon Jovi,Rock y alternativo,0.000592,1,1,1216
 2020,Black Sheep,Hip-hop y rap,0.000572,1,1,1217
 2020,Steve Aoki,Electrónica y dance,0.000569,1,1,1218
@@ -3632,7 +3632,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2020,Feder,Electrónica y dance,0.000261,1,1,1237
 2020,Kaan Pars,Sin clasificar,0.000258,1,1,1238
 2020,KEAN DYSSO,Sin clasificar,0.000236,1,1,1239
-2020,Mambo DJ,Sin clasificar,0.000217,1,1,1240
+2020,Mambo DJ,Urbano latino,0.000217,1,1,1240
 2020,Aleteo Beatz,Sin clasificar,0.000201,1,1,1241
 2020,Alvaro Diaz,Urbano latino,0.000189,1,1,1242
 2020,Aārp,Sin clasificar,0.000168,1,1,1243
@@ -3718,9 +3718,9 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Hot Since 82,Electrónica y dance,1.398526,26,9,80
 2021,Pink Floyd,Rock y alternativo,1.364091,42,21,81
 2021,Rod Stewart,Rock y alternativo,1.313506,24,4,82
-2021,DJ Roman,Sin clasificar,1.306807,35,13,83
+2021,DJ Roman,Urbano latino,1.306807,35,13,83
 2021,Scorpions,Rock y alternativo,1.294844,29,4,84
-2021,Mik,Sin clasificar,1.280432,49,8,85
+2021,Mik,Hip-hop y rap,1.280432,49,8,85
 2021,Maceo Plex,Electrónica y dance,1.279249,18,10,86
 2021,Martin Ikin,Electrónica y dance,1.245352,34,11,87
 2021,Patrick Topping,Electrónica y dance,1.228251,19,9,88
@@ -3748,7 +3748,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Maluma,Urbano latino,0.968105,35,13,110
 2021,Frae Dj,Urbano latino,0.964359,24,10,111
 2021,Green Velvet,Electrónica y dance,0.962935,20,8,112
-2021,Rone White,Sin clasificar,0.956615,13,5,113
+2021,Rone White,Electrónica y dance,0.956615,13,5,113
 2021,Fedu DJ,Urbano latino,0.910966,29,16,114
 2021,Ice Cube,Hip-hop y rap,0.895604,17,11,115
 2021,Don Omar,Urbano latino,0.887549,24,18,116
@@ -3761,7 +3761,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Dom Dolla,Electrónica y dance,0.803138,32,9,123
 2021,Kreature,Electrónica y dance,0.801097,20,7,124
 2021,Zion & Lennox,Urbano latino,0.795257,38,12,125
-2021,The Black Jets,Sin clasificar,0.774720,19,1,126
+2021,The Black Jets,Rock y alternativo,0.774720,19,1,126
 2021,"Gotay ""El Autentiko""",Urbano latino,0.772545,19,2,127
 2021,Kolombo,Electrónica y dance,0.770447,13,7,128
 2021,Super Yei,Urbano latino,0.768963,20,4,129
@@ -3773,7 +3773,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Carl Cox,Electrónica y dance,0.750871,12,12,135
 2021,PAX,Electrónica y dance,0.743931,22,10,136
 2021,Purple Disco Machine,Electrónica y dance,0.730534,17,7,137
-2021,DJ Yayo,Sin clasificar,0.727331,16,8,138
+2021,DJ Yayo,Urbano latino,0.727331,16,8,138
 2021,Almighty,Urbano latino,0.725372,33,7,139
 2021,Joe Cocker,Rock y alternativo,0.720437,17,2,140
 2021,The Rolling Stones,Rock y alternativo,0.717092,21,5,141
@@ -3795,8 +3795,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,DJ Luian,Urbano latino,0.615437,12,3,157
 2021,La Roca Callejera,Cumbia y tropical,0.608810,40,2,158
 2021,Baltra,Electrónica y dance,0.604070,9,7,159
-2021,Shakedown,Sin clasificar,0.603169,12,5,160
-2021,Pitto,Sin clasificar,0.598290,5,3,161
+2021,Shakedown,Electrónica y dance,0.603169,12,5,160
+2021,Pitto,Electrónica y dance,0.598290,5,3,161
 2021,Duki,Hip-hop y rap,0.597336,31,20,162
 2021,Mathame,Electrónica y dance,0.596937,10,5,163
 2021,Sébastien Léger,Electrónica y dance,0.590984,6,3,164
@@ -3814,7 +3814,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Rodrigo,Otros,0.551049,24,17,176
 2021,Macklemore & Ryan Lewis,Hip-hop y rap,0.550931,11,6,177
 2021,Club Atlético Boca Juniors FanChants,Otros,0.548793,75,37,178
-2021,Sebastian Manuel,Sin clasificar,0.542464,7,2,179
+2021,Sebastian Manuel,Electrónica y dance,0.542464,7,2,179
 2021,Buttechno,Electrónica y dance,0.542279,14,6,180
 2021,Mirco Caruso,Electrónica y dance,0.541493,8,4,181
 2021,Ivan Armesto,Urbano latino,0.536571,22,10,182
@@ -3823,27 +3823,27 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Carlitos Rossy,Urbano latino,0.512056,16,5,185
 2021,Mano Le Tough,Electrónica y dance,0.506395,6,3,186
 2021,Aventura,Cumbia y tropical,0.504462,15,1,187
-2021,Piero Pirupa,Sin clasificar,0.502620,13,3,188
-2021,Eme Sarav,Sin clasificar,0.500111,11,5,189
+2021,Piero Pirupa,Electrónica y dance,0.502620,13,3,188
+2021,Eme Sarav,Urbano latino,0.500111,11,5,189
 2021,Nina Kraviz,Electrónica y dance,0.493677,8,7,190
 2021,Tina Turner,Pop,0.493464,15,2,191
 2021,Sidney Charles,Electrónica y dance,0.489590,10,7,192
 2021,Carlos Gardel,Otros,0.488657,15,9,193
 2021,Sonny Fodera,Electrónica y dance,0.487612,14,8,194
 2021,Stevie Wonder,"R&B, soul, funk y jazz",0.486041,11,5,195
-2021,Fran Argiro,Sin clasificar,0.481304,12,3,196
-2021,Marama,Sin clasificar,0.469698,30,12,197
-2021,Mambo DJ,Sin clasificar,0.461780,13,2,198
+2021,Fran Argiro,Urbano latino,0.481304,12,3,196
+2021,Marama,Cumbia y tropical,0.469698,30,12,197
+2021,Mambo DJ,Urbano latino,0.461780,13,2,198
 2021,Lane 8,Electrónica y dance,0.455714,7,3,199
-2021,Kaleb Di Masi,Sin clasificar,0.454884,19,10,200
+2021,Kaleb Di Masi,Urbano latino,0.454884,19,10,200
 2021,Shakira,Pop,0.453985,13,1,201
-2021,Lucho Dee Jay,Sin clasificar,0.452014,14,7,202
+2021,Lucho Dee Jay,Urbano latino,0.452014,14,7,202
 2021,Pepe Quintana,Urbano latino,0.451105,10,3,203
 2021,Sasha,Electrónica y dance,0.449388,4,2,204
-2021,Monkey Safari,Sin clasificar,0.446708,7,3,205
+2021,Monkey Safari,Electrónica y dance,0.446708,7,3,205
 2021,Bryan Adams,Rock y alternativo,0.446619,15,4,206
 2021,2Pac,Hip-hop y rap,0.439105,11,8,207
-2021,Shermanology,Sin clasificar,0.439063,12,4,208
+2021,Shermanology,Electrónica y dance,0.439063,12,4,208
 2021,Grand Funk Railroad,Rock y alternativo,0.435900,14,2,209
 2021,Tim Green,Electrónica y dance,0.433194,7,2,210
 2021,Emilia,Pop,0.432742,16,2,211
@@ -3851,16 +3851,16 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Jona Mix,Urbano latino,0.429122,14,10,213
 2021,Harrison BDP,Electrónica y dance,0.428534,5,4,214
 2021,Paul Kalkbrenner,Electrónica y dance,0.428504,11,4,215
-2021,DJ Roma,Sin clasificar,0.428257,14,8,216
-2021,Los Wachiturros,Sin clasificar,0.428019,19,8,217
+2021,DJ Roma,Urbano latino,0.428257,14,8,216
+2021,Los Wachiturros,Cumbia y tropical,0.428019,19,8,217
 2021,Tale Of Us,Electrónica y dance,0.421307,6,3,218
-2021,Facu Vazquez,Sin clasificar,0.416479,13,3,219
+2021,Facu Vazquez,Urbano latino,0.416479,13,3,219
 2021,Kamilo Sanclemente,Electrónica y dance,0.416453,5,4,220
 2021,Boston,Rock y alternativo,0.414583,15,5,221
 2021,&ME,Electrónica y dance,0.406540,7,2,222
 2021,Joyce Muniz,Electrónica y dance,0.404544,5,2,223
 2021,Casper Magico,Urbano latino,0.402626,11,4,224
-2021,The Martinez Brothers,Sin clasificar,0.398737,5,1,225
+2021,The Martinez Brothers,Electrónica y dance,0.398737,5,1,225
 2021,Jupa Necasek,Urbano latino,0.397977,15,6,226
 2021,Aerosmith,Rock y alternativo,0.395311,17,3,227
 2021,Mötley Crüe,Metal,0.393585,10,4,228
@@ -3873,7 +3873,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Lunay,Urbano latino,0.380009,29,10,235
 2021,Reblok,Electrónica y dance,0.376721,7,3,236
 2021,Kenai,Urbano latino,0.375705,11,2,237
-2021,DJ Kessler,Sin clasificar,0.375219,11,6,238
+2021,DJ Kessler,Urbano latino,0.375219,11,6,238
 2021,Rebūke,Electrónica y dance,0.375159,9,4,239
 2021,Late Replies,Electrónica y dance,0.373936,5,4,240
 2021,Bontan,Electrónica y dance,0.372740,9,6,241
@@ -3888,8 +3888,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Warren G,Hip-hop y rap,0.360897,7,2,250
 2021,Chapter & Verse,Sin clasificar,0.360253,11,2,251
 2021,Alexio La Bruja,Urbano latino,0.358637,12,1,252
-2021,Papichamp,Sin clasificar,0.358134,17,7,253
-2021,LondonGround,Sin clasificar,0.357843,7,2,254
+2021,Papichamp,Urbano latino,0.358134,17,7,253
+2021,LondonGround,Electrónica y dance,0.357843,7,2,254
 2021,Mueka,Urbano latino,0.357448,6,1,255
 2021,Latmun,Electrónica y dance,0.356700,8,4,256
 2021,Sante Sansone,Sin clasificar,0.354213,7,2,257
@@ -3902,7 +3902,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Gilda,Cumbia y tropical,0.346577,11,5,264
 2021,Queen,Rock y alternativo,0.346366,35,10,265
 2021,Matador,Electrónica y dance,0.344625,5,3,266
-2021,El Reja,Sin clasificar,0.339459,17,9,267
+2021,El Reja,Cumbia y tropical,0.339459,17,9,267
 2021,Matt Sassari,Electrónica y dance,0.336814,14,4,268
 2021,Mike Isai,Sin clasificar,0.336680,4,3,269
 2021,Rombai,Sin clasificar,0.335657,15,10,270
@@ -3917,7 +3917,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Manuel Turizo,Urbano latino,0.312189,15,4,279
 2021,Lorenzo De Blanck,Electrónica y dance,0.311083,11,4,280
 2021,Sergio Sergi,Sin clasificar,0.308259,4,3,281
-2021,BANDIDO,Sin clasificar,0.306661,8,1,282
+2021,BANDIDO,Urbano latino,0.306661,8,1,282
 2021,Space Motion,Electrónica y dance,0.306228,4,2,283
 2021,Adriatique,Electrónica y dance,0.305371,9,3,284
 2021,Cartel De Santa,Hip-hop y rap,0.305041,11,4,285
@@ -3926,7 +3926,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Technotronic,Electrónica y dance,0.296809,5,4,288
 2021,FPR,Sin clasificar,0.294498,7,4,289
 2021,Block & Crown,Electrónica y dance,0.292266,7,4,290
-2021,Gabriel Rocha,Sin clasificar,0.291658,3,1,291
+2021,Gabriel Rocha,Electrónica y dance,0.291658,3,1,291
 2021,Justin Bieber,Pop,0.291086,9,6,292
 2021,BLOND:ISH,Electrónica y dance,0.288064,6,2,293
 2021,Jay Wheeler,Urbano latino,0.287738,13,5,294
@@ -3934,19 +3934,19 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,John Summit,Electrónica y dance,0.285793,8,4,296
 2021,Max Chapman,Electrónica y dance,0.280482,6,5,297
 2021,SALAZAR (COL),Sin clasificar,0.280325,3,2,298
-2021,CIOZ,Sin clasificar,0.279885,5,2,299
+2021,CIOZ,Electrónica y dance,0.279885,5,2,299
 2021,New Order,Rock y alternativo,0.278360,3,2,300
 2021,Da Hool,Electrónica y dance,0.278156,7,4,301
 2021,Wh0,Electrónica y dance,0.277922,6,4,302
 2021,Tinlicker,Electrónica y dance,0.272186,7,5,303
 2021,Flashmob,Electrónica y dance,0.270021,5,5,304
-2021,Dura DJ,Sin clasificar,0.269034,11,4,305
+2021,Dura DJ,Urbano latino,0.269034,11,4,305
 2021,Jory Boy,Urbano latino,0.268551,11,2,306
 2021,Einmusik,Electrónica y dance,0.268502,3,2,307
 2021,Konstantin Sibold,Electrónica y dance,0.266461,3,1,308
-2021,Franky Wah,Sin clasificar,0.264557,7,2,309
+2021,Franky Wah,Electrónica y dance,0.264557,7,2,309
 2021,Makanan,Sin clasificar,0.264055,4,2,310
-2021,Paul Deep (AR),Sin clasificar,0.262239,3,2,311
+2021,Paul Deep (AR),Electrónica y dance,0.262239,3,2,311
 2021,Junior Jack,Electrónica y dance,0.261858,7,3,312
 2021,Darlyn Vlys,Electrónica y dance,0.261179,3,2,313
 2021,Rich NxT,Sin clasificar,0.261136,6,2,314
@@ -3955,7 +3955,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Gorgon City,Electrónica y dance,0.258906,11,4,317
 2021,Bajofondo,Otros,0.258719,5,3,318
 2021,B.B. King,Otros,0.257166,4,3,319
-2021,Felipe Novaes,Sin clasificar,0.256759,4,2,320
+2021,Felipe Novaes,Electrónica y dance,0.256759,4,2,320
 2021,Will Taylor (UK),Sin clasificar,0.255340,4,3,321
 2021,Hernan Cattaneo,Electrónica y dance,0.255043,3,2,322
 2021,Foreigner,Rock y alternativo,0.253988,3,1,323
@@ -3977,7 +3977,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Jossef,Sin clasificar,0.239298,5,2,339
 2021,Mr. G,Sin clasificar,0.238701,6,4,340
 2021,Madonna,Pop,0.237430,7,4,341
-2021,Harry Nach,Sin clasificar,0.236481,6,3,342
+2021,Harry Nach,Urbano latino,0.236481,6,3,342
 2021,Tom Budin,Electrónica y dance,0.236272,11,3,343
 2021,Fab Massimo,Sin clasificar,0.236205,6,2,344
 2021,Rusherking,Urbano latino,0.235860,12,3,345
@@ -3997,7 +3997,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Matroda,Electrónica y dance,0.222778,5,3,359
 2021,Samim,Electrónica y dance,0.222589,4,2,360
 2021,I-K-O,Sin clasificar,0.222384,4,3,361
-2021,Nico Servidio DJ,Sin clasificar,0.221152,10,3,362
+2021,Nico Servidio DJ,Urbano latino,0.221152,10,3,362
 2021,DJ Martin V,Sin clasificar,0.221101,6,3,363
 2021,House Divided,Sin clasificar,0.220347,4,1,364
 2021,Kevin McKay,Electrónica y dance,0.215406,9,4,365
@@ -4005,7 +4005,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Vintage Culture,Electrónica y dance,0.211709,5,2,367
 2021,Bob Moses,Electrónica y dance,0.211220,4,2,368
 2021,Gigolo Y La Exce,Urbano latino,0.211186,8,2,369
-2021,Langenberg,Sin clasificar,0.210482,3,1,370
+2021,Langenberg,Electrónica y dance,0.210482,3,1,370
 2021,Tego Calderón,Urbano latino,0.209989,16,3,371
 2021,Jesper Ryom,Electrónica y dance,0.209096,2,1,372
 2021,Alexis y Fido,Urbano latino,0.208676,9,4,373
@@ -4021,17 +4021,17 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Nene Malo,Cumbia y tropical,0.203845,13,7,383
 2021,Kai Rodriguez,Sin clasificar,0.203257,3,2,384
 2021,Sosa UK,Sin clasificar,0.203174,3,1,385
-2021,Blackchild (ITA),Sin clasificar,0.202246,3,1,386
+2021,Blackchild (ITA),Electrónica y dance,0.202246,3,1,386
 2021,DJ Roma Oficial,Sin clasificar,0.201632,5,2,387
 2021,Xinobi,Electrónica y dance,0.200684,3,2,388
-2021,Angel Y Khriz,Sin clasificar,0.200058,5,5,389
+2021,Angel Y Khriz,Urbano latino,0.200058,5,5,389
 2021,C.R.O,Urbano latino,0.198395,5,2,390
 2021,Joel Corry,Electrónica y dance,0.198342,6,4,391
 2021,NTO,Electrónica y dance,0.198207,4,2,392
 2021,Aquariox,Sin clasificar,0.197568,2,1,393
 2021,Calle 13,Hip-hop y rap,0.197347,6,4,394
-2021,Volkoder,Sin clasificar,0.197207,7,2,395
-2021,De La Calle,Sin clasificar,0.196436,9,6,396
+2021,Volkoder,Electrónica y dance,0.197207,7,2,395
+2021,De La Calle,Urbano latino,0.196436,9,6,396
 2021,AIROD,Electrónica y dance,0.195834,5,3,397
 2021,Maya Jane Coles,Electrónica y dance,0.195551,3,2,398
 2021,Los Piojos,Rock y alternativo,0.193103,5,3,399
@@ -4047,7 +4047,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Mobb Deep,Hip-hop y rap,0.189501,4,1,409
 2021,Used Disco,Sin clasificar,0.189236,4,2,410
 2021,dj frias,Sin clasificar,0.188500,3,1,411
-2021,JADED,Sin clasificar,0.188043,4,3,412
+2021,JADED,Electrónica y dance,0.188043,4,3,412
 2021,Locura Mix,Sin clasificar,0.186536,7,3,413
 2021,Los Prisioneros,Rock y alternativo,0.186501,4,4,414
 2021,Supertramp,Rock y alternativo,0.185864,15,8,415
@@ -4070,7 +4070,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Claude VonStroke,Electrónica y dance,0.173458,4,2,432
 2021,SUBB,Sin clasificar,0.172741,5,2,433
 2021,CERO39,Sin clasificar,0.171714,2,1,434
-2021,Mariano Mellino,Sin clasificar,0.171414,2,2,435
+2021,Mariano Mellino,Electrónica y dance,0.171414,2,2,435
 2021,LEON (Italy),Electrónica y dance,0.171039,4,2,436
 2021,MESZCA,Sin clasificar,0.170619,4,1,437
 2021,The Blue Room Band,Sin clasificar,0.169463,2,2,438
@@ -4100,14 +4100,14 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Los Fabulosos Cadillacs,Cumbia y tropical,0.156739,6,5,462
 2021,Body-San,Sin clasificar,0.156436,2,1,463
 2021,Various Art,Sin clasificar,0.156225,2,1,464
-2021,Perro Primo,Sin clasificar,0.156053,7,4,465
+2021,Perro Primo,Urbano latino,0.156053,7,4,465
 2021,Mario Ochoa,Electrónica y dance,0.155843,4,2,466
 2021,Figgy Mold,"R&B, soul, funk y jazz",0.154771,2,1,467
 2021,Nimus,Sin clasificar,0.154320,5,4,468
 2021,Teen Daze,Electrónica y dance,0.153174,5,1,469
-2021,Josh Wink,Sin clasificar,0.153096,2,1,470
+2021,Josh Wink,Electrónica y dance,0.153096,2,1,470
 2021,Heart,Rock y alternativo,0.152842,8,1,471
-2021,Paskman,Sin clasificar,0.152081,2,1,472
+2021,Paskman,Electrónica y dance,0.152081,2,1,472
 2021,Prequel,Sin clasificar,0.151666,2,1,473
 2021,TINI,Pop,0.151252,8,3,474
 2021,Joshwa,Sin clasificar,0.150587,4,2,475
@@ -4121,14 +4121,14 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Nikko.Z,Sin clasificar,0.149175,2,1,483
 2021,DJ Braii,Sin clasificar,0.148990,6,1,484
 2021,Rodrigo Laffertt,Sin clasificar,0.148709,2,1,485
-2021,Los Auténticos Decadentes,Sin clasificar,0.148701,16,7,486
+2021,Los Auténticos Decadentes,Rock y alternativo,0.148701,16,7,486
 2021,Hydroxyde,Sin clasificar,0.147741,3,1,487
 2021,Aníbal Troilo,Otros,0.147462,3,2,488
 2021,Tough Love,Electrónica y dance,0.147299,3,2,489
 2021,LIT killah,Sin clasificar,0.147239,8,4,490
 2021,TEE MANGO,Sin clasificar,0.147168,2,1,491
-2021,Future Class,Sin clasificar,0.147135,6,2,492
-2021,Patrice Bäumel,Sin clasificar,0.146400,2,1,493
+2021,Future Class,Electrónica y dance,0.147135,6,2,492
+2021,Patrice Bäumel,Electrónica y dance,0.146400,2,1,493
 2021,Westside Connection,Hip-hop y rap,0.145954,4,3,494
 2021,K Loveski,Sin clasificar,0.145486,1,1,495
 2021,Teenage Mutants,Electrónica y dance,0.144956,4,2,496
@@ -4156,7 +4156,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Makebo,Sin clasificar,0.137980,1,1,518
 2021,The La Planta,Cumbia y tropical,0.137752,4,2,519
 2021,Fatboy Slim,Electrónica y dance,0.136765,5,2,520
-2021,Weird Sounding Dude,Sin clasificar,0.136405,2,1,521
+2021,Weird Sounding Dude,Electrónica y dance,0.136405,2,1,521
 2021,CHLOE (Thévenin),Sin clasificar,0.136192,2,1,522
 2021,Elton John,Rock y alternativo,0.136026,7,4,523
 2021,Age Of Love,Electrónica y dance,0.135967,1,1,524
@@ -4169,12 +4169,12 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Rafael Cerato,Electrónica y dance,0.133333,1,1,531
 2021,Paul McCartney,Rock y alternativo,0.132504,4,1,532
 2021,Milly,Sin clasificar,0.132303,5,1,533
-2021,Kasper Koman,Sin clasificar,0.132079,1,1,534
+2021,Kasper Koman,Electrónica y dance,0.132079,1,1,534
 2021,Opus,Sin clasificar,0.132076,3,1,535
 2021,Danny Daze,Electrónica y dance,0.131899,1,1,536
 2021,Guille Placencia,Sin clasificar,0.131769,3,1,537
 2021,Cid Inc.,Electrónica y dance,0.131707,1,1,538
-2021,Ric Niels,Sin clasificar,0.131694,1,1,539
+2021,Ric Niels,Electrónica y dance,0.131694,1,1,539
 2021,Reflekt,Sin clasificar,0.131255,2,2,540
 2021,Bruno Cabrera Dj,Sin clasificar,0.130676,2,2,541
 2021,Ben Rainey,Sin clasificar,0.130557,2,2,542
@@ -4185,7 +4185,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Literon,Sin clasificar,0.128668,3,2,547
 2021,Jansons,Electrónica y dance,0.128196,5,4,548
 2021,Jerome Price,Sin clasificar,0.128096,4,1,549
-2021,Treekoo,Sin clasificar,0.127969,4,1,550
+2021,Treekoo,Urbano latino,0.127969,4,1,550
 2021,Notaker,Electrónica y dance,0.127922,3,2,551
 2021,Khrebto,Sin clasificar,0.127777,3,1,552
 2021,James Hype,Electrónica y dance,0.127729,5,4,553
@@ -4222,7 +4222,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Emanuel Satie,Sin clasificar,0.121445,3,2,584
 2021,Imran Khan,Sin clasificar,0.121409,1,1,585
 2021,Emma Danese,Sin clasificar,0.121135,3,3,586
-2021,Jan Blomqvist,Sin clasificar,0.120959,2,2,587
+2021,Jan Blomqvist,Electrónica y dance,0.120959,2,2,587
 2021,"Kreature, James Saunders (UK)",Sin clasificar,0.120781,3,1,588
 2021,Twisted Sister,Metal,0.120642,9,2,589
 2021,Timmo,Sin clasificar,0.120548,2,2,590
@@ -4230,16 +4230,16 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Rauschhaus,Electrónica y dance,0.120421,2,2,592
 2021,Kaoma,Electrónica y dance,0.120252,5,1,593
 2021,Adoo,Sin clasificar,0.119902,1,1,594
-2021,Rossi.,Sin clasificar,0.119596,3,2,595
+2021,Rossi.,Electrónica y dance,0.119596,3,2,595
 2021,LevyM,Sin clasificar,0.119322,2,2,596
-2021,Mati Guerra,Sin clasificar,0.119226,5,3,597
+2021,Mati Guerra,Urbano latino,0.119226,5,3,597
 2021,Fedde Le Grand,Electrónica y dance,0.119019,4,2,598
 2021,Xzibit,Hip-hop y rap,0.118553,2,2,599
 2021,Will Clarke,Sin clasificar,0.118430,3,1,600
 2021,Pete Oak,Electrónica y dance,0.118299,1,1,601
 2021,Alan Fitzpatrick,Electrónica y dance,0.118199,3,3,602
 2021,Chris Stussy,Sin clasificar,0.118090,2,1,603
-2021,Neil Smallridge,Sin clasificar,0.118056,1,1,604
+2021,Neil Smallridge,Electrónica y dance,0.118056,1,1,604
 2021,Loco Dice,Sin clasificar,0.117703,3,2,605
 2021,ASTO,Sin clasificar,0.117097,4,3,606
 2021,George Mensah,Sin clasificar,0.117025,4,2,607
@@ -4252,7 +4252,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Monolink,Electrónica y dance,0.116009,1,1,614
 2021,Mative,Sin clasificar,0.115977,3,3,615
 2021,Tenova,Sin clasificar,0.115864,3,2,616
-2021,DJ MRK,Sin clasificar,0.115785,4,3,617
+2021,DJ MRK,Urbano latino,0.115785,4,3,617
 2021,Amadori,Sin clasificar,0.115702,1,1,618
 2021,Kolter,Sin clasificar,0.115672,3,2,619
 2021,Audiomatic,Rock y alternativo,0.115521,2,2,620
@@ -4264,7 +4264,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Ben Delay,Electrónica y dance,0.114518,2,2,626
 2021,ZetaDJ,Sin clasificar,0.114501,4,3,627
 2021,Toman,Electrónica y dance,0.114163,1,1,628
-2021,DJ Cronox,Sin clasificar,0.114028,2,2,629
+2021,DJ Cronox,Urbano latino,0.114028,2,2,629
 2021,Robbie Doherty,Sin clasificar,0.114020,3,1,630
 2021,Dino Maggiorana,Electrónica y dance,0.113995,1,1,631
 2021,Dimitri Vegas & Like Mike,Electrónica y dance,0.113882,3,2,632
@@ -4274,7 +4274,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Alann M,Sin clasificar,0.112421,2,1,636
 2021,Black Loops,Sin clasificar,0.112353,1,1,637
 2021,James Saunders (UK),Sin clasificar,0.112311,3,2,638
-2021,Zato DJ,Sin clasificar,0.112286,7,3,639
+2021,Zato DJ,Urbano latino,0.112286,7,3,639
 2021,Julian Iannone,Sin clasificar,0.111828,1,1,640
 2021,Proudly People,Sin clasificar,0.111657,3,2,641
 2021,Charlotte de Witte,Electrónica y dance,0.111636,1,1,642
@@ -4297,22 +4297,22 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Gary Clark Jr.,Rock y alternativo,0.109363,1,1,659
 2021,Milion,Sin clasificar,0.109305,3,2,660
 2021,Babert,Sin clasificar,0.109179,4,2,661
-2021,Delph,Sin clasificar,0.109074,4,1,662
+2021,Delph,Electrónica y dance,0.109074,4,1,662
 2021,Kai Tracid,Electrónica y dance,0.108673,1,1,663
-2021,Kreech,Sin clasificar,0.108554,2,1,664
+2021,Kreech,Electrónica y dance,0.108554,2,1,664
 2021,Gustav Scheringer Duo,Sin clasificar,0.108492,1,1,665
 2021,Bodega,Sin clasificar,0.108455,3,2,666
 2021,The Golden Pony,Sin clasificar,0.108199,2,1,667
 2021,Amenazzy,Urbano latino,0.107866,4,2,668
 2021,Nick Walters,"R&B, soul, funk y jazz",0.107817,2,1,669
 2021,Danzig,Metal,0.107775,5,1,670
-2021,RUZE,Sin clasificar,0.107726,2,1,671
+2021,RUZE,Electrónica y dance,0.107726,2,1,671
 2021,Yan Cook,Electrónica y dance,0.107489,1,1,672
 2021,Kiddtetoon,Sin clasificar,0.107389,3,2,673
 2021,Solan,Sin clasificar,0.106961,1,1,674
-2021,ATFC,Sin clasificar,0.106904,3,3,675
+2021,ATFC,Electrónica y dance,0.106904,3,3,675
 2021,Rush,Rock y alternativo,0.106730,7,7,676
-2021,Nils Hoffmann,Sin clasificar,0.105979,2,2,677
+2021,Nils Hoffmann,Electrónica y dance,0.105979,2,2,677
 2021,Cauty,Urbano latino,0.105892,4,3,678
 2021,Robert Hood,Sin clasificar,0.105843,2,2,679
 2021,BURNS,Electrónica y dance,0.105600,2,1,680
@@ -4330,7 +4330,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Enzo Dong,Sin clasificar,0.102560,2,1,692
 2021,Ewan McVicar,Sin clasificar,0.102524,2,2,693
 2021,Paul Rudder,Sin clasificar,0.102392,2,2,694
-2021,Jay Nortown,Sin clasificar,0.102377,2,2,695
+2021,Jay Nortown,Electrónica y dance,0.102377,2,2,695
 2021,Michael Sembello,Pop,0.102010,2,1,696
 2021,Samuli Kemppi,Electrónica y dance,0.101896,1,1,697
 2021,DJ Khaled,Hip-hop y rap,0.101844,8,7,698
@@ -4338,7 +4338,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Brett Gould,Sin clasificar,0.101111,1,1,700
 2021,Junior Wells,Otros,0.100992,2,1,701
 2021,Tracy Chapman,Otros,0.100931,5,2,702
-2021,GAWP,Sin clasificar,0.100873,3,2,703
+2021,GAWP,Electrónica y dance,0.100873,3,2,703
 2021,Cecilia Muncal,Sin clasificar,0.100331,2,1,704
 2021,Shiba San,Electrónica y dance,0.100149,3,2,705
 2021,Carbon,Sin clasificar,0.100002,1,1,706
@@ -4351,7 +4351,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Pleight,Sin clasificar,0.098989,2,2,713
 2021,Luis Miguel,Otros,0.098961,3,3,714
 2021,Disaia,Sin clasificar,0.098701,1,1,715
-2021,Daniel Steinberg,Sin clasificar,0.098363,2,2,716
+2021,Daniel Steinberg,Electrónica y dance,0.098363,2,2,716
 2021,DJ Elements,Sin clasificar,0.097944,2,1,717
 2021,Hunee,Sin clasificar,0.097558,1,1,718
 2021,DJ Mannu Cortez,Sin clasificar,0.097514,2,2,719
@@ -4370,15 +4370,15 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Tristan van der Mieden,Sin clasificar,0.095556,1,1,732
 2021,Ultra Naté,Sin clasificar,0.095363,2,1,733
 2021,Koatz DJ,Sin clasificar,0.095034,4,2,734
-2021,Stainless,Sin clasificar,0.094924,2,2,735
+2021,Stainless,Electrónica y dance,0.094924,2,2,735
 2021,Charlie Parker,"R&B, soul, funk y jazz",0.094778,2,1,736
 2021,POURI X,Sin clasificar,0.094692,3,3,737
 2021,TMLH,Sin clasificar,0.094661,3,1,738
 2021,Marco Faraone,Electrónica y dance,0.094478,1,1,739
 2021,FREAK ON,Sin clasificar,0.094402,2,1,740
-2021,Pola DJ,Sin clasificar,0.094401,5,2,741
+2021,Pola DJ,Urbano latino,0.094401,5,2,741
 2021,Bob Juburi,Sin clasificar,0.094147,2,1,742
-2021,Amine Edge & DANCE,Sin clasificar,0.094075,5,2,743
+2021,Amine Edge & DANCE,Electrónica y dance,0.094075,5,2,743
 2021,GEPPS,Sin clasificar,0.093930,5,3,744
 2021,VAPA,Electrónica y dance,0.093800,1,1,745
 2021,Los Abuelos De La Nada,Rock y alternativo,0.093524,2,1,746
@@ -4423,7 +4423,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Dread Mar I,Cumbia y tropical,0.086162,2,1,785
 2021,Dima Sick,Sin clasificar,0.086093,3,1,786
 2021,Röyksopp,Electrónica y dance,0.086069,4,1,787
-2021,S.A.M.,Sin clasificar,0.085549,3,1,788
+2021,S.A.M.,Electrónica y dance,0.085549,3,1,788
 2021,Black Eyed Peas,Hip-hop y rap,0.085456,1,1,789
 2021,Rvssian,Hip-hop y rap,0.085419,4,3,790
 2021,Jauz,Electrónica y dance,0.085333,1,1,791
@@ -4440,7 +4440,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,From Alfie,Sin clasificar,0.083292,2,2,802
 2021,CID,Sin clasificar,0.083231,6,2,803
 2021,Freddie King,Otros,0.083043,2,1,804
-2021,Tomas Dobarro,Sin clasificar,0.082888,4,2,805
+2021,Tomas Dobarro,Urbano latino,0.082888,4,2,805
 2021,Totally Enormous Extinct Dinosaurs,Sin clasificar,0.082787,2,1,806
 2021,Sandé,Sin clasificar,0.082786,2,2,807
 2021,Kruder & Dorfmeister,Electrónica y dance,0.082618,1,1,808
@@ -4454,7 +4454,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Andrew Latimer,Rock y alternativo,0.081897,1,1,816
 2021,Living Colour,Rock y alternativo,0.081896,1,1,817
 2021,Nas,Hip-hop y rap,0.081659,1,1,818
-2021,PARTY SHIRT,Sin clasificar,0.081624,2,1,819
+2021,PARTY SHIRT,Electrónica y dance,0.081624,2,1,819
 2021,ChiChi Peralta,Cumbia y tropical,0.081537,4,3,820
 2021,Tom Novy,Electrónica y dance,0.081503,3,2,821
 2021,Selena Gomez,Pop,0.081498,3,1,822
@@ -4544,7 +4544,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Robert Elovsson Quartet,Sin clasificar,0.070139,1,1,906
 2021,Steve Winwood,Rock y alternativo,0.069982,2,1,907
 2021,KHEA,Urbano latino,0.069876,9,5,908
-2021,Andrew Meller,Sin clasificar,0.069871,2,2,909
+2021,Andrew Meller,Electrónica y dance,0.069871,2,2,909
 2021,Mr. Belt & Wezol,Sin clasificar,0.069864,2,2,910
 2021,Art Hirahara,"R&B, soul, funk y jazz",0.069686,1,1,911
 2021,Loumé,Sin clasificar,0.069651,3,2,912
@@ -4642,11 +4642,11 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Wiz Khalifa,Hip-hop y rap,0.060463,1,1,1004
 2021,Ray Charles,"R&B, soul, funk y jazz",0.060393,1,1,1005
 2021,Travie McCoy,Hip-hop y rap,0.060375,2,1,1006
-2021,Hannah Wants,Sin clasificar,0.060351,2,2,1007
+2021,Hannah Wants,Electrónica y dance,0.060351,2,2,1007
 2021,Imperial Atlas,Sin clasificar,0.060230,1,1,1008
 2021,Patricio Rey y sus Redonditos de Ricota,Rock y alternativo,0.060147,3,3,1009
 2021,Bleu Clair,Electrónica y dance,0.060012,1,1,1010
-2021,Mateo Ribak,Sin clasificar,0.059921,1,1,1011
+2021,Mateo Ribak,Urbano latino,0.059921,1,1,1011
 2021,El Kaio,Sin clasificar,0.059864,1,1,1012
 2021,Majid Jordan,Rock y alternativo,0.059700,1,1,1013
 2021,GIANT,Rock y alternativo,0.059623,3,2,1014
@@ -4755,7 +4755,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Troy,Sin clasificar,0.052759,3,3,1117
 2021,Savannah De Lucia,Sin clasificar,0.052490,1,1,1118
 2021,Dj Johan,Sin clasificar,0.052351,1,1,1119
-2021,DJ Luc14no Antileo,Sin clasificar,0.052329,1,1,1120
+2021,DJ Luc14no Antileo,Urbano latino,0.052329,1,1,1120
 2021,Maxi Tolosa,Sin clasificar,0.052296,1,1,1121
 2021,Muddy Waters,Otros,0.052267,1,1,1122
 2021,Nessa Manuel,Sin clasificar,0.052219,1,1,1123
@@ -4784,7 +4784,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Erratic Peace,Sin clasificar,0.050833,1,1,1146
 2021,Joseph Sai,Sin clasificar,0.050833,1,1,1147
 2021,Adelphi Music Factory,Electrónica y dance,0.050801,2,1,1148
-2021,Mak Donal,Sin clasificar,0.050618,1,1,1149
+2021,Mak Donal,Urbano latino,0.050618,1,1,1149
 2021,DaBaby,Hip-hop y rap,0.050481,1,1,1150
 2021,Mach & Daddy,Urbano latino,0.050467,3,2,1151
 2021,Debyah,Sin clasificar,0.050278,1,1,1152
@@ -4816,7 +4816,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Just Kiddin,Sin clasificar,0.048824,1,1,1178
 2021,Kool & The Gang,"R&B, soul, funk y jazz",0.048664,3,3,1179
 2021,Nipsey Hussle,Hip-hop y rap,0.048622,1,1,1180
-2021,Lukini,Sin clasificar,0.048592,1,1,1181
+2021,Lukini,Urbano latino,0.048592,1,1,1181
 2021,Crossnaders,Electrónica y dance,0.048584,1,1,1182
 2021,MorganJ,Sin clasificar,0.048482,2,1,1183
 2021,Samira Tesfay,Sin clasificar,0.048466,1,1,1184
@@ -4887,7 +4887,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Yonatan Awate,Sin clasificar,0.044861,1,1,1249
 2021,Tine Mydland,Sin clasificar,0.044722,1,1,1250
 2021,Goldtrix,Sin clasificar,0.044552,2,1,1251
-2021,Format:B,Sin clasificar,0.044447,2,1,1252
+2021,Format:B,Electrónica y dance,0.044447,2,1,1252
 2021,Mjuk,Sin clasificar,0.044306,1,1,1253
 2021,L.Dre,Hip-hop y rap,0.044209,2,2,1254
 2021,Raúl Lavié,Otros,0.044206,2,1,1255
@@ -5040,7 +5040,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Erasure,Pop,0.027674,1,1,1402
 2021,Blewbird,Sin clasificar,0.027547,1,1,1403
 2021,John Cafferty,Sin clasificar,0.027465,10,1,1404
-2021,Callejero Fino,Sin clasificar,0.027435,1,1,1405
+2021,Callejero Fino,Urbano latino,0.027435,1,1,1405
 2021,Pierre Leck,Sin clasificar,0.027324,1,1,1406
 2021,Lavern,Electrónica y dance,0.026838,1,1,1407
 2021,Hardcore Superstar,Metal,0.026755,1,1,1408
@@ -5058,7 +5058,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Arkham Knights,Electrónica y dance,0.024677,1,1,1420
 2021,Rick Pier O'Neil,Sin clasificar,0.024549,1,1,1421
 2021,Dj Kairuz,Sin clasificar,0.024436,2,1,1422
-2021,Sak Noel,Sin clasificar,0.024252,1,1,1423
+2021,Sak Noel,Electrónica y dance,0.024252,1,1,1423
 2021,The Animals,Rock y alternativo,0.024182,2,1,1424
 2021,José Luis Rodríguez,Otros,0.023913,1,1,1425
 2021,Men At Work,Rock y alternativo,0.023847,6,3,1426
@@ -5133,7 +5133,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2021,Barry White,"R&B, soul, funk y jazz",0.014750,2,1,1495
 2021,Friends & I,Sin clasificar,0.014692,1,1,1496
 2021,Carly,Sin clasificar,0.014652,1,1,1497
-2021,Karina,Sin clasificar,0.014632,1,1,1498
+2021,Karina,Cumbia y tropical,0.014632,1,1,1498
 2021,The Cars,Rock y alternativo,0.014548,1,1,1499
 2021,Merk & Kremont,Electrónica y dance,0.014476,1,1,1500
 2021,DJ AEDIDAS,Sin clasificar,0.014233,1,1,1501
@@ -5669,7 +5669,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Becky G,Urbano latino,1.019783,32,10,79
 2022,Massano,Electrónica y dance,0.999317,17,3,80
 2022,Yotto,Electrónica y dance,0.927935,28,4,81
-2022,Liu Bei,Sin clasificar,0.922365,21,4,82
+2022,Liu Bei,Electrónica y dance,0.922365,21,4,82
 2022,Ten Walls,Electrónica y dance,0.921401,15,5,83
 2022,Green Velvet,Electrónica y dance,0.898766,22,9,84
 2022,Guy Mantzur,Electrónica y dance,0.880999,32,12,85
@@ -5692,92 +5692,92 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,KAS:ST,Electrónica y dance,0.694983,15,7,102
 2022,Rodriguez Jr.,Electrónica y dance,0.685256,11,4,103
 2022,Mano Le Tough,Electrónica y dance,0.684770,15,8,104
-2022,DJ Kessler,Sin clasificar,0.679276,23,12,105
+2022,DJ Kessler,Urbano latino,0.679276,23,12,105
 2022,Reykon,Urbano latino,0.670276,22,3,106
 2022,Muppet DJ,Urbano latino,0.669495,20,4,107
-2022,DJ Luc14no Antileo,Sin clasificar,0.661414,32,12,108
+2022,DJ Luc14no Antileo,Urbano latino,0.661414,32,12,108
 2022,Nicky Jam,Urbano latino,0.660356,29,21,109
 2022,Maluma,Urbano latino,0.654804,38,16,110
 2022,Noir,Electrónica y dance,0.653930,11,3,111
 2022,James Hype,Electrónica y dance,0.634171,32,5,112
 2022,Zion & Lennox,Urbano latino,0.633256,26,6,113
-2022,Cream (PL),Sin clasificar,0.621464,12,5,114
-2022,Kevin de Vries,Sin clasificar,0.616690,14,6,115
+2022,Cream (PL),Electrónica y dance,0.621464,12,5,114
+2022,Kevin de Vries,Electrónica y dance,0.616690,14,6,115
 2022,CamelPhat,Electrónica y dance,0.607764,21,11,116
 2022,Stephan Bodzin,Electrónica y dance,0.595444,9,8,117
 2022,Baby Rasta & Gringo,Urbano latino,0.592937,27,6,118
 2022,Brytiago,Urbano latino,0.588210,30,8,119
 2022,Randy,Urbano latino,0.580603,25,8,120
-2022,SevenDoors,Sin clasificar,0.579822,7,4,121
+2022,SevenDoors,Electrónica y dance,0.579822,7,4,121
 2022,Jona Mix,Urbano latino,0.578238,34,17,122
 2022,Revol,Urbano latino,0.576468,16,5,123
 2022,Michael Jackson,Pop,0.570919,19,7,124
-2022,Freakme,Sin clasificar,0.569343,12,3,125
+2022,Freakme,Electrónica y dance,0.569343,12,3,125
 2022,La Joaqui,Urbano latino,0.563228,32,13,126
 2022,Farruko,Urbano latino,0.557493,27,9,127
-2022,Treekoo,Sin clasificar,0.547356,28,15,128
+2022,Treekoo,Urbano latino,0.547356,28,15,128
 2022,Dalex,Urbano latino,0.545710,18,5,129
 2022,Miss Monique,Electrónica y dance,0.539417,13,7,130
 2022,Ñengo Flow,Urbano latino,0.539286,18,7,131
-2022,Ric Niels,Sin clasificar,0.539164,15,5,132
-2022,DJ MRK,Sin clasificar,0.538560,20,6,133
-2022,Denis Horvat,Sin clasificar,0.538006,12,5,134
+2022,Ric Niels,Electrónica y dance,0.539164,15,5,132
+2022,DJ MRK,Urbano latino,0.538560,20,6,133
+2022,Denis Horvat,Electrónica y dance,0.538006,12,5,134
 2022,Late Replies,Electrónica y dance,0.533246,9,3,135
 2022,Mueka,Urbano latino,0.522778,10,2,136
-2022,EANP,Sin clasificar,0.521191,7,5,137
+2022,EANP,Electrónica y dance,0.521191,7,5,137
 2022,Kevo DJ,Urbano latino,0.519488,29,19,138
 2022,Wisin,Urbano latino,0.517697,34,4,139
 2022,Paulo Londra,Urbano latino,0.507158,25,14,140
 2022,Raffa Fl,Electrónica y dance,0.503975,31,14,141
-2022,Mahony,Sin clasificar,0.503001,7,2,142
+2022,Mahony,Electrónica y dance,0.503001,7,2,142
 2022,Plan B,Hip-hop y rap,0.492414,35,12,143
-2022,Mens Of Clam,Sin clasificar,0.490087,8,4,144
-2022,Felipe Novaes,Sin clasificar,0.487276,7,3,145
+2022,Mens Of Clam,Electrónica y dance,0.490087,8,4,144
+2022,Felipe Novaes,Electrónica y dance,0.487276,7,3,145
 2022,Cloonee,Electrónica y dance,0.482784,30,12,146
 2022,Juan Buitrago,Electrónica y dance,0.482012,6,3,147
 2022,Sidney Charles,Electrónica y dance,0.477366,8,3,148
 2022,FISHER,Electrónica y dance,0.474041,21,10,149
 2022,Guns N' Roses,Rock y alternativo,0.471328,31,8,150
 2022,Van Halen,Rock y alternativo,0.470701,23,2,151
-2022,Eme Sarav,Sin clasificar,0.470402,23,12,152
-2022,James Zabiela,Sin clasificar,0.467446,15,8,153
+2022,Eme Sarav,Urbano latino,0.470402,23,12,152
+2022,James Zabiela,Electrónica y dance,0.467446,15,8,153
 2022,KISS,Rock y alternativo,0.465487,28,4,154
-2022,RUZE,Sin clasificar,0.459191,9,4,155
+2022,RUZE,Electrónica y dance,0.459191,9,4,155
 2022,Tale Of Us,Electrónica y dance,0.457912,18,10,156
-2022,Nico Servidio DJ,Sin clasificar,0.455209,15,3,157
+2022,Nico Servidio DJ,Urbano latino,0.455209,15,3,157
 2022,The Who,Rock y alternativo,0.451948,9,3,158
 2022,Los Piojos,Rock y alternativo,0.451601,13,5,159
-2022,ANNA,Sin clasificar,0.449348,21,6,160
+2022,ANNA,Electrónica y dance,0.449348,21,6,160
 2022,Shakira,Pop,0.448911,20,3,161
-2022,DAVI,Sin clasificar,0.448789,5,5,162
+2022,DAVI,Electrónica y dance,0.448789,5,5,162
 2022,Los Palmeras,Cumbia y tropical,0.442891,9,9,163
-2022,Callejero Fino,Sin clasificar,0.433713,19,8,164
-2022,Andrew Azara,Sin clasificar,0.428808,6,2,165
+2022,Callejero Fino,Urbano latino,0.433713,19,8,164
+2022,Andrew Azara,Electrónica y dance,0.428808,6,2,165
 2022,Re.You,Electrónica y dance,0.428612,5,1,166
 2022,Ozzy Osbourne,Metal,0.425362,16,1,167
-2022,Rossi.,Sin clasificar,0.425189,7,2,168
-2022,Simos Tagias,Sin clasificar,0.421137,3,1,169
+2022,Rossi.,Electrónica y dance,0.425189,7,2,168
+2022,Simos Tagias,Electrónica y dance,0.421137,3,1,169
 2022,Wheats,Electrónica y dance,0.420975,7,3,170
 2022,Kamilo Sanclemente,Electrónica y dance,0.419644,9,6,171
 2022,Gai Barone,Electrónica y dance,0.418234,9,3,172
 2022,Rennie Foster,Electrónica y dance,0.416779,10,3,173
 2022,Hot Since 82,Electrónica y dance,0.414223,11,5,174
-2022,Amine Edge & DANCE,Sin clasificar,0.412801,6,1,175
+2022,Amine Edge & DANCE,Electrónica y dance,0.412801,6,1,175
 2022,The Rolling Stones,Rock y alternativo,0.411483,20,9,176
 2022,Tom Caruso,Sin clasificar,0.409921,5,1,177
-2022,Lukini,Sin clasificar,0.408403,10,6,178
+2022,Lukini,Urbano latino,0.408403,10,6,178
 2022,Sting,Rock y alternativo,0.408356,11,5,179
 2022,DJ Tao,Urbano latino,0.404443,19,7,180
-2022,Damian Escudero DJ,Sin clasificar,0.401506,13,1,181
+2022,Damian Escudero DJ,Urbano latino,0.401506,13,1,181
 2022,Andrés Calamaro,Rock y alternativo,0.400719,11,4,182
 2022,ANOTR,Electrónica y dance,0.399499,16,6,183
 2022,Jamie Jones,Electrónica y dance,0.396938,9,5,184
 2022,Kreature,Electrónica y dance,0.396907,15,6,185
-2022,Mateo Ribak,Sin clasificar,0.396607,15,6,186
-2022,DJ Roma,Sin clasificar,0.394202,18,9,187
+2022,Mateo Ribak,Urbano latino,0.396607,15,6,186
+2022,DJ Roma,Urbano latino,0.394202,18,9,187
 2022,Gruuve,Sin clasificar,0.392610,11,2,188
-2022,Melé,Sin clasificar,0.385222,8,3,189
-2022,Tomas Dobarro,Sin clasificar,0.383377,14,1,190
+2022,Melé,Electrónica y dance,0.385222,8,3,189
+2022,Tomas Dobarro,Urbano latino,0.383377,14,1,190
 2022,Bon Jovi,Rock y alternativo,0.381177,9,3,191
 2022,Jowell & Randy,Urbano latino,0.376723,15,4,192
 2022,La Factoria,Urbano latino,0.376301,8,8,193
@@ -5786,12 +5786,12 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Amir Telem,Sin clasificar,0.366018,4,3,196
 2022,Figueras,Sin clasificar,0.365330,8,3,197
 2022,Andy Rivera,Urbano latino,0.358746,7,2,198
-2022,ATFC,Sin clasificar,0.358525,7,1,199
+2022,ATFC,Electrónica y dance,0.358525,7,1,199
 2022,Myke Towers,Urbano latino,0.356380,23,10,200
 2022,Konstantin Sibold,Electrónica y dance,0.355763,5,2,201
 2022,Den Haas,Sin clasificar,0.350818,4,2,202
 2022,Intoxicados,Rock y alternativo,0.349968,16,8,203
-2022,Perro Primo,Sin clasificar,0.349182,14,4,204
+2022,Perro Primo,Urbano latino,0.349182,14,4,204
 2022,Rebūke,Electrónica y dance,0.347679,8,2,205
 2022,VAPA,Electrónica y dance,0.345307,8,3,206
 2022,Italobros,Electrónica y dance,0.344414,12,9,207
@@ -5801,13 +5801,13 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Night Talk,Sin clasificar,0.339717,4,1,211
 2022,Oxia,Electrónica y dance,0.339471,7,3,212
 2022,La Kuppe,Cumbia y tropical,0.337898,19,6,213
-2022,Pola DJ,Sin clasificar,0.335960,15,4,214
+2022,Pola DJ,Urbano latino,0.335960,15,4,214
 2022,My Favorite Robot,Electrónica y dance,0.334164,4,1,215
 2022,Los Abuelos De La Nada,Rock y alternativo,0.329942,9,2,216
 2022,Rokazer,Sin clasificar,0.329258,6,3,217
 2022,Mennie,Sin clasificar,0.328836,5,2,218
 2022,Tapesh,Sin clasificar,0.328539,3,2,219
-2022,ASTRE,Sin clasificar,0.327132,7,3,220
+2022,ASTRE,Electrónica y dance,0.327132,7,3,220
 2022,Lunay,Urbano latino,0.324361,35,6,221
 2022,Sied Van Riel,Electrónica y dance,0.321678,4,3,222
 2022,Cristian Merino,Sin clasificar,0.314029,4,1,223
@@ -5821,7 +5821,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Steve Ouimette,Rock y alternativo,0.297659,7,1,231
 2022,Axel Caram,Urbano latino,0.295134,12,10,232
 2022,Durante,Electrónica y dance,0.295034,6,2,233
-2022,Mind Against,Sin clasificar,0.294821,8,5,234
+2022,Mind Against,Electrónica y dance,0.294821,8,5,234
 2022,Agents Of Time,Electrónica y dance,0.293952,16,5,235
 2022,Mickey,Sin clasificar,0.293384,3,2,236
 2022,Tirri La Roca,Sin clasificar,0.292399,11,3,237
@@ -5829,17 +5829,17 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Mallin,Sin clasificar,0.287071,6,3,239
 2022,D Stone,Sin clasificar,0.285963,6,3,240
 2022,Gorge,Electrónica y dance,0.285135,6,4,241
-2022,Golan Zocher,Sin clasificar,0.282090,5,2,242
-2022,Mati Guerra,Sin clasificar,0.281563,16,6,243
+2022,Golan Zocher,Electrónica y dance,0.282090,5,2,242
+2022,Mati Guerra,Urbano latino,0.281563,16,6,243
 2022,Wade,Electrónica y dance,0.281207,21,7,244
 2022,Pink Floyd,Rock y alternativo,0.280773,10,6,245
 2022,Fred again..,Electrónica y dance,0.280504,5,2,246
 2022,THEOS,Sin clasificar,0.280251,4,2,247
 2022,Leftwing : Kody,Sin clasificar,0.279076,4,1,248
 2022,Fer Palacio,Electrónica y dance,0.276715,7,6,249
-2022,JADED,Sin clasificar,0.276225,13,4,250
+2022,JADED,Electrónica y dance,0.276225,13,4,250
 2022,Sebastian Busto,Sin clasificar,0.275662,5,2,251
-2022,Kabi (AR),Sin clasificar,0.275556,2,1,252
+2022,Kabi (AR),Electrónica y dance,0.275556,2,1,252
 2022,Cid Inc.,Electrónica y dance,0.275194,3,1,253
 2022,Cuartero,Electrónica y dance,0.274989,5,3,254
 2022,Julian Jeweil,Electrónica y dance,0.274820,7,2,255
@@ -5876,17 +5876,17 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,DJ Cuba,Sin clasificar,0.234621,14,8,286
 2022,Foreigner,Rock y alternativo,0.234493,11,1,287
 2022,Black V Neck,Sin clasificar,0.232387,7,2,288
-2022,Teho,Sin clasificar,0.230814,3,3,289
+2022,Teho,Electrónica y dance,0.230814,3,3,289
 2022,Blessd,Sin clasificar,0.227760,9,3,290
 2022,Mathame,Electrónica y dance,0.227084,7,3,291
 2022,Cardi B,Hip-hop y rap,0.227073,15,2,292
 2022,Lehar,Electrónica y dance,0.224876,3,2,293
 2022,Sainte Vie,Electrónica y dance,0.223936,4,1,294
-2022,Weird Sounding Dude,Sin clasificar,0.223400,2,1,295
+2022,Weird Sounding Dude,Electrónica y dance,0.223400,2,1,295
 2022,Loko,Hip-hop y rap,0.223031,3,2,296
-2022,Piero Pirupa,Sin clasificar,0.222861,7,2,297
-2022,Kaleb Di Masi,Sin clasificar,0.222526,12,6,298
-2022,Colyn,Sin clasificar,0.221970,9,5,299
+2022,Piero Pirupa,Electrónica y dance,0.222861,7,2,297
+2022,Kaleb Di Masi,Urbano latino,0.222526,12,6,298
+2022,Colyn,Electrónica y dance,0.221970,9,5,299
 2022,Nautica (UK),Sin clasificar,0.221004,6,3,300
 2022,Icarus,Electrónica y dance,0.218777,6,2,301
 2022,Mikel Ayerra,Sin clasificar,0.218405,4,1,302
@@ -5897,7 +5897,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Anyma,Electrónica y dance,0.213954,21,5,307
 2022,Joel Corry,Electrónica y dance,0.210965,14,4,308
 2022,Alex Wellmann,Sin clasificar,0.210659,6,3,309
-2022,Blackchild (ITA),Sin clasificar,0.210641,7,2,310
+2022,Blackchild (ITA),Electrónica y dance,0.210641,7,2,310
 2022,DJuliaan,Sin clasificar,0.210198,7,1,311
 2022,Kolombo,Electrónica y dance,0.207984,8,4,312
 2022,Alan Boit,Sin clasificar,0.207966,3,2,313
@@ -5921,14 +5921,14 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,gardenstate,Electrónica y dance,0.195822,3,2,331
 2022,Koatz DJ,Sin clasificar,0.195799,9,4,332
 2022,ZZ Top,Rock y alternativo,0.195032,5,1,333
-2022,Zato DJ,Sin clasificar,0.194518,10,5,334
-2022,Kreech,Sin clasificar,0.193190,5,1,335
+2022,Zato DJ,Urbano latino,0.194518,10,5,334
+2022,Kreech,Electrónica y dance,0.193190,5,1,335
 2022,NATHY PELUSO,Sin clasificar,0.193146,7,3,336
 2022,Jairo Catelo,Electrónica y dance,0.192741,3,1,337
 2022,Don Omar,Urbano latino,0.192557,31,18,338
 2022,Papu DJ,Urbano latino,0.191752,10,4,339
 2022,Martin Ikin,Electrónica y dance,0.190715,11,7,340
-2022,Cris Mj,Sin clasificar,0.190575,15,5,341
+2022,Cris Mj,Urbano latino,0.190575,15,5,341
 2022,Frankie M.,Sin clasificar,0.189960,3,1,342
 2022,Mindchatter,Electrónica y dance,0.189155,5,1,343
 2022,Lee Burridge,Electrónica y dance,0.188921,3,2,344
@@ -5949,7 +5949,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Living Colour,Rock y alternativo,0.179349,9,1,359
 2022,Echonomist,Sin clasificar,0.179131,3,1,360
 2022,The Police,Rock y alternativo,0.178053,6,3,361
-2022,CIOZ,Sin clasificar,0.176954,6,1,362
+2022,CIOZ,Electrónica y dance,0.176954,6,1,362
 2022,Rage Against The Machine,Metal,0.176626,6,3,363
 2022,Piem,Sin clasificar,0.176310,3,2,364
 2022,Cj Borika,Sin clasificar,0.176158,13,1,365
@@ -5978,7 +5978,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Danzig,Metal,0.158745,7,1,388
 2022,Franky Rizardo,Sin clasificar,0.158198,5,3,389
 2022,Brad Brunner,Sin clasificar,0.157074,3,1,390
-2022,Mochakk,Sin clasificar,0.156977,11,9,391
+2022,Mochakk,Electrónica y dance,0.156977,11,9,391
 2022,Santiago Lojo,Sin clasificar,0.156924,8,2,392
 2022,RAFFA (BR),Sin clasificar,0.156149,3,1,393
 2022,U S H N U,Sin clasificar,0.154375,10,8,394
@@ -6009,7 +6009,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Carl Waller,Sin clasificar,0.142057,3,3,419
 2022,Teleport-X,Sin clasificar,0.141938,2,1,420
 2022,Emma Hewitt,Electrónica y dance,0.141522,3,3,421
-2022,Paul Deep (AR),Sin clasificar,0.141111,1,1,422
+2022,Paul Deep (AR),Electrónica y dance,0.141111,1,1,422
 2022,Michael A,Sin clasificar,0.139547,4,2,423
 2022,Chief Keef,Hip-hop y rap,0.138901,4,1,424
 2022,Nōpi,Electrónica y dance,0.138900,5,3,425
@@ -6019,7 +6019,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Maxim Lany,Electrónica y dance,0.136757,3,2,429
 2022,David Bowie,Rock y alternativo,0.136736,3,2,430
 2022,Lovebirds,Sin clasificar,0.136321,3,2,431
-2022,Benja Murano,Sin clasificar,0.135747,9,9,432
+2022,Benja Murano,Urbano latino,0.135747,9,9,432
 2022,Pinky SD,Cumbia y tropical,0.134513,6,2,433
 2022,D-Sens,Sin clasificar,0.134498,1,1,434
 2022,Marco Acevedo,Urbano latino,0.134403,5,1,435
@@ -6035,7 +6035,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,"Wise ""the Gold Pen""",Urbano latino,0.131182,3,1,445
 2022,D-Nox,Sin clasificar,0.131114,3,2,446
 2022,Betoko,Electrónica y dance,0.131035,3,3,447
-2022,Mambo DJ,Sin clasificar,0.130435,5,4,448
+2022,Mambo DJ,Urbano latino,0.130435,5,4,448
 2022,El Profe,Sin clasificar,0.130432,6,4,449
 2022,FerroDJ,Sin clasificar,0.130182,5,2,450
 2022,Vincent Leijen,Sin clasificar,0.129788,2,1,451
@@ -6102,7 +6102,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Lee Cabrera,Pop,0.110089,4,2,512
 2022,Not Just Me,Sin clasificar,0.109928,2,1,513
 2022,Nico Morano,Electrónica y dance,0.109896,2,2,514
-2022,BANDIDO,Sin clasificar,0.109467,3,2,515
+2022,BANDIDO,Urbano latino,0.109467,3,2,515
 2022,NTFO,Sin clasificar,0.108831,3,1,516
 2022,Sean Finn,Sin clasificar,0.108297,2,2,517
 2022,Grand Funk Railroad,Rock y alternativo,0.108087,3,1,518
@@ -6164,7 +6164,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Trap Capos,Urbano latino,0.091458,6,4,574
 2022,Malikk,Sin clasificar,0.090606,5,2,575
 2022,SNTG,Sin clasificar,0.090494,4,1,576
-2022,Patrice Bäumel,Sin clasificar,0.089997,2,2,577
+2022,Patrice Bäumel,Electrónica y dance,0.089997,2,2,577
 2022,Gene Kelly,Sin clasificar,0.089352,2,1,578
 2022,PAUZA,Sin clasificar,0.089317,8,7,579
 2022,MYA,"R&B, soul, funk y jazz",0.089088,5,2,580
@@ -6182,7 +6182,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Round,Sin clasificar,0.085142,1,1,592
 2022,DJ Pela,Sin clasificar,0.084133,4,1,593
 2022,Lee Konitz,"R&B, soul, funk y jazz",0.083777,1,1,594
-2022,Shermanology,Sin clasificar,0.083759,5,1,595
+2022,Shermanology,Electrónica y dance,0.083759,5,1,595
 2022,Tiago PZK,Urbano latino,0.083354,8,4,596
 2022,Louis Millne,Sin clasificar,0.082816,2,1,597
 2022,Scratch Massive,Electrónica y dance,0.082603,1,1,598
@@ -6272,7 +6272,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Nas Elmes,Sin clasificar,0.062992,1,1,682
 2022,Solardo,Sin clasificar,0.062721,8,4,683
 2022,Waxman (CA),Sin clasificar,0.062394,1,1,684
-2022,LondonGround,Sin clasificar,0.061997,2,1,685
+2022,LondonGround,Electrónica y dance,0.061997,2,1,685
 2022,DJ Kbz,Urbano latino,0.061886,8,6,686
 2022,Tiga,Electrónica y dance,0.061737,2,2,687
 2022,Dimmish,Electrónica y dance,0.061720,4,3,688
@@ -6303,7 +6303,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Julius Popper,Sin clasificar,0.057357,1,1,713
 2022,Chalko,Sin clasificar,0.057263,1,1,714
 2022,Pavel Dovgal,Sin clasificar,0.057127,2,2,715
-2022,Nils Hoffmann,Sin clasificar,0.057106,1,1,716
+2022,Nils Hoffmann,Electrónica y dance,0.057106,1,1,716
 2022,Bantwanas,Sin clasificar,0.056949,1,1,717
 2022,Flatland Park,Electrónica y dance,0.056747,1,1,718
 2022,Pop Smoke,Hip-hop y rap,0.056693,2,1,719
@@ -6329,12 +6329,12 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Etta Jones,"R&B, soul, funk y jazz",0.053948,1,1,739
 2022,Danny Rhys,Sin clasificar,0.053777,1,1,740
 2022,Tracy Chapman,Otros,0.053644,1,1,741
-2022,DJ Roman,Sin clasificar,0.053591,2,1,742
+2022,DJ Roman,Urbano latino,0.053591,2,1,742
 2022,Quivver,Electrónica y dance,0.053500,1,1,743
 2022,Julieta Venegas,Rock y alternativo,0.053001,2,1,744
 2022,Duke Boara,Sin clasificar,0.052815,1,1,745
 2022,Helsloot,Electrónica y dance,0.052688,1,1,746
-2022,Facu Vazquez,Sin clasificar,0.052568,3,1,747
+2022,Facu Vazquez,Urbano latino,0.052568,3,1,747
 2022,zzoilo,Sin clasificar,0.052192,2,1,748
 2022,TINI,Pop,0.051912,5,5,749
 2022,Vavudd,Sin clasificar,0.051667,1,1,750
@@ -6391,7 +6391,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Nene Malo,Cumbia y tropical,0.044416,3,2,801
 2022,BM,Hip-hop y rap,0.044272,3,3,802
 2022,La Mosca Tse-Tse,Pop,0.044234,3,2,803
-2022,Ben Sterling,Sin clasificar,0.043787,4,2,804
+2022,Ben Sterling,Electrónica y dance,0.043787,4,2,804
 2022,Jaxomy,Sin clasificar,0.043744,1,1,805
 2022,Eloy,Rock y alternativo,0.043015,3,2,806
 2022,Tru Funk,Sin clasificar,0.042346,2,1,807
@@ -6401,7 +6401,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Samim,Electrónica y dance,0.041670,1,1,811
 2022,Queen,Rock y alternativo,0.041590,5,4,812
 2022,Nicki Nicole,Urbano latino,0.041452,4,3,813
-2022,The Black Jets,Sin clasificar,0.041439,2,1,814
+2022,The Black Jets,Rock y alternativo,0.041439,2,1,814
 2022,Don Miguelo,Urbano latino,0.040842,2,1,815
 2022,Reik,Otros,0.040617,5,5,816
 2022,Bronski Beat,Pop,0.040513,2,1,817
@@ -6416,7 +6416,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Cypress Hill,Hip-hop y rap,0.039359,1,1,826
 2022,Kidd Keo,Hip-hop y rap,0.039336,2,2,827
 2022,Bruno LC,Sin clasificar,0.039188,1,1,828
-2022,Franky Wah,Sin clasificar,0.039044,2,1,829
+2022,Franky Wah,Electrónica y dance,0.039044,2,1,829
 2022,Starship,Rock y alternativo,0.038832,1,1,830
 2022,We Are Fine,Sin clasificar,0.038356,3,2,831
 2022,Talento de Barrio,Sin clasificar,0.038347,1,1,832
@@ -6439,7 +6439,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Santiago Novello,Sin clasificar,0.035500,2,1,849
 2022,Foals,Rock y alternativo,0.035482,5,2,850
 2022,George Michael,Pop,0.035425,2,1,851
-2022,Volkoder,Sin clasificar,0.034714,1,1,852
+2022,Volkoder,Electrónica y dance,0.034714,1,1,852
 2022,Jere Gines,Sin clasificar,0.034692,1,1,853
 2022,Arcangel & De La Ghetto,Urbano latino,0.034582,3,1,854
 2022,Dread Mar I,Cumbia y tropical,0.034475,1,1,855
@@ -6476,7 +6476,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Adam Husa,Sin clasificar,0.028444,1,1,886
 2022,Pegboard Nerds,Electrónica y dance,0.028255,1,1,887
 2022,Catching Flies,Electrónica y dance,0.028221,3,2,888
-2022,Shakedown,Sin clasificar,0.028137,3,2,889
+2022,Shakedown,Electrónica y dance,0.028137,3,2,889
 2022,Maga,Sin clasificar,0.028081,1,1,890
 2022,Jamie Fielding,Sin clasificar,0.027686,1,1,891
 2022,pandaa,Sin clasificar,0.027657,1,1,892
@@ -6487,12 +6487,12 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Sérgio Mendes,"R&B, soul, funk y jazz",0.027100,4,3,897
 2022,Matt Guy,Sin clasificar,0.027064,3,1,898
 2022,John Lennon,Rock y alternativo,0.026950,1,1,899
-2022,Mak Donal,Sin clasificar,0.026489,1,1,900
+2022,Mak Donal,Urbano latino,0.026489,1,1,900
 2022,Maetrik,Sin clasificar,0.026472,2,2,901
 2022,D'Arabia,Sin clasificar,0.026296,1,1,902
 2022,HVMZA,Sin clasificar,0.026231,3,3,903
 2022,BRIIAN DJ,Sin clasificar,0.025303,1,1,904
-2022,Los Auténticos Decadentes,Sin clasificar,0.025127,1,1,905
+2022,Los Auténticos Decadentes,Rock y alternativo,0.025127,1,1,905
 2022,Travie McCoy,Hip-hop y rap,0.024764,1,1,906
 2022,Kieran Hemming,Sin clasificar,0.024031,1,1,907
 2022,Ken Kelly,Sin clasificar,0.023733,1,1,908
@@ -6594,7 +6594,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Thomas Hoffknecht,Sin clasificar,0.015649,2,1,1004
 2022,AVTEL,Sin clasificar,0.015485,3,1,1005
 2022,Ms. Elin Liso,Sin clasificar,0.015407,1,1,1006
-2022,Rayito Colombiano,Sin clasificar,0.014949,1,1,1007
+2022,Rayito Colombiano,Cumbia y tropical,0.014949,1,1,1007
 2022,Teenage Mutants,Electrónica y dance,0.014948,1,1,1008
 2022,ASHER SWISSA,Sin clasificar,0.014915,2,1,1009
 2022,Rex The Dog,Electrónica y dance,0.014532,5,2,1010
@@ -6662,7 +6662,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Brazil Inc,Sin clasificar,0.010228,1,1,1072
 2022,Elton John,Rock y alternativo,0.010151,7,7,1073
 2022,Sonora Skandalo,Sin clasificar,0.010109,1,1,1074
-2022,Papichamp,Sin clasificar,0.010016,2,1,1075
+2022,Papichamp,Urbano latino,0.010016,2,1,1075
 2022,Los Prisioneros,Rock y alternativo,0.009967,2,1,1076
 2022,Luca Mazzei,Sin clasificar,0.009825,1,1,1077
 2022,"Alex Dolby, Santos",Sin clasificar,0.009816,3,1,1078
@@ -6702,7 +6702,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Butch,Electrónica y dance,0.008631,3,1,1112
 2022,311,Rock y alternativo,0.008604,2,1,1113
 2022,Tears For Fears,Rock y alternativo,0.008569,2,1,1114
-2022,Ilario Alicante,Sin clasificar,0.008533,2,1,1115
+2022,Ilario Alicante,Electrónica y dance,0.008533,2,1,1115
 2022,Pele,Sin clasificar,0.008533,1,1,1116
 2022,Tina Turner,Pop,0.008501,1,1,1117
 2022,Negroni Nails,Sin clasificar,0.008495,3,1,1118
@@ -6716,7 +6716,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Nacho Portichuelo,Sin clasificar,0.008208,3,1,1126
 2022,Dansson,Sin clasificar,0.008128,5,4,1127
 2022,KVSH,Sin clasificar,0.008075,1,1,1128
-2022,Hector Couto,Sin clasificar,0.008049,1,1,1129
+2022,Hector Couto,Electrónica y dance,0.008049,1,1,1129
 2022,Space Motion,Electrónica y dance,0.008042,3,2,1130
 2022,Guy J,Electrónica y dance,0.007975,3,1,1131
 2022,Josh Grover,Sin clasificar,0.007950,1,1,1132
@@ -6756,7 +6756,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,La Base,Hip-hop y rap,0.006540,1,1,1166
 2022,Jon Silva,Sin clasificar,0.006522,2,1,1167
 2022,Hunter/Game,Sin clasificar,0.006508,3,3,1168
-2022,Dura DJ,Sin clasificar,0.006492,1,1,1169
+2022,Dura DJ,Urbano latino,0.006492,1,1,1169
 2022,Fabich,Hip-hop y rap,0.006486,1,1,1170
 2022,khali produce,Sin clasificar,0.006456,1,1,1171
 2022,Joeski,Electrónica y dance,0.006447,1,1,1172
@@ -6798,7 +6798,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,"Earth, Wind & Fire","R&B, soul, funk y jazz",0.005550,3,1,1208
 2022,ROSE BEAT,Sin clasificar,0.005550,2,2,1209
 2022,THOM´S,Sin clasificar,0.005480,3,1,1210
-2022,Angel Y Khriz,Sin clasificar,0.005475,3,3,1211
+2022,Angel Y Khriz,Urbano latino,0.005475,3,3,1211
 2022,Radiorobotek,Sin clasificar,0.005475,1,1,1212
 2022,Sebastian Roya,Sin clasificar,0.005469,1,1,1213
 2022,Boris Osherov,Sin clasificar,0.005463,2,1,1214
@@ -6859,13 +6859,13 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Soft Cell,Pop,0.004508,1,1,1269
 2022,Chaim,Electrónica y dance,0.004506,2,1,1270
 2022,Rene Ablaze,Electrónica y dance,0.004489,2,1,1271
-2022,Banda XXI,Sin clasificar,0.004480,1,1,1272
+2022,Banda XXI,Cumbia y tropical,0.004480,1,1,1272
 2022,Marco Corcella,Sin clasificar,0.004475,1,1,1273
 2022,Sam Curran,Sin clasificar,0.004464,1,1,1274
 2022,POB,Electrónica y dance,0.004444,3,1,1275
 2022,Young Maylay,Hip-hop y rap,0.004412,1,1,1276
 2022,Thomas Newson,Electrónica y dance,0.004411,1,1,1277
-2022,Monkey Safari,Sin clasificar,0.004403,2,2,1278
+2022,Monkey Safari,Electrónica y dance,0.004403,2,2,1278
 2022,Spencer Parker,Sin clasificar,0.004403,2,1,1279
 2022,Chapter & Verse,Sin clasificar,0.004400,2,2,1280
 2022,Edu Imbernon,Sin clasificar,0.004397,2,1,1281
@@ -6972,7 +6972,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Babert,Sin clasificar,0.003124,1,1,1382
 2022,MOLLA,Sin clasificar,0.003103,1,1,1383
 2022,Roger Martinez,Sin clasificar,0.003103,1,1,1384
-2022,The Martinez Brothers,Sin clasificar,0.003103,2,2,1385
+2022,The Martinez Brothers,Electrónica y dance,0.003103,2,2,1385
 2022,Stars Music Chile,Sin clasificar,0.003086,1,1,1386
 2022,Champion Jack Dupree,Otros,0.003083,1,1,1387
 2022,Felipe e Rodrigo,Sin clasificar,0.003052,1,1,1388
@@ -7116,7 +7116,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Stealers Wheel,Rock y alternativo,0.001618,1,1,1526
 2022,Gatux,Sin clasificar,0.001606,1,1,1527
 2022,Cobra Starship,Rock y alternativo,0.001592,1,1,1528
-2022,Lucho Dee Jay,Sin clasificar,0.001581,1,1,1529
+2022,Lucho Dee Jay,Urbano latino,0.001581,1,1,1529
 2022,Mountain,Rock y alternativo,0.001575,2,2,1530
 2022,Ciro y los Persas,Rock y alternativo,0.001564,1,1,1531
 2022,Café Tacvba,Rock y alternativo,0.001542,3,3,1532
@@ -7281,7 +7281,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,ANT LaROCK,Sin clasificar,0.000633,1,1,1691
 2022,Johnny Winter,Rock y alternativo,0.000633,1,1,1692
 2022,Cheek,Hip-hop y rap,0.000631,1,1,1693
-2022,Daniel Steinberg,Sin clasificar,0.000631,1,1,1694
+2022,Daniel Steinberg,Electrónica y dance,0.000631,1,1,1694
 2022,Lapiz Conciente,Sin clasificar,0.000619,1,1,1695
 2022,Conociendo Rusia,Sin clasificar,0.000614,1,1,1696
 2022,Sergio Sergi,Sin clasificar,0.000608,1,1,1697
@@ -7297,7 +7297,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Dj Joe,Urbano latino,0.000567,2,2,1707
 2022,SOMMA,Sin clasificar,0.000567,1,1,1708
 2022,Luigi 21 Plus,Urbano latino,0.000564,2,2,1709
-2022,Josh Wink,Sin clasificar,0.000556,1,1,1710
+2022,Josh Wink,Electrónica y dance,0.000556,1,1,1710
 2022,Akon,"R&B, soul, funk y jazz",0.000550,2,1,1711
 2022,DJ E-Clyps,Sin clasificar,0.000547,1,1,1712
 2022,Mr. President,Electrónica y dance,0.000547,1,1,1713
@@ -7372,7 +7372,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2022,Robot95,Sin clasificar,0.000237,1,1,1782
 2022,Latin Dreams,Urbano latino,0.000233,1,1,1783
 2022,Mau y Ricky,Pop,0.000219,1,1,1784
-2022,El Reja,Sin clasificar,0.000197,1,1,1785
+2022,El Reja,Cumbia y tropical,0.000197,1,1,1785
 2022,Tacabro,Sin clasificar,0.000172,1,1,1786
 2022,Khrebto,Sin clasificar,0.000162,1,1,1787
 2022,Dave Summit,Sin clasificar,0.000160,1,1,1788
@@ -7474,7 +7474,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Zion & Lennox,Urbano latino,0.705639,49,6,88
 2023,Guy J,Electrónica y dance,0.689599,40,27,89
 2023,Farruko,Urbano latino,0.683309,46,8,90
-2023,Goya Alfa,Sin clasificar,0.670672,20,5,91
+2023,Goya Alfa,Urbano latino,0.670672,20,5,91
 2023,Los De La Nazza,Urbano latino,0.657403,22,2,92
 2023,Carbon Fiber Music,Urbano latino,0.653091,22,7,93
 2023,Trap Capos,Urbano latino,0.643483,27,4,94
@@ -7486,7 +7486,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Reykon,Urbano latino,0.590561,15,2,100
 2023,Pereiraremix,Urbano latino,0.583918,33,19,101
 2023,PAWSA,Electrónica y dance,0.582851,21,12,102
-2023,Ben Sterling,Sin clasificar,0.573752,10,3,103
+2023,Ben Sterling,Electrónica y dance,0.573752,10,3,103
 2023,Radiohead,Rock y alternativo,0.554601,14,4,104
 2023,System Of A Down,Metal,0.551537,20,6,105
 2023,Foreigner,Rock y alternativo,0.542196,19,3,106
@@ -7503,8 +7503,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,DJ Alex,Urbano latino,0.457435,15,3,117
 2023,Alan Gomez,Urbano latino,0.453325,31,14,118
 2023,AC/DC,Rock y alternativo,0.445092,25,11,119
-2023,Cajmere,Sin clasificar,0.441409,15,3,120
-2023,DJ GONZALO,Sin clasificar,0.437386,1,1,121
+2023,Cajmere,Electrónica y dance,0.441409,15,3,120
+2023,DJ GONZALO,Cumbia y tropical,0.437386,1,1,121
 2023,Casper Magico,Urbano latino,0.419024,13,1,122
 2023,Maceo Plex,Electrónica y dance,0.417962,10,5,123
 2023,Sech,Urbano latino,0.396724,39,8,124
@@ -7519,10 +7519,10 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Sting,Rock y alternativo,0.342481,9,3,133
 2023,Van Halen,Rock y alternativo,0.335906,10,3,134
 2023,Lenny Tavárez,Urbano latino,0.335239,23,4,135
-2023,Parallelle,Sin clasificar,0.331404,9,1,136
+2023,Parallelle,Electrónica y dance,0.331404,9,1,136
 2023,2000 And One,Electrónica y dance,0.331080,5,1,137
 2023,La Nueva Luna,Cumbia y tropical,0.330761,17,4,138
-2023,Benja Murano,Sin clasificar,0.328797,16,11,139
+2023,Benja Murano,Urbano latino,0.328797,16,11,139
 2023,Tim Green,Electrónica y dance,0.326625,24,15,140
 2023,Bronski Beat,Pop,0.314024,14,5,141
 2023,Rod Stewart,Rock y alternativo,0.313944,12,4,142
@@ -7546,14 +7546,14 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,"Earth, Wind & Fire","R&B, soul, funk y jazz",0.235146,4,3,160
 2023,Wheats,Electrónica y dance,0.234879,3,1,161
 2023,Los Nota Lokos,Cumbia y tropical,0.232900,13,9,162
-2023,Marama,Sin clasificar,0.231718,12,5,163
+2023,Marama,Cumbia y tropical,0.231718,12,5,163
 2023,FiltraMaf,Sin clasificar,0.230864,3,1,164
 2023,DJ Tao,Urbano latino,0.229492,12,5,165
 2023,Rampa,Electrónica y dance,0.229069,9,4,166
 2023,Anja Schneider,Electrónica y dance,0.228475,2,1,167
 2023,Club Atlético Boca Juniors FanChants,Otros,0.227763,38,22,168
 2023,GMJ,Sin clasificar,0.227075,7,3,169
-2023,Marsh,Sin clasificar,0.225830,14,9,170
+2023,Marsh,Electrónica y dance,0.225830,14,9,170
 2023,Juhn,Urbano latino,0.224506,9,2,171
 2023,Alex Gargolas,Urbano latino,0.223614,26,2,172
 2023,Cloonee,Electrónica y dance,0.217891,16,9,173
@@ -7585,8 +7585,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,The Weeknd,"R&B, soul, funk y jazz",0.181096,6,5,199
 2023,DTAILR,Sin clasificar,0.177275,5,3,200
 2023,Prince Royce,Cumbia y tropical,0.174621,6,4,201
-2023,Angel Y Khriz,Sin clasificar,0.172684,3,2,202
-2023,Cris Mj,Sin clasificar,0.171941,14,3,203
+2023,Angel Y Khriz,Urbano latino,0.172684,3,2,202
+2023,Cris Mj,Urbano latino,0.171941,14,3,203
 2023,Bizarrap,Hip-hop y rap,0.169682,16,9,204
 2023,Gilbert O'Sullivan,Pop,0.167866,9,6,205
 2023,Yng Lvcas,Sin clasificar,0.166972,7,2,206
@@ -7611,7 +7611,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Desire,Pop,0.150761,3,1,225
 2023,Rels B,Urbano latino,0.150338,12,4,226
 2023,Joe Cocker,Rock y alternativo,0.149022,2,1,227
-2023,Mochakk,Sin clasificar,0.148701,11,6,228
+2023,Mochakk,Electrónica y dance,0.148701,11,6,228
 2023,D-Jastic,Sin clasificar,0.147988,5,1,229
 2023,Supertramp,Rock y alternativo,0.147596,9,5,230
 2023,Fleetwood Mac,Rock y alternativo,0.147186,6,2,231
@@ -7623,7 +7623,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Floppy Sounds,Sin clasificar,0.144289,1,1,237
 2023,HUGEL,Electrónica y dance,0.143997,14,7,238
 2023,La Kuppe,Cumbia y tropical,0.143169,24,2,239
-2023,Paskman,Sin clasificar,0.141114,4,1,240
+2023,Paskman,Electrónica y dance,0.141114,4,1,240
 2023,Billy Idol,Rock y alternativo,0.141028,4,1,241
 2023,ChiChi Peralta,Cumbia y tropical,0.139956,2,2,242
 2023,Sidney Charles,Electrónica y dance,0.139157,3,2,243
@@ -7635,7 +7635,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,LVTECE,Sin clasificar,0.137137,2,1,249
 2023,Honey Dijon,Electrónica y dance,0.137096,8,3,250
 2023,Lucien Jack,Sin clasificar,0.137073,2,1,251
-2023,DJ Roma,Sin clasificar,0.136867,11,7,252
+2023,DJ Roma,Urbano latino,0.136867,11,7,252
 2023,Deep Purple,Rock y alternativo,0.136484,2,1,253
 2023,Alberto Costas,Sin clasificar,0.134200,4,1,254
 2023,Cartel De Santa,Hip-hop y rap,0.133369,6,5,255
@@ -7644,7 +7644,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Los Piojos,Rock y alternativo,0.131922,5,4,258
 2023,Quevedo,Urbano latino,0.130681,10,7,259
 2023,Uto Karem,Sin clasificar,0.130096,3,1,260
-2023,Simos Tagias,Sin clasificar,0.128965,1,1,261
+2023,Simos Tagias,Electrónica y dance,0.128965,1,1,261
 2023,EL NOBA,Sin clasificar,0.127925,5,4,262
 2023,DJ AroZe,Sin clasificar,0.127642,1,1,263
 2023,Chayanne,Pop,0.127464,2,2,264
@@ -7653,9 +7653,9 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Applescal,Electrónica y dance,0.126525,3,1,267
 2023,Tame Impala,Rock y alternativo,0.126144,2,2,268
 2023,Alex Kennon,Sin clasificar,0.126123,3,1,269
-2023,Kaz James,Sin clasificar,0.125903,4,2,270
+2023,Kaz James,Electrónica y dance,0.125903,4,2,270
 2023,Miguel Bastida,Electrónica y dance,0.125153,17,13,271
-2023,Tambó Tambó,Sin clasificar,0.125077,7,4,272
+2023,Tambó Tambó,Cumbia y tropical,0.125077,7,4,272
 2023,Peggy Gou,Electrónica y dance,0.124308,9,2,273
 2023,Markus Homm,Electrónica y dance,0.124267,3,2,274
 2023,Iron Curtis,Sin clasificar,0.124121,2,1,275
@@ -7674,7 +7674,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Dennis Ferrer,Hip-hop y rap,0.118634,3,1,288
 2023,Big Mike and The Booty Papas,Sin clasificar,0.118625,1,1,289
 2023,Madness,Cumbia y tropical,0.118600,3,1,290
-2023,La Champions Liga,Sin clasificar,0.118319,21,16,291
+2023,La Champions Liga,Cumbia y tropical,0.118319,21,16,291
 2023,Barratt,Sin clasificar,0.118136,3,1,292
 2023,Joshwa,Sin clasificar,0.117474,8,6,293
 2023,Nico Manriquez,Sin clasificar,0.116649,10,8,294
@@ -7685,20 +7685,20 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Scorpions,Rock y alternativo,0.113143,2,2,299
 2023,GW Harrison,Sin clasificar,0.113112,4,2,300
 2023,Dayme y El High,Urbano latino,0.112232,6,2,301
-2023,LondonGround,Sin clasificar,0.112131,4,1,302
+2023,LondonGround,Electrónica y dance,0.112131,4,1,302
 2023,Stevie Wonder,"R&B, soul, funk y jazz",0.111659,3,3,303
 2023,Javi Torres,Sin clasificar,0.111037,1,1,304
 2023,Tim Engelhardt,Electrónica y dance,0.110506,1,1,305
-2023,Los Auténticos Decadentes,Sin clasificar,0.110169,9,3,306
+2023,Los Auténticos Decadentes,Rock y alternativo,0.110169,9,3,306
 2023,Alexis y Fido,Urbano latino,0.109406,13,2,307
 2023,Melissa Nikita,Sin clasificar,0.108917,2,1,308
 2023,Gorillaz,Electrónica y dance,0.108719,7,2,309
-2023,Mambo DJ,Sin clasificar,0.107957,13,8,310
+2023,Mambo DJ,Urbano latino,0.107957,13,8,310
 2023,Re.You,Electrónica y dance,0.107943,1,1,311
 2023,DJ BRAIAN STYLE,Sin clasificar,0.106478,7,6,312
-2023,ASTRE,Sin clasificar,0.106320,4,1,313
+2023,ASTRE,Electrónica y dance,0.106320,4,1,313
 2023,Kolter,Sin clasificar,0.105868,2,1,314
-2023,Liu Bei,Sin clasificar,0.105115,1,1,315
+2023,Liu Bei,Electrónica y dance,0.105115,1,1,315
 2023,Khan,Electrónica y dance,0.105067,1,1,316
 2023,Michael A,Sin clasificar,0.105006,3,1,317
 2023,The Doors,Rock y alternativo,0.104836,6,4,318
@@ -7717,7 +7717,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Hoten,Sin clasificar,0.100485,5,1,331
 2023,Rex The Dog,Electrónica y dance,0.100282,10,4,332
 2023,El negro tecla,Sin clasificar,0.100029,3,2,333
-2023,Harry Nach,Sin clasificar,0.099450,2,1,334
+2023,Harry Nach,Urbano latino,0.099450,2,1,334
 2023,Fer Palacio,Electrónica y dance,0.099285,5,4,335
 2023,Sleepy Sine,Sin clasificar,0.099167,2,2,336
 2023,La Roca Callejera,Cumbia y tropical,0.099046,59,2,337
@@ -7730,7 +7730,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Randy,Urbano latino,0.095844,12,2,344
 2023,Los Ángeles Azules,Cumbia y tropical,0.095134,4,4,345
 2023,Ninetoes,Sin clasificar,0.095052,3,2,346
-2023,Papichamp,Sin clasificar,0.094650,5,2,347
+2023,Papichamp,Urbano latino,0.094650,5,2,347
 2023,El Kaio,Sin clasificar,0.094441,23,13,348
 2023,Depeche Mode,Pop,0.094401,6,4,349
 2023,Jupa Necasek,Urbano latino,0.093857,5,4,350
@@ -7765,7 +7765,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,MEUTE,Electrónica y dance,0.082272,1,1,379
 2023,Azzecca,Electrónica y dance,0.082011,4,3,380
 2023,Margarita la diosa de la cumbia,Cumbia y tropical,0.080889,2,2,381
-2023,Juan Deminicis,Sin clasificar,0.080837,3,2,382
+2023,Juan Deminicis,Electrónica y dance,0.080837,3,2,382
 2023,Babasonicos,Rock y alternativo,0.080787,4,2,383
 2023,Eloy,Rock y alternativo,0.080630,9,1,384
 2023,ROSE BEAT,Sin clasificar,0.080190,3,1,385
@@ -7795,7 +7795,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,bauti bory,Sin clasificar,0.072196,10,5,409
 2023,Mario Luis,Cumbia y tropical,0.071841,4,3,410
 2023,Marino Canal,Sin clasificar,0.071758,3,2,411
-2023,Luuk Van Dijk,Sin clasificar,0.071428,1,1,412
+2023,Luuk Van Dijk,Electrónica y dance,0.071428,1,1,412
 2023,Gotye,Rock y alternativo,0.071290,5,1,413
 2023,Sael,Cumbia y tropical,0.071278,2,1,414
 2023,Crowded House,Rock y alternativo,0.071195,8,1,415
@@ -7817,7 +7817,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Bee Gees,Electrónica y dance,0.067962,12,6,431
 2023,Humble Pie,Rock y alternativo,0.067781,3,1,432
 2023,Wise,Hip-hop y rap,0.067773,2,1,433
-2023,Shakedown,Sin clasificar,0.067696,4,3,434
+2023,Shakedown,Electrónica y dance,0.067696,4,3,434
 2023,Capricorn,Sin clasificar,0.067651,6,1,435
 2023,Jason Mraz,Rock y alternativo,0.066726,2,1,436
 2023,Lipps Inc.,Electrónica y dance,0.066618,1,1,437
@@ -7841,8 +7841,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Space Trax,Electrónica y dance,0.063107,1,1,455
 2023,Kreature,Electrónica y dance,0.063056,1,1,456
 2023,Joanna Neriah,Sin clasificar,0.063009,1,1,457
-2023,Mind Against,Sin clasificar,0.062900,4,2,458
-2023,Damian Escudero DJ,Sin clasificar,0.062023,1,1,459
+2023,Mind Against,Electrónica y dance,0.062900,4,2,458
+2023,Damian Escudero DJ,Urbano latino,0.062023,1,1,459
 2023,Grupo Bandy2,Sin clasificar,0.061842,1,1,460
 2023,Papu DJ,Urbano latino,0.061160,1,1,461
 2023,Fally Y Su Gran Sonora Barulera,Sin clasificar,0.061038,2,1,462
@@ -7852,12 +7852,12 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Priy,Sin clasificar,0.060556,1,1,466
 2023,Wisin,Urbano latino,0.060491,17,2,467
 2023,Digitalism,Electrónica y dance,0.060314,1,1,468
-2023,Fran Argiro,Sin clasificar,0.059895,2,2,469
+2023,Fran Argiro,Urbano latino,0.059895,2,2,469
 2023,Raffa Fl,Electrónica y dance,0.059749,3,1,470
 2023,Sonny Fodera,Electrónica y dance,0.059644,2,2,471
 2023,Mark Alow,Sin clasificar,0.059504,1,1,472
 2023,Kieran Hemming,Sin clasificar,0.059401,1,1,473
-2023,Darius Syrossian,Sin clasificar,0.059381,1,1,474
+2023,Darius Syrossian,Electrónica y dance,0.059381,1,1,474
 2023,Eminem,Hip-hop y rap,0.059275,1,1,475
 2023,Matvey Emerson,Sin clasificar,0.059235,1,1,476
 2023,Robert Finley,Otros,0.059193,1,1,477
@@ -7886,7 +7886,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Daveartt,Sin clasificar,0.056518,3,1,500
 2023,Bákayan,Sin clasificar,0.056474,1,1,501
 2023,Austher,Sin clasificar,0.056366,2,1,502
-2023,DJ Yayo,Sin clasificar,0.056302,4,3,503
+2023,DJ Yayo,Urbano latino,0.056302,4,3,503
 2023,Robbie Williams,Pop,0.055631,1,1,504
 2023,Lunar Disco,Sin clasificar,0.055520,1,1,505
 2023,Verdun Remix,Sin clasificar,0.055495,2,2,506
@@ -7896,7 +7896,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Gabriele Toma,Sin clasificar,0.055213,3,1,510
 2023,Mike Posner,Pop,0.055025,3,1,511
 2023,Rvssian,Hip-hop y rap,0.054980,13,4,512
-2023,Callejero Fino,Sin clasificar,0.054849,4,4,513
+2023,Callejero Fino,Urbano latino,0.054849,4,4,513
 2023,Anthony Godfather,Sin clasificar,0.054835,6,5,514
 2023,Eddie Money,Rock y alternativo,0.054806,1,1,515
 2023,UMEK,Electrónica y dance,0.054773,5,2,516
@@ -7916,7 +7916,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Nico Acosta,Sin clasificar,0.052778,1,1,530
 2023,Makebo,Sin clasificar,0.052628,11,11,531
 2023,Santiago Ibarra,Sin clasificar,0.052595,7,2,532
-2023,Blaster DJ,Sin clasificar,0.052525,4,2,533
+2023,Blaster DJ,Urbano latino,0.052525,4,2,533
 2023,Fleur Harmon,Sin clasificar,0.052495,1,1,534
 2023,Atmosferion,Sin clasificar,0.052470,1,1,535
 2023,Arnkatla,Sin clasificar,0.052414,1,1,536
@@ -7947,11 +7947,11 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Jairo Catelo,Electrónica y dance,0.049932,1,1,561
 2023,Genix,Electrónica y dance,0.049925,2,1,562
 2023,Geneva Semere,Sin clasificar,0.049653,1,1,563
-2023,Gnarls Barkley,Rock y alternativo,0.049426,1,1,564
+2023,Gnarls Barkley,Hip-hop y rap,0.049426,1,1,564
 2023,Swedish House Mafia,Electrónica y dance,0.049194,3,1,565
 2023,Evolving Stream,Sin clasificar,0.049167,1,1,566
 2023,Sayono,Sin clasificar,0.049167,1,1,567
-2023,Perro Primo,Sin clasificar,0.049108,1,1,568
+2023,Perro Primo,Urbano latino,0.049108,1,1,568
 2023,Nathan Alzon,Sin clasificar,0.048924,2,1,569
 2023,Living Colour,Rock y alternativo,0.048909,2,1,570
 2023,The Nowhows,Sin clasificar,0.048889,1,1,571
@@ -7983,7 +7983,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Eleonora Feldt,Sin clasificar,0.045278,1,1,597
 2023,Frank Sinatra,"R&B, soul, funk y jazz",0.045262,2,2,598
 2023,Ramos Goya,Sin clasificar,0.045252,1,1,599
-2023,ATFC,Sin clasificar,0.045249,2,2,600
+2023,ATFC,Electrónica y dance,0.045249,2,2,600
 2023,Michael Sembello,Pop,0.045166,1,1,601
 2023,Tokischa,Urbano latino,0.045079,15,1,602
 2023,Aca Malvina,Sin clasificar,0.044689,1,1,603
@@ -7992,7 +7992,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,RÜFÜS DU SOL,Electrónica y dance,0.044382,1,1,606
 2023,Maná,Rock y alternativo,0.044151,2,2,607
 2023,Ben E. King,"R&B, soul, funk y jazz",0.044144,1,1,608
-2023,Lukini,Sin clasificar,0.044077,1,1,609
+2023,Lukini,Urbano latino,0.044077,1,1,609
 2023,J. Cole,Hip-hop y rap,0.043988,2,2,610
 2023,Arico Mist,Sin clasificar,0.043889,1,1,611
 2023,James Matthéus,Sin clasificar,0.043789,1,1,612
@@ -8004,7 +8004,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Ronja Mair,Sin clasificar,0.043333,1,1,618
 2023,Pablito Pesadilla,Sin clasificar,0.043146,1,1,619
 2023,Kendo Kaponi,Urbano latino,0.043089,20,3,620
-2023,Blackchild (ITA),Sin clasificar,0.042729,1,1,621
+2023,Blackchild (ITA),Electrónica y dance,0.042729,1,1,621
 2023,Nicki Nicole,Urbano latino,0.042540,2,2,622
 2023,Chapa & Castelo,Sin clasificar,0.042388,2,2,623
 2023,The Temptations,"R&B, soul, funk y jazz",0.042217,3,1,624
@@ -8019,7 +8019,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Bonnie Raitt,Rock y alternativo,0.041232,1,1,633
 2023,Makam,Sin clasificar,0.041141,3,1,634
 2023,Sam Green,Sin clasificar,0.040945,1,1,635
-2023,Delirio Mix,Sin clasificar,0.040868,10,8,636
+2023,Delirio Mix,Cumbia y tropical,0.040868,10,8,636
 2023,Louis Armstrong,"R&B, soul, funk y jazz",0.040833,1,1,637
 2023,Cruzando El Charco,Rock y alternativo,0.040671,1,1,638
 2023,Justin Bieber,Pop,0.040664,1,1,639
@@ -8068,9 +8068,9 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Evren Furtuna,Sin clasificar,0.033183,4,2,682
 2023,Antonelli,Sin clasificar,0.033086,2,1,683
 2023,Chencho Corleone,Urbano latino,0.032912,2,1,684
-2023,Hraach,Sin clasificar,0.032781,4,4,685
+2023,Hraach,Electrónica y dance,0.032781,4,4,685
 2023,Dj Taurus,Sin clasificar,0.032511,2,1,686
-2023,Paul Deep (AR),Sin clasificar,0.032508,1,1,687
+2023,Paul Deep (AR),Electrónica y dance,0.032508,1,1,687
 2023,Gilda,Cumbia y tropical,0.032427,4,1,688
 2023,John Lee Hooker,Otros,0.032308,1,1,689
 2023,New Spectrum,Sin clasificar,0.032276,5,3,690
@@ -8108,7 +8108,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Alexio La Bruja,Urbano latino,0.025845,1,1,722
 2023,Hamsa Intenational,Sin clasificar,0.025833,2,1,723
 2023,Township Rebellion,Sin clasificar,0.025658,3,1,724
-2023,The Martinez Brothers,Sin clasificar,0.025474,10,3,725
+2023,The Martinez Brothers,Electrónica y dance,0.025474,10,3,725
 2023,Person Of Interest,Sin clasificar,0.025458,3,2,726
 2023,Nina Kraviz,Electrónica y dance,0.025440,5,4,727
 2023,Eden Shalev,Sin clasificar,0.025357,3,1,728
@@ -8161,19 +8161,19 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Don Henley,Rock y alternativo,0.018425,3,1,775
 2023,Surditto DJ,Sin clasificar,0.018281,3,3,776
 2023,Foghat,Rock y alternativo,0.018234,1,1,777
-2023,Piero Pirupa,Sin clasificar,0.018088,1,1,778
+2023,Piero Pirupa,Electrónica y dance,0.018088,1,1,778
 2023,Daryl Hall & John Oates,Rock y alternativo,0.017879,5,3,779
 2023,Tyson O'brien,Sin clasificar,0.017867,1,1,780
 2023,Rohar,Sin clasificar,0.017814,1,1,781
 2023,Franco Giorgi,Sin clasificar,0.017604,3,2,782
-2023,Melé,Sin clasificar,0.017524,2,2,783
+2023,Melé,Electrónica y dance,0.017524,2,2,783
 2023,Adam Port,Sin clasificar,0.017497,5,3,784
 2023,Arnold & Lane,Sin clasificar,0.017156,2,2,785
 2023,Tomas Holder,Sin clasificar,0.017025,1,1,786
 2023,Airbag,Rock y alternativo,0.016948,4,1,787
 2023,Alphadog,Sin clasificar,0.016828,2,2,788
 2023,Kali Uchis,"R&B, soul, funk y jazz",0.016780,1,1,789
-2023,DJ Roman,Sin clasificar,0.016757,6,5,790
+2023,DJ Roman,Urbano latino,0.016757,6,5,790
 2023,Wolfine,Urbano latino,0.016737,3,2,791
 2023,George Michael,Pop,0.016733,5,1,792
 2023,Chris de Burgh,Rock y alternativo,0.016701,1,1,793
@@ -8196,12 +8196,12 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,R^ST,Sin clasificar,0.015425,1,1,810
 2023,Don Miguelo,Urbano latino,0.015342,1,1,811
 2023,Sosa UK,Sin clasificar,0.015231,1,1,812
-2023,Mati Guerra,Sin clasificar,0.015150,4,4,813
+2023,Mati Guerra,Urbano latino,0.015150,4,4,813
 2023,BRUNNI,Sin clasificar,0.015122,1,1,814
 2023,UBU,Sin clasificar,0.015103,4,1,815
 2023,The Human League,Pop,0.015053,4,2,816
 2023,Gregor Sanz,Sin clasificar,0.015011,1,1,817
-2023,Pola DJ,Sin clasificar,0.014887,3,3,818
+2023,Pola DJ,Urbano latino,0.014887,3,3,818
 2023,Callejeros,Sin clasificar,0.014779,5,3,819
 2023,Repiola,Sin clasificar,0.014643,1,1,820
 2023,BLOND:ISH,Electrónica y dance,0.014514,2,2,821
@@ -8270,7 +8270,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Carlos Pérez,Sin clasificar,0.010601,1,1,884
 2023,HIGHLITE,Sin clasificar,0.010522,1,1,885
 2023,Regular,Sin clasificar,0.010520,2,1,886
-2023,DJ Cronox,Sin clasificar,0.010500,3,2,887
+2023,DJ Cronox,Urbano latino,0.010500,3,2,887
 2023,Simple Minds,Rock y alternativo,0.010495,3,1,888
 2023,Talemates,Sin clasificar,0.010494,2,2,889
 2023,Augusto Aguirre Dj,Sin clasificar,0.010470,3,2,890
@@ -8281,7 +8281,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,JasonMartin,Hip-hop y rap,0.010211,1,1,895
 2023,Bjarki,Electrónica y dance,0.010080,1,1,896
 2023,Shai T,Sin clasificar,0.010044,3,3,897
-2023,Zato DJ,Sin clasificar,0.010033,1,1,898
+2023,Zato DJ,Urbano latino,0.010033,1,1,898
 2023,Tonaco,Sin clasificar,0.009981,1,1,899
 2023,Ivan Kay,Sin clasificar,0.009950,2,2,900
 2023,Emma Danese,Sin clasificar,0.009926,2,1,901
@@ -8299,11 +8299,11 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,J.D.,Sin clasificar,0.009658,2,1,913
 2023,Beatamines,Sin clasificar,0.009656,2,1,914
 2023,QDream,Sin clasificar,0.009611,1,1,915
-2023,Dura DJ,Sin clasificar,0.009606,2,1,916
+2023,Dura DJ,Urbano latino,0.009606,2,1,916
 2023,Moon Rocket,Sin clasificar,0.009583,1,1,917
 2023,Tiger Stripes,Sin clasificar,0.009562,3,2,918
 2023,Mendo,Sin clasificar,0.009511,1,1,919
-2023,El Reja,Sin clasificar,0.009503,2,1,920
+2023,El Reja,Cumbia y tropical,0.009503,2,1,920
 2023,Daniel Avery,Electrónica y dance,0.009439,2,2,921
 2023,Audio Junkies,Electrónica y dance,0.009400,2,1,922
 2023,Flash and the Pan,Rock y alternativo,0.009400,2,2,923
@@ -8318,7 +8318,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Biscits,Electrónica y dance,0.009150,2,2,932
 2023,Tali Muss,Sin clasificar,0.009150,1,1,933
 2023,Miky Woodz,Urbano latino,0.009126,1,1,934
-2023,Christian Smith,Sin clasificar,0.009040,3,2,935
+2023,Christian Smith,Electrónica y dance,0.009040,3,2,935
 2023,Christian Burkhardt,Sin clasificar,0.009037,1,1,936
 2023,Dosem,Electrónica y dance,0.009029,5,3,937
 2023,Kinky Sound,Sin clasificar,0.008975,2,2,938
@@ -8382,7 +8382,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Terrence Parker,Sin clasificar,0.007331,2,1,996
 2023,St.Ego,Sin clasificar,0.007319,2,2,997
 2023,Return Of The Jaded,Sin clasificar,0.007258,1,1,998
-2023,Eme Sarav,Sin clasificar,0.007235,2,2,999
+2023,Eme Sarav,Urbano latino,0.007235,2,2,999
 2023,New Order,Rock y alternativo,0.007203,3,3,1000
 2023,Alex Aguilar,Sin clasificar,0.007125,1,1,1001
 2023,La Rata Bluesera,Sin clasificar,0.007069,1,1,1002
@@ -8391,7 +8391,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Belleruche,"R&B, soul, funk y jazz",0.007010,1,1,1005
 2023,Sean McClellan,Sin clasificar,0.006983,1,1,1006
 2023,Aaran D,Sin clasificar,0.006981,1,1,1007
-2023,Andrew Meller,Sin clasificar,0.006961,2,1,1008
+2023,Andrew Meller,Electrónica y dance,0.006961,2,1,1008
 2023,LO'99,Sin clasificar,0.006953,1,1,1009
 2023,Bart Skils,Sin clasificar,0.006932,3,1,1010
 2023,Mala Ika,Sin clasificar,0.006908,1,1,1011
@@ -8465,7 +8465,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Gorge,Electrónica y dance,0.005622,1,1,1079
 2023,Stevie R,Sin clasificar,0.005614,2,1,1080
 2023,Kiko,Electrónica y dance,0.005611,1,1,1081
-2023,Eli Nissan,Sin clasificar,0.005603,1,1,1082
+2023,Eli Nissan,Electrónica y dance,0.005603,1,1,1082
 2023,Oliver Ton feat. Idvet,Sin clasificar,0.005597,1,1,1083
 2023,Jean Claude Ades,Sin clasificar,0.005589,1,1,1084
 2023,Röyksopp,Electrónica y dance,0.005586,2,1,1085
@@ -8483,7 +8483,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Carlo Lio,Sin clasificar,0.005442,1,1,1097
 2023,Max de Sima,Sin clasificar,0.005432,2,2,1098
 2023,Sumo,Rock y alternativo,0.005428,1,1,1099
-2023,Kaleb Di Masi,Sin clasificar,0.005419,4,3,1100
+2023,Kaleb Di Masi,Urbano latino,0.005419,4,3,1100
 2023,Fatima Yamaha,Electrónica y dance,0.005405,2,1,1101
 2023,DICC,Hip-hop y rap,0.005386,4,1,1102
 2023,Franco Arruda,Sin clasificar,0.005386,2,1,1103
@@ -8693,7 +8693,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,CJ Jeff,Sin clasificar,0.003519,1,1,1307
 2023,Ramon T,Sin clasificar,0.003514,1,1,1308
 2023,Riordan,Sin clasificar,0.003511,1,1,1309
-2023,Greg Ochman,Sin clasificar,0.003503,1,1,1310
+2023,Greg Ochman,Electrónica y dance,0.003503,1,1,1310
 2023,Ayon,Sin clasificar,0.003497,1,1,1311
 2023,Ten Walls,Electrónica y dance,0.003497,1,1,1312
 2023,Prince,"R&B, soul, funk y jazz",0.003496,1,1,1313
@@ -8940,7 +8940,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,DJ Zaro,Sin clasificar,0.001939,1,1,1554
 2023,Fran Lorenz,Sin clasificar,0.001933,1,1,1555
 2023,Silat Beksi,Sin clasificar,0.001933,1,1,1556
-2023,EANP,Sin clasificar,0.001930,2,1,1557
+2023,EANP,Electrónica y dance,0.001930,2,1,1557
 2023,Emilia,Pop,0.001927,2,1,1558
 2023,David Riló,Sin clasificar,0.001925,1,1,1559
 2023,Secret Of The Rainforest,Sin clasificar,0.001922,1,1,1560
@@ -8970,7 +8970,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,M2H,Sin clasificar,0.001772,1,1,1584
 2023,RØCKET,Sin clasificar,0.001772,2,1,1585
 2023,Khen,Electrónica y dance,0.001770,2,2,1586
-2023,Franky Wah,Sin clasificar,0.001769,1,1,1587
+2023,Franky Wah,Electrónica y dance,0.001769,1,1,1587
 2023,Mees Salomé,Electrónica y dance,0.001769,1,1,1588
 2023,Mary J. Blige,"R&B, soul, funk y jazz",0.001764,1,1,1589
 2023,Alex O'Rion,Sin clasificar,0.001761,1,1,1590
@@ -9016,7 +9016,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Los Charros,Cumbia y tropical,0.001521,2,1,1630
 2023,Djyl,Sin clasificar,0.001508,1,1,1631
 2023,Soul Engineers,Sin clasificar,0.001508,1,1,1632
-2023,JADED,Sin clasificar,0.001497,1,1,1633
+2023,JADED,Electrónica y dance,0.001497,1,1,1633
 2023,Matroda,Electrónica y dance,0.001485,3,3,1634
 2023,Federico Grazzini,Sin clasificar,0.001469,1,1,1635
 2023,Vintage Culture & Love Bites,Sin clasificar,0.001456,1,1,1636
@@ -9124,7 +9124,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Undercatt,Sin clasificar,0.000948,1,1,1738
 2023,UNKLE,Electrónica y dance,0.000944,1,1,1739
 2023,lucidbeatz,Sin clasificar,0.000940,1,1,1740
-2023,Nico Servidio DJ,Sin clasificar,0.000922,1,1,1741
+2023,Nico Servidio DJ,Urbano latino,0.000922,1,1,1741
 2023,Binomio de Oro,Sin clasificar,0.000918,2,1,1742
 2023,Julian Jordan,Electrónica y dance,0.000917,1,1,1743
 2023,T3R Elemento,Sin clasificar,0.000914,1,1,1744
@@ -9165,7 +9165,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Tacabro,Sin clasificar,0.000736,1,1,1779
 2023,J-Cob,Sin clasificar,0.000717,1,1,1780
 2023,Dj Luli Torres,Sin clasificar,0.000714,1,1,1781
-2023,DJ Luc14no Antileo,Sin clasificar,0.000711,1,1,1782
+2023,DJ Luc14no Antileo,Urbano latino,0.000711,1,1,1782
 2023,REO Speedwagon,Rock y alternativo,0.000699,1,1,1783
 2023,Drop Mind Mc,Sin clasificar,0.000694,1,1,1784
 2023,iñigo quintero,Sin clasificar,0.000694,1,1,1785
@@ -9214,7 +9214,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2023,Alex Villanueva,Sin clasificar,0.000472,1,1,1828
 2023,Mc Sar,Sin clasificar,0.000461,1,1,1829
 2023,Tenacious D,Rock y alternativo,0.000461,1,1,1830
-2023,Lucho Dee Jay,Sin clasificar,0.000450,1,1,1831
+2023,Lucho Dee Jay,Urbano latino,0.000450,1,1,1831
 2023,Aerobica,Sin clasificar,0.000445,1,1,1832
 2023,Salsa Fever Orchestra,Sin clasificar,0.000444,1,1,1833
 2023,Los Forasteros,Sin clasificar,0.000439,1,1,1834
@@ -9388,8 +9388,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Kevin McKay,Electrónica y dance,0.655157,36,17,124
 2024,B.B. King,Otros,0.645214,14,6,125
 2024,Arcángel,Urbano latino,0.644843,47,13,126
-2024,Delirio Mix,Sin clasificar,0.643928,24,19,127
-2024,Jimmy Y Su Combo Negro,Sin clasificar,0.640248,13,5,128
+2024,Delirio Mix,Cumbia y tropical,0.643928,24,19,127
+2024,Jimmy Y Su Combo Negro,Cumbia y tropical,0.640248,13,5,128
 2024,The Temptations,"R&B, soul, funk y jazz",0.634355,40,1,129
 2024,Keith Jarrett,"R&B, soul, funk y jazz",0.626998,6,5,130
 2024,Jory Boy,Urbano latino,0.616014,19,1,131
@@ -9399,7 +9399,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Nino Bravo,Pop,0.580834,16,6,135
 2024,DJ Nelson,Urbano latino,0.572359,12,2,136
 2024,Supertramp,Rock y alternativo,0.571497,59,4,137
-2024,Valentino Merlo,Sin clasificar,0.558753,18,6,138
+2024,Valentino Merlo,Cumbia y tropical,0.558753,18,6,138
 2024,Nio Garcia,Urbano latino,0.558171,25,5,139
 2024,Baby Rasta & Gringo,Urbano latino,0.555849,23,4,140
 2024,refracted arg,Sin clasificar,0.551171,10,1,141
@@ -9407,7 +9407,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Marvin Gaye,"R&B, soul, funk y jazz",0.527327,16,4,143
 2024,Ñengo Flow,Urbano latino,0.508022,28,5,144
 2024,Mötley Crüe,Metal,0.506949,15,5,145
-2024,Stryke,Sin clasificar,0.499227,6,1,146
+2024,Stryke,Electrónica y dance,0.499227,6,1,146
 2024,Ozzy Osbourne,Metal,0.496965,14,2,147
 2024,Foster The People,Rock y alternativo,0.496783,13,2,148
 2024,ZZ Top,Rock y alternativo,0.495272,11,2,149
@@ -9434,12 +9434,12 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Guy Mantzur,Electrónica y dance,0.413629,8,4,170
 2024,Nestor En Bloque,Cumbia y tropical,0.412671,22,9,171
 2024,Plan B,Hip-hop y rap,0.412217,50,6,172
-2024,Eli Nissan,Sin clasificar,0.409661,8,3,173
+2024,Eli Nissan,Electrónica y dance,0.409661,8,3,173
 2024,Steve Ouimette,Rock y alternativo,0.409501,7,1,174
-2024,Banda XXI,Sin clasificar,0.408239,7,3,175
+2024,Banda XXI,Cumbia y tropical,0.408239,7,3,175
 2024,Pearl Jam,Rock y alternativo,0.403768,15,5,176
 2024,Divididos,Rock y alternativo,0.403139,10,3,177
-2024,Tambó Tambó,Sin clasificar,0.398541,10,3,178
+2024,Tambó Tambó,Cumbia y tropical,0.398541,10,3,178
 2024,No Te Va Gustar,Rock y alternativo,0.389023,16,5,179
 2024,Yandel,Urbano latino,0.387998,16,6,180
 2024,Yusef Lateef,"R&B, soul, funk y jazz",0.380582,14,2,181
@@ -9453,19 +9453,19 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Ronald El Killa,Urbano latino,0.343399,10,2,189
 2024,Daryl Hall & John Oates,Rock y alternativo,0.341869,17,5,190
 2024,Dinah Washington,"R&B, soul, funk y jazz",0.340464,13,3,191
-2024,Somelee,Sin clasificar,0.337617,5,4,192
+2024,Somelee,Electrónica y dance,0.337617,5,4,192
 2024,Thad Jones,"R&B, soul, funk y jazz",0.336133,3,1,193
 2024,Grupo Sombras,Sin clasificar,0.334169,9,3,194
-2024,La Champions Liga,Sin clasificar,0.322263,22,9,195
+2024,La Champions Liga,Cumbia y tropical,0.322263,22,9,195
 2024,Carbon Fiber Music,Urbano latino,0.317883,5,2,196
 2024,Cara Myers Trio,Sin clasificar,0.317538,7,2,197
 2024,Rasmus H Thomsen Trio,"R&B, soul, funk y jazz",0.314502,6,2,198
-2024,Blackchild (ITA),Sin clasificar,0.310740,23,11,199
+2024,Blackchild (ITA),Electrónica y dance,0.310740,23,11,199
 2024,Maluma,Urbano latino,0.306565,27,9,200
 2024,Hank Mobley,"R&B, soul, funk y jazz",0.304926,5,3,201
 2024,Michael Jackson,Pop,0.303699,11,9,202
 2024,Bob Marley & The Wailers,Cumbia y tropical,0.303372,16,5,203
-2024,Blaster DJ,Sin clasificar,0.303116,86,72,204
+2024,Blaster DJ,Urbano latino,0.303116,86,72,204
 2024,Dread Mar I,Cumbia y tropical,0.302654,13,6,205
 2024,Al Green,"R&B, soul, funk y jazz",0.301309,7,2,206
 2024,Andy Rivera,Urbano latino,0.299443,6,1,207
@@ -9484,7 +9484,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Matthew Dekay,Sin clasificar,0.277796,5,1,220
 2024,Keane,Rock y alternativo,0.276986,6,2,221
 2024,Milky Chance,Rock y alternativo,0.275225,9,2,222
-2024,Greg Ochman,Sin clasificar,0.274002,8,4,223
+2024,Greg Ochman,Electrónica y dance,0.274002,8,4,223
 2024,Miles Davis Quintet,"R&B, soul, funk y jazz",0.271159,5,2,224
 2024,Him_Self_Her,Sin clasificar,0.270724,7,1,225
 2024,Q' Lokura,Sin clasificar,0.268063,5,5,226
@@ -9503,8 +9503,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Myke Towers,Urbano latino,0.256007,23,11,239
 2024,Modjo,Electrónica y dance,0.255963,3,1,240
 2024,YokoO,Sin clasificar,0.255373,4,1,241
-2024,Hector Couto,Sin clasificar,0.255318,3,2,242
-2024,Weird Sounding Dude,Sin clasificar,0.254568,4,1,243
+2024,Hector Couto,Electrónica y dance,0.255318,3,2,242
+2024,Weird Sounding Dude,Electrónica y dance,0.254568,4,1,243
 2024,DobleP,Sin clasificar,0.254431,20,7,244
 2024,Del Fonda,Sin clasificar,0.254388,10,5,245
 2024,Chris Jedi,Urbano latino,0.254259,17,3,246
@@ -9539,7 +9539,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Jamie Antonelli,Sin clasificar,0.211531,3,1,275
 2024,Eze Remix,Sin clasificar,0.211248,20,9,276
 2024,Los Enanitos Verdes,Rock y alternativo,0.210842,19,8,277
-2024,Los Auténticos Decadentes,Sin clasificar,0.210527,7,5,278
+2024,Los Auténticos Decadentes,Rock y alternativo,0.210527,7,5,278
 2024,Sound Stream,Sin clasificar,0.210189,6,2,279
 2024,Above & Beyond,Electrónica y dance,0.209946,12,6,280
 2024,John Lee Hooker,Otros,0.206600,7,4,281
@@ -9572,7 +9572,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Brandon's Three,"R&B, soul, funk y jazz",0.189326,3,2,308
 2024,Tame Impala,Rock y alternativo,0.189301,5,3,309
 2024,Beltran,Sin clasificar,0.189181,15,10,310
-2024,Mochakk,Sin clasificar,0.188785,10,5,311
+2024,Mochakk,Electrónica y dance,0.188785,10,5,311
 2024,Fulltone,Electrónica y dance,0.186663,5,4,312
 2024,Ilias Katelanos,Sin clasificar,0.186478,4,1,313
 2024,Gregor Tresher,Electrónica y dance,0.186283,9,4,314
@@ -9586,8 +9586,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Count Basie,"R&B, soul, funk y jazz",0.181144,3,1,322
 2024,Muddy Waters,Otros,0.180741,3,2,323
 2024,Sono,Pop,0.179736,15,6,324
-2024,Karina,Sin clasificar,0.179532,5,3,325
-2024,Newman (I Love),Sin clasificar,0.179176,6,5,326
+2024,Karina,Cumbia y tropical,0.179532,5,3,325
+2024,Newman (I Love),Electrónica y dance,0.179176,6,5,326
 2024,Sonny Rollins Quartet,"R&B, soul, funk y jazz",0.176615,2,2,327
 2024,KANT,Sin clasificar,0.176283,5,2,328
 2024,Heather Rigdon,Sin clasificar,0.175202,7,4,329
@@ -9595,8 +9595,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Alkilados,Urbano latino,0.173588,3,1,331
 2024,Armand Van Helden,Electrónica y dance,0.172314,8,3,332
 2024,The Doors,Rock y alternativo,0.171778,10,5,333
-2024,Jan Blomqvist,Sin clasificar,0.171128,12,7,334
-2024,Daniel Steinberg,Sin clasificar,0.171117,3,2,335
+2024,Jan Blomqvist,Electrónica y dance,0.171128,12,7,334
+2024,Daniel Steinberg,Electrónica y dance,0.171117,3,2,335
 2024,Gusty dj,Urbano latino,0.168859,12,8,336
 2024,Duke Dumont,Electrónica y dance,0.168562,4,2,337
 2024,Lenny Kravitz,Rock y alternativo,0.167682,12,5,338
@@ -9620,16 +9620,16 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Casper Magico,Urbano latino,0.156366,7,2,356
 2024,Philip Bailey,"R&B, soul, funk y jazz",0.155280,5,1,357
 2024,Savage Hymn,Sin clasificar,0.155171,2,1,358
-2024,Andrew Meller,Sin clasificar,0.154800,1,1,359
+2024,Andrew Meller,Electrónica y dance,0.154800,1,1,359
 2024,Tracy Chapman,Otros,0.154545,7,5,360
 2024,El Villano,Sin clasificar,0.154372,5,2,361
-2024,Mak Donal,Sin clasificar,0.153823,5,3,362
+2024,Mak Donal,Urbano latino,0.153823,5,3,362
 2024,Jitwam,Hip-hop y rap,0.152660,6,1,363
 2024,Los De La Nazza,Urbano latino,0.152402,11,2,364
 2024,Robert Dietz,Sin clasificar,0.151605,2,1,365
 2024,NTO,Electrónica y dance,0.151072,5,4,366
 2024,George Thorogood,Rock y alternativo,0.150138,10,1,367
-2024,Marsh,Sin clasificar,0.149901,9,7,368
+2024,Marsh,Electrónica y dance,0.149901,9,7,368
 2024,Albert King,Otros,0.148632,3,3,369
 2024,Rels B,Urbano latino,0.147931,17,6,370
 2024,Tim Deluxe,Electrónica y dance,0.147507,6,2,371
@@ -9730,7 +9730,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Emily Green Trio,Sin clasificar,0.117214,2,2,466
 2024,Glenn Miller,"R&B, soul, funk y jazz",0.117182,3,2,467
 2024,Joachim Pastor,Electrónica y dance,0.117090,2,1,468
-2024,Kasper Koman,Sin clasificar,0.117054,2,1,469
+2024,Kasper Koman,Electrónica y dance,0.117054,2,1,469
 2024,Ricchi E Poveri,Pop,0.116756,7,4,470
 2024,Jimi Hendrix,Rock y alternativo,0.116528,7,2,471
 2024,Nelly Vernon,"R&B, soul, funk y jazz",0.116396,2,2,472
@@ -9769,7 +9769,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Mat.Joe,Sin clasificar,0.110909,4,1,505
 2024,Dan Evans-Parker,"R&B, soul, funk y jazz",0.110867,3,1,506
 2024,Anita O'Day,"R&B, soul, funk y jazz",0.110767,2,2,507
-2024,Luuk Van Dijk,Sin clasificar,0.110614,6,5,508
+2024,Luuk Van Dijk,Electrónica y dance,0.110614,6,5,508
 2024,Green Velvet,Electrónica y dance,0.110576,6,4,509
 2024,Khen,Electrónica y dance,0.110264,11,10,510
 2024,VI-EM,Sin clasificar,0.109861,3,1,511
@@ -9818,12 +9818,12 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Urban Jazz Junction,Sin clasificar,0.101301,2,2,554
 2024,Macklemore & Ryan Lewis,Hip-hop y rap,0.101235,2,2,555
 2024,Noriel,Urbano latino,0.101182,8,1,556
-2024,Söhns,Sin clasificar,0.101147,2,1,557
+2024,Söhns,Electrónica y dance,0.101147,2,1,557
 2024,Son Seals,Otros,0.100667,1,1,558
 2024,Salastkbron,Sin clasificar,0.100500,12,3,559
 2024,Altos Cumbieros,Sin clasificar,0.100366,3,2,560
 2024,Saison,Sin clasificar,0.099897,3,1,561
-2024,Darius Syrossian,Sin clasificar,0.099847,4,3,562
+2024,Darius Syrossian,Electrónica y dance,0.099847,4,3,562
 2024,Johnny Hodges,"R&B, soul, funk y jazz",0.099666,2,2,563
 2024,Kellerkind,Electrónica y dance,0.098761,1,1,564
 2024,Natasha Bedingfield,Pop,0.098597,2,1,565
@@ -9897,7 +9897,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Westbam,Electrónica y dance,0.084841,1,1,633
 2024,Victor Lou,Sin clasificar,0.084649,5,2,634
 2024,Menahan Street Band,"R&B, soul, funk y jazz",0.084395,6,1,635
-2024,Los Wachiturros,Sin clasificar,0.084372,3,2,636
+2024,Los Wachiturros,Cumbia y tropical,0.084372,3,2,636
 2024,Rush,Rock y alternativo,0.084047,9,1,637
 2024,Oscar Peterson,"R&B, soul, funk y jazz",0.083981,2,1,638
 2024,Angelov,Sin clasificar,0.083872,2,1,639
@@ -9908,7 +9908,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Gianni Romano,Sin clasificar,0.082105,3,2,644
 2024,The Hollies,Rock y alternativo,0.082095,7,2,645
 2024,Jholeyson,Sin clasificar,0.081854,3,1,646
-2024,Cris Mj,Sin clasificar,0.081662,11,6,647
+2024,Cris Mj,Urbano latino,0.081662,11,6,647
 2024,La Cumbia,Sin clasificar,0.081339,3,2,648
 2024,Totally Enormous Extinct Dinosaurs,Sin clasificar,0.081067,1,1,649
 2024,Callejeros,Sin clasificar,0.080747,2,1,650
@@ -9916,7 +9916,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Northern Lite,Electrónica y dance,0.080556,1,1,652
 2024,Angela Rowles,Electrónica y dance,0.080312,1,1,653
 2024,London Dunes,Sin clasificar,0.080310,1,1,654
-2024,Parallelle,Sin clasificar,0.080186,1,1,655
+2024,Parallelle,Electrónica y dance,0.080186,1,1,655
 2024,Inamo,Sin clasificar,0.080128,4,1,656
 2024,Mr. Right Time,Electrónica y dance,0.080102,1,1,657
 2024,Maverick Sabre,Sin clasificar,0.079862,5,2,658
@@ -9927,7 +9927,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Lilly Wood and The Prick,Rock y alternativo,0.079614,3,2,663
 2024,Super Quinteto,Sin clasificar,0.079592,2,1,664
 2024,Eelke Kleijn,Electrónica y dance,0.079159,7,6,665
-2024,Liu Bei,Sin clasificar,0.079095,5,3,666
+2024,Liu Bei,Electrónica y dance,0.079095,5,3,666
 2024,Patrice Rushen,"R&B, soul, funk y jazz",0.079029,1,1,667
 2024,Los Del Maranaho,Sin clasificar,0.079019,2,1,668
 2024,Ivete Sangalo,Pop,0.078874,1,1,669
@@ -9955,7 +9955,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Tommy Flanagan Trio,"R&B, soul, funk y jazz",0.074415,1,1,691
 2024,Nick Warren,Electrónica y dance,0.074216,6,5,692
 2024,Gab Rhome,Sin clasificar,0.074195,3,1,693
-2024,Mind Against,Sin clasificar,0.074180,10,8,694
+2024,Mind Against,Electrónica y dance,0.074180,10,8,694
 2024,CASSIMM,Sin clasificar,0.074152,4,2,695
 2024,Tom Petty,Rock y alternativo,0.074089,3,2,696
 2024,Carlton Maison Quartet,"R&B, soul, funk y jazz",0.074066,1,1,697
@@ -10103,7 +10103,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Jo Paciello,Sin clasificar,0.060140,8,7,839
 2024,Herman Fred Trio,"R&B, soul, funk y jazz",0.060048,1,1,840
 2024,Jenny Jones,Sin clasificar,0.059935,1,1,841
-2024,Oscar Peterson Trio,Sin clasificar,0.059778,1,1,842
+2024,Oscar Peterson Trio,"R&B, soul, funk y jazz",0.059778,1,1,842
 2024,Porta,Sin clasificar,0.059596,3,2,843
 2024,Benjamine Leroy Quartet,Electrónica y dance,0.059549,1,1,844
 2024,BM,Hip-hop y rap,0.059454,9,5,845
@@ -10264,11 +10264,11 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Praise Cats,Sin clasificar,0.046925,1,1,1000
 2024,Wynton Marsalis,"R&B, soul, funk y jazz",0.046852,1,1,1001
 2024,Disalazar,Sin clasificar,0.046789,4,1,1002
-2024,Rayito Colombiano,Sin clasificar,0.046704,1,1,1003
+2024,Rayito Colombiano,Cumbia y tropical,0.046704,1,1,1003
 2024,Anthony Godfather,Sin clasificar,0.046461,1,1,1004
 2024,Buddy Guy,Otros,0.046459,3,1,1005
 2024,Jósean Log,Sin clasificar,0.046443,13,3,1006
-2024,Kaleb Di Masi,Sin clasificar,0.045911,3,1,1007
+2024,Kaleb Di Masi,Urbano latino,0.045911,3,1,1007
 2024,Drew Milner,Sin clasificar,0.045855,1,1,1008
 2024,Alejo Cabrera,Sin clasificar,0.045689,1,1,1009
 2024,Boris Brejcha,Electrónica y dance,0.045616,3,3,1010
@@ -10283,7 +10283,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Nu,Rock y alternativo,0.044702,1,1,1019
 2024,Madeleine West,Electrónica y dance,0.044700,1,1,1020
 2024,Ben & Katsy,"R&B, soul, funk y jazz",0.044610,1,1,1021
-2024,ATFC,Sin clasificar,0.044597,1,1,1022
+2024,ATFC,Electrónica y dance,0.044597,1,1,1022
 2024,Jeremy Olander,Sin clasificar,0.044501,2,1,1023
 2024,La Caravana Magica,Sin clasificar,0.044444,1,1,1024
 2024,Anita Rosswell,"R&B, soul, funk y jazz",0.044379,1,1,1025
@@ -10319,7 +10319,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Harvy Valencia,Sin clasificar,0.041994,1,1,1055
 2024,Sean Paul,Pop,0.041914,3,3,1056
 2024,Pone La Premier,Sin clasificar,0.041905,1,1,1057
-2024,Perro Primo,Sin clasificar,0.041582,1,1,1058
+2024,Perro Primo,Urbano latino,0.041582,1,1,1058
 2024,Metronomy,Pop,0.041452,1,1,1059
 2024,Teddy Wilson,"R&B, soul, funk y jazz",0.041409,1,1,1060
 2024,Los del bohio,Cumbia y tropical,0.041223,2,2,1061
@@ -10327,7 +10327,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,RICHIE ROZEX,Sin clasificar,0.041112,1,1,1063
 2024,Jean Vayat,Sin clasificar,0.041084,1,1,1064
 2024,Luis Cordoba Remix,Sin clasificar,0.041041,1,1,1065
-2024,Colyn,Sin clasificar,0.040732,4,4,1066
+2024,Colyn,Electrónica y dance,0.040732,4,4,1066
 2024,Alain Fanegas,Sin clasificar,0.040710,1,1,1067
 2024,Applescal,Electrónica y dance,0.040527,1,1,1068
 2024,bewav,Sin clasificar,0.040504,2,1,1069
@@ -10338,7 +10338,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Los Mirlos,Cumbia y tropical,0.039932,1,1,1074
 2024,Classmatic,Sin clasificar,0.039894,8,8,1075
 2024,Dimitri Vegas & Like Mike,Electrónica y dance,0.039771,1,1,1076
-2024,Melé,Sin clasificar,0.039551,1,1,1077
+2024,Melé,Electrónica y dance,0.039551,1,1,1077
 2024,Grupo Arenas,Sin clasificar,0.039483,2,1,1078
 2024,Dimension Latina,Cumbia y tropical,0.039381,1,1,1079
 2024,Saint LL,Sin clasificar,0.039364,3,1,1080
@@ -10392,7 +10392,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Lira,"R&B, soul, funk y jazz",0.034752,3,1,1128
 2024,"Wise ""the Gold Pen""",Urbano latino,0.034701,2,1,1129
 2024,Blessd,Sin clasificar,0.034557,9,1,1130
-2024,Shakedown,Sin clasificar,0.034549,4,3,1131
+2024,Shakedown,Electrónica y dance,0.034549,4,3,1131
 2024,Janis Joplin,Rock y alternativo,0.034373,1,1,1132
 2024,Vlado,Sin clasificar,0.034344,2,1,1133
 2024,Eros Ramazzotti,Pop,0.034142,5,3,1134
@@ -10411,7 +10411,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Marillion,Rock y alternativo,0.032338,1,1,1147
 2024,Havantepe,Sin clasificar,0.032249,1,1,1148
 2024,Antrim,Electrónica y dance,0.032191,5,4,1149
-2024,Pola DJ,Sin clasificar,0.032065,1,1,1150
+2024,Pola DJ,Urbano latino,0.032065,1,1,1150
 2024,The Chordettes,Pop,0.032035,2,2,1151
 2024,Mood Gorning,Sin clasificar,0.031722,1,1,1152
 2024,Mateo Dufour,Electrónica y dance,0.031539,4,4,1153
@@ -10434,7 +10434,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Maxxim,Sin clasificar,0.030353,1,1,1170
 2024,Blues Company,Otros,0.030304,1,1,1171
 2024,MAGIC!,Rock y alternativo,0.030192,1,1,1172
-2024,Golan Zocher,Sin clasificar,0.030158,2,1,1173
+2024,Golan Zocher,Electrónica y dance,0.030158,2,1,1173
 2024,Incubus,Metal,0.030065,6,1,1174
 2024,La Factoria,Urbano latino,0.029878,1,1,1175
 2024,Greg Elenis,Sin clasificar,0.029767,3,2,1176
@@ -10465,7 +10465,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Marc DePulse,Electrónica y dance,0.026528,4,2,1201
 2024,Los Socios Del Ritmo,Sin clasificar,0.026501,1,1,1202
 2024,Bolden.,Electrónica y dance,0.026334,1,1,1203
-2024,Andrew Azara,Sin clasificar,0.026296,3,2,1204
+2024,Andrew Azara,Electrónica y dance,0.026296,3,2,1204
 2024,Carlos Baute,Pop,0.026217,2,1,1205
 2024,Louie Vega,Sin clasificar,0.026090,3,1,1206
 2024,Blues Delight,Otros,0.026014,2,1,1207
@@ -10492,7 +10492,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Tomy Wahl,Electrónica y dance,0.024053,1,1,1228
 2024,Dominic Fike,Rock y alternativo,0.024018,1,1,1229
 2024,Red Garland,"R&B, soul, funk y jazz",0.023773,1,1,1230
-2024,Marama,Sin clasificar,0.023632,8,7,1231
+2024,Marama,Cumbia y tropical,0.023632,8,7,1231
 2024,George Michael,Pop,0.023620,5,2,1232
 2024,Hayden James,Electrónica y dance,0.023508,2,1,1233
 2024,Avision,Sin clasificar,0.023265,2,1,1234
@@ -10592,7 +10592,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Tata Vega,"R&B, soul, funk y jazz",0.015478,1,1,1328
 2024,Dale Howard,Electrónica y dance,0.015474,2,2,1329
 2024,Whighle,Sin clasificar,0.015439,3,1,1330
-2024,Teho,Sin clasificar,0.015161,1,1,1331
+2024,Teho,Electrónica y dance,0.015161,1,1,1331
 2024,Albert Hammond,Rock y alternativo,0.015157,1,1,1332
 2024,Spektre,Sin clasificar,0.015080,1,1,1333
 2024,Enzo Siffredi,Electrónica y dance,0.015003,2,1,1334
@@ -10625,7 +10625,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Gerry Rafferty,Rock y alternativo,0.013553,1,1,1361
 2024,Pavel Petrov,Sin clasificar,0.013529,2,1,1362
 2024,La Sonora Santanera,Cumbia y tropical,0.013511,1,1,1363
-2024,De La Calle,Sin clasificar,0.013505,2,1,1364
+2024,De La Calle,Urbano latino,0.013505,2,1,1364
 2024,Serge Devant,Sin clasificar,0.013431,1,1,1365
 2024,Fer Palacio,Electrónica y dance,0.013306,3,2,1366
 2024,DJ Alex,Urbano latino,0.013286,11,8,1367
@@ -10642,7 +10642,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Kollektiv Turmstrasse,Electrónica y dance,0.012683,2,1,1378
 2024,Chico Trujillo,Cumbia y tropical,0.012664,1,1,1379
 2024,Eurostep,Sin clasificar,0.012617,1,1,1380
-2024,Callejero Fino,Sin clasificar,0.012517,4,4,1381
+2024,Callejero Fino,Urbano latino,0.012517,4,4,1381
 2024,Space Motion,Electrónica y dance,0.012416,1,1,1382
 2024,Yet More,Sin clasificar,0.012297,1,1,1383
 2024,Korolova,Electrónica y dance,0.012190,1,1,1384
@@ -10683,10 +10683,10 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Au/Ra,Electrónica y dance,0.010665,4,1,1419
 2024,Dyzen,Sin clasificar,0.010652,1,1,1420
 2024,Elderbrook,Electrónica y dance,0.010643,1,1,1421
-2024,Ms. Lauryn Hill,"R&B, soul, funk y jazz",0.010620,1,1,1422
+2024,Ms. Lauryn Hill,Hip-hop y rap,0.010620,1,1,1422
 2024,Adam Sellouk,Electrónica y dance,0.010523,2,2,1423
 2024,UNKLE,Electrónica y dance,0.010450,2,1,1424
-2024,M83,Pop,0.010406,1,1,1425
+2024,M83,Electrónica y dance,0.010406,1,1,1425
 2024,Darondo,Sin clasificar,0.010400,1,1,1426
 2024,Chuck Berry,Rock y alternativo,0.010399,2,1,1427
 2024,Milo j,Rock y alternativo,0.010393,2,2,1428
@@ -10703,7 +10703,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Héctor Ortiz,Sin clasificar,0.010139,1,1,1439
 2024,Michael Felix,Sin clasificar,0.010072,2,2,1440
 2024,Whitney Houston,Pop,0.010018,1,1,1441
-2024,Hot Chip,Rock y alternativo,0.009978,1,1,1442
+2024,Hot Chip,Electrónica y dance,0.009978,1,1,1442
 2024,Papacho Mc Caco,Sin clasificar,0.009946,1,1,1443
 2024,Bruno Furlan,Sin clasificar,0.009939,2,2,1444
 2024,Michael Bibi,Electrónica y dance,0.009929,5,3,1445
@@ -10790,8 +10790,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Cali Y El Dandee,Urbano latino,0.007256,1,1,1526
 2024,Jerry Lu,Sin clasificar,0.007256,1,1,1527
 2024,NewTone,"R&B, soul, funk y jazz",0.007218,2,1,1528
-2024,DAVI,Sin clasificar,0.007188,1,1,1529
-2024,Shermanology,Sin clasificar,0.007181,2,2,1530
+2024,DAVI,Electrónica y dance,0.007188,1,1,1529
+2024,Shermanology,Electrónica y dance,0.007181,2,2,1530
 2024,Dj Luciano Troncoso,Sin clasificar,0.007165,4,4,1531
 2024,Detlef,Sin clasificar,0.007158,1,1,1532
 2024,Bob Musella,Sin clasificar,0.007129,1,1,1533
@@ -10818,7 +10818,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Mathame,Electrónica y dance,0.006392,3,3,1554
 2024,Sublime,Rock y alternativo,0.006372,3,1,1555
 2024,Sugar Hill,Electrónica y dance,0.006356,2,1,1556
-2024,Monkey Safari,Sin clasificar,0.006353,2,1,1557
+2024,Monkey Safari,Electrónica y dance,0.006353,2,1,1557
 2024,Yeah But No,Electrónica y dance,0.006350,1,1,1558
 2024,Samuli Kemppi,Electrónica y dance,0.006314,2,1,1559
 2024,Juhn,Urbano latino,0.006276,1,1,1560
@@ -10850,7 +10850,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Oscar Barila,Sin clasificar,0.005608,1,1,1586
 2024,Joe Vanditti,Sin clasificar,0.005589,2,2,1587
 2024,Pier Bucci,Electrónica y dance,0.005581,2,1,1588
-2024,El Reja,Sin clasificar,0.005553,1,1,1589
+2024,El Reja,Cumbia y tropical,0.005553,1,1,1589
 2024,The Whitest Boy Alive,Rock y alternativo,0.005547,1,1,1590
 2024,FACUU DJ,Sin clasificar,0.005494,3,2,1591
 2024,Guti,Sin clasificar,0.005481,3,3,1592
@@ -10904,7 +10904,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Gaby Moreno,"R&B, soul, funk y jazz",0.004627,2,1,1640
 2024,CHVRCHES,Pop,0.004608,1,1,1641
 2024,Los Angeles Negros,Otros,0.004598,1,1,1642
-2024,Volkoder,Sin clasificar,0.004594,1,1,1643
+2024,Volkoder,Electrónica y dance,0.004594,1,1,1643
 2024,DJ Gabriel,Sin clasificar,0.004589,1,1,1644
 2024,DJ Alan Daniel,Sin clasificar,0.004569,1,1,1645
 2024,Bontan,Electrónica y dance,0.004567,2,2,1646
@@ -10923,8 +10923,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,RSquared,Electrónica y dance,0.004414,3,2,1659
 2024,Who Else,Electrónica y dance,0.004414,2,1,1660
 2024,Bondarev,Sin clasificar,0.004411,1,1,1661
-2024,Papichamp,Sin clasificar,0.004400,3,3,1662
-2024,Mariano Mellino,Sin clasificar,0.004366,3,3,1663
+2024,Papichamp,Urbano latino,0.004400,3,3,1662
+2024,Mariano Mellino,Electrónica y dance,0.004366,3,3,1663
 2024,Blaze,Electrónica y dance,0.004356,1,1,1664
 2024,Koradize,Sin clasificar,0.004311,2,2,1665
 2024,Sugar Ray,Rock y alternativo,0.004306,1,1,1666
@@ -10964,7 +10964,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Vance Joy,Rock y alternativo,0.003831,1,1,1700
 2024,Sam Hopgood,Sin clasificar,0.003792,1,1,1701
 2024,R Jota,Sin clasificar,0.003783,1,1,1702
-2024,Kevin de Vries,Sin clasificar,0.003781,1,1,1703
+2024,Kevin de Vries,Electrónica y dance,0.003781,1,1,1703
 2024,Rita Payés,"R&B, soul, funk y jazz",0.003781,1,1,1704
 2024,Dj Fronter,Electrónica y dance,0.003763,1,1,1705
 2024,Fake Mood,Sin clasificar,0.003763,2,2,1706
@@ -11151,7 +11151,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Van Bellen,Sin clasificar,0.002167,2,2,1887
 2024,Agus Cassano,Sin clasificar,0.002153,1,1,1888
 2024,Fabian Fattorini,Sin clasificar,0.002153,1,1,1889
-2024,Angel Y Khriz,Sin clasificar,0.002148,1,1,1890
+2024,Angel Y Khriz,Urbano latino,0.002148,1,1,1890
 2024,Jose Vilches,Sin clasificar,0.002118,1,1,1891
 2024,Danny Ocean,Urbano latino,0.002115,2,1,1892
 2024,J Abdiel,Sin clasificar,0.002115,3,2,1893
@@ -11225,7 +11225,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,The Cranberries,Rock y alternativo,0.001723,1,1,1961
 2024,ODYSSAY,Sin clasificar,0.001719,1,1,1962
 2024,Rusherking,Urbano latino,0.001714,2,2,1963
-2024,Nils Hoffmann,Sin clasificar,0.001706,1,1,1964
+2024,Nils Hoffmann,Electrónica y dance,0.001706,1,1,1964
 2024,Christopher Cross,Rock y alternativo,0.001701,2,2,1965
 2024,Kevin Kaarl,Otros,0.001695,1,1,1966
 2024,Juliana Barbosa,Sin clasificar,0.001683,1,1,1967
@@ -11432,7 +11432,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Christian Burkhardt,Sin clasificar,0.000865,1,1,2168
 2024,Underset,Sin clasificar,0.000865,1,1,2169
 2024,Marc Marzenit,Sin clasificar,0.000864,1,1,2170
-2024,Zato DJ,Sin clasificar,0.000861,1,1,2171
+2024,Zato DJ,Urbano latino,0.000861,1,1,2171
 2024,Tiësto,Electrónica y dance,0.000859,1,1,2172
 2024,CA7RIEL & Paco Amoroso,Sin clasificar,0.000857,1,1,2173
 2024,Antdot,Sin clasificar,0.000856,1,1,2174
@@ -11494,7 +11494,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Zakir,Sin clasificar,0.000656,1,1,2230
 2024,Doctors On Decks,Sin clasificar,0.000646,1,1,2231
 2024,Anvero,Sin clasificar,0.000645,1,1,2232
-2024,DJ Luc14no Antileo,Sin clasificar,0.000644,1,1,2233
+2024,DJ Luc14no Antileo,Urbano latino,0.000644,1,1,2233
 2024,Lolo OG,Sin clasificar,0.000644,1,1,2234
 2024,Agus Maidana,Sin clasificar,0.000639,1,1,2235
 2024,Tripswitch,Electrónica y dance,0.000637,1,1,2236
@@ -11509,7 +11509,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Juan Magán,Electrónica y dance,0.000608,1,1,2245
 2024,Julio Iglesias,Otros,0.000604,1,1,2246
 2024,Alejandro Lerner,Otros,0.000603,1,1,2247
-2024,Mateo Ribak,Sin clasificar,0.000603,1,1,2248
+2024,Mateo Ribak,Urbano latino,0.000603,1,1,2248
 2024,The Everly Brothers,Rock y alternativo,0.000600,1,1,2249
 2024,BLANKO,Sin clasificar,0.000599,1,1,2250
 2024,YOVNGCHIMI,Sin clasificar,0.000598,1,1,2251
@@ -11532,7 +11532,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Parra for Cuva,Electrónica y dance,0.000539,1,1,2268
 2024,Producto Sin Corte,Sin clasificar,0.000539,1,1,2269
 2024,Nico de Andrea,Sin clasificar,0.000536,1,1,2270
-2024,Treekoo,Sin clasificar,0.000534,1,1,2271
+2024,Treekoo,Urbano latino,0.000534,1,1,2271
 2024,Alanis Morissette,Rock y alternativo,0.000533,1,1,2272
 2024,Liquefied,Sin clasificar,0.000533,1,1,2273
 2024,Goodboys,Electrónica y dance,0.000531,1,1,2274
@@ -11600,9 +11600,9 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2024,Thomas Schwartz,Sin clasificar,0.000278,1,1,2336
 2024,Ormatie,Sin clasificar,0.000273,1,1,2337
 2024,Artmann,Sin clasificar,0.000271,1,1,2338
-2024,Lukini,Sin clasificar,0.000271,1,1,2339
+2024,Lukini,Urbano latino,0.000271,1,1,2339
 2024,Behind-U,Electrónica y dance,0.000269,1,1,2340
-2024,JADED,Sin clasificar,0.000264,1,1,2341
+2024,JADED,Electrónica y dance,0.000264,1,1,2341
 2024,Jhey Pi,Sin clasificar,0.000263,1,1,2342
 2024,Ryan Castro,Urbano latino,0.000258,1,1,2343
 2024,LFERREIRA,Sin clasificar,0.000256,1,1,2344
@@ -11716,7 +11716,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Louis Armstrong,"R&B, soul, funk y jazz",0.939040,41,9,96
 2025,Grand Funk Railroad,Rock y alternativo,0.931101,30,1,97
 2025,Brytiago,Urbano latino,0.924819,19,6,98
-2025,Callecat,Sin clasificar,0.919376,19,9,99
+2025,Callecat,Electrónica y dance,0.919376,19,9,99
 2025,Leo Mattioli,Cumbia y tropical,0.913822,20,12,100
 2025,KISS,Rock y alternativo,0.912009,36,5,101
 2025,Nicky Jam,Urbano latino,0.901683,27,9,102
@@ -11754,11 +11754,11 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,L'Impératrice,Pop,0.665739,14,8,134
 2025,Mike Rish,Electrónica y dance,0.665536,10,6,135
 2025,Thad Jones,"R&B, soul, funk y jazz",0.664637,6,1,136
-2025,Oscar Peterson Trio,Sin clasificar,0.658660,13,4,137
+2025,Oscar Peterson Trio,"R&B, soul, funk y jazz",0.658660,13,4,137
 2025,Dalex,Urbano latino,0.648093,17,4,138
 2025,Arcángel,Urbano latino,0.648035,18,11,139
 2025,Antrim,Electrónica y dance,0.645921,15,6,140
-2025,Benny Goodman Sextet,Sin clasificar,0.640902,54,2,141
+2025,Benny Goodman Sextet,"R&B, soul, funk y jazz",0.640902,54,2,141
 2025,Chris Isaak,Rock y alternativo,0.640527,67,3,142
 2025,Heather Rigdon,Sin clasificar,0.639291,26,8,143
 2025,Hailey Tuck,"R&B, soul, funk y jazz",0.627985,41,3,144
@@ -11769,7 +11769,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,RÜFÜS DU SOL,Electrónica y dance,0.601024,19,13,149
 2025,J.J. Cale,Rock y alternativo,0.597507,29,7,150
 2025,Nick Warren,Electrónica y dance,0.594247,18,11,151
-2025,Mariano Mellino,Sin clasificar,0.591374,11,8,152
+2025,Mariano Mellino,Electrónica y dance,0.591374,11,8,152
 2025,Antônio Carlos Jobim,Otros,0.589114,26,11,153
 2025,Intoxicados,Rock y alternativo,0.587664,15,7,154
 2025,Miles Davis,"R&B, soul, funk y jazz",0.587507,11,6,155
@@ -11780,7 +11780,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,John Coltrane,"R&B, soul, funk y jazz",0.561298,14,4,160
 2025,Kamilo Sanclemente,Electrónica y dance,0.555713,12,6,161
 2025,Snowy White,Rock y alternativo,0.554681,30,13,162
-2025,Adisyn,Sin clasificar,0.552673,7,4,163
+2025,Adisyn,Electrónica y dance,0.552673,7,4,163
 2025,Chicola,Electrónica y dance,0.545942,18,9,164
 2025,DJ Luian,Urbano latino,0.545825,11,2,165
 2025,Dusty Springfield,Pop,0.541670,24,3,166
@@ -11791,14 +11791,14 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,JHAYCO,Urbano latino,0.530186,13,5,171
 2025,Viejas Locas,Rock y alternativo,0.524792,14,5,172
 2025,Duke Ellington,"R&B, soul, funk y jazz",0.520747,10,5,173
-2025,Sahar Z,Sin clasificar,0.520353,9,4,174
+2025,Sahar Z,Electrónica y dance,0.520353,9,4,174
 2025,Tantum,Electrónica y dance,0.511406,8,5,175
 2025,Bryan Adams,Rock y alternativo,0.511225,23,5,176
 2025,Volen Sentir,Electrónica y dance,0.509637,10,7,177
 2025,João Gilberto,Otros,0.507472,14,11,178
 2025,Radiohead,Rock y alternativo,0.507332,34,10,179
 2025,Miles Davis Quintet,"R&B, soul, funk y jazz",0.504607,9,6,180
-2025,Kabi (AR),Sin clasificar,0.504563,10,4,181
+2025,Kabi (AR),Electrónica y dance,0.504563,10,4,181
 2025,Parcels,Electrónica y dance,0.489752,11,4,182
 2025,Bryant Myers,Urbano latino,0.489371,16,6,183
 2025,Living Colour,Rock y alternativo,0.483345,30,1,184
@@ -11814,17 +11814,17 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Herbie Hancock,"R&B, soul, funk y jazz",0.453104,6,3,194
 2025,Nina Simone,"R&B, soul, funk y jazz",0.451473,22,9,195
 2025,DJ Nelson,Urbano latino,0.451118,8,1,196
-2025,Kasper Koman,Sin clasificar,0.445679,15,4,197
+2025,Kasper Koman,Electrónica y dance,0.445679,15,4,197
 2025,Rata Blanca,Metal,0.445605,11,2,198
 2025,El Plan De La Mariposa,Rock y alternativo,0.444455,12,6,199
 2025,Jowell & Randy,Urbano latino,0.444180,20,7,200
 2025,Ke Personajes,Cumbia y tropical,0.440532,9,8,201
 2025,Quivver,Electrónica y dance,0.439642,11,6,202
 2025,Los Abuelos De La Nada,Rock y alternativo,0.439286,16,4,203
-2025,Greg Ochman,Sin clasificar,0.434117,10,5,204
+2025,Greg Ochman,Electrónica y dance,0.434117,10,5,204
 2025,Lorez Alexandria,"R&B, soul, funk y jazz",0.432173,17,3,205
 2025,Stereo Underground,Electrónica y dance,0.427972,10,4,206
-2025,Marsh,Sin clasificar,0.421918,11,7,207
+2025,Marsh,Electrónica y dance,0.421918,11,7,207
 2025,Carlos Gardel,Otros,0.420410,11,6,208
 2025,Piero Umiliani,"R&B, soul, funk y jazz",0.419167,13,3,209
 2025,Roy Hargrove,"R&B, soul, funk y jazz",0.416456,7,2,210
@@ -11839,25 +11839,25 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Pink Floyd,Rock y alternativo,0.383452,54,14,219
 2025,Becky G,Urbano latino,0.380522,15,5,220
 2025,Zoot Sims,"R&B, soul, funk y jazz",0.378387,16,1,221
-2025,Colyn,Sin clasificar,0.372251,10,8,222
+2025,Colyn,Electrónica y dance,0.372251,10,8,222
 2025,Gotye,Rock y alternativo,0.371017,8,1,223
 2025,Peter Bjorn and John,Rock y alternativo,0.368998,7,2,224
 2025,George Benson,"R&B, soul, funk y jazz",0.368135,10,3,225
 2025,Sebastian Sellares,Sin clasificar,0.366095,10,5,226
 2025,Daddy Yankee,Urbano latino,0.365611,26,11,227
 2025,Oxia,Electrónica y dance,0.363120,5,2,228
-2025,Juan Deminicis,Sin clasificar,0.360514,7,3,229
+2025,Juan Deminicis,Electrónica y dance,0.360514,7,3,229
 2025,KAROL G,Urbano latino,0.357497,13,6,230
 2025,Muse,Rock y alternativo,0.353479,43,4,231
 2025,The La Planta,Cumbia y tropical,0.349058,7,6,232
 2025,Los Charros,Cumbia y tropical,0.347512,8,5,233
 2025,Kora (CA),Sin clasificar,0.339175,7,2,234
 2025,Fulltone,Electrónica y dance,0.338466,4,2,235
-2025,Newman (I Love),Sin clasificar,0.337949,7,5,236
+2025,Newman (I Love),Electrónica y dance,0.337949,7,5,236
 2025,Callejeros,Sin clasificar,0.336206,8,4,237
 2025,Joe Bonamassa,Rock y alternativo,0.333977,11,5,238
 2025,Gai Barone,Electrónica y dance,0.333914,4,3,239
-2025,DAVI,Sin clasificar,0.333902,6,5,240
+2025,DAVI,Electrónica y dance,0.333902,6,5,240
 2025,The Dave Brubeck Quartet,"R&B, soul, funk y jazz",0.333581,9,3,241
 2025,Paul McCartney,Rock y alternativo,0.333156,20,6,242
 2025,Julio Sosa,Otros,0.332092,7,5,243
@@ -11870,7 +11870,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,DJ Pirata,Urbano latino,0.323379,9,8,250
 2025,Huguito Flores el Super,Sin clasificar,0.317409,8,6,251
 2025,Rod Stewart,Rock y alternativo,0.316375,8,5,252
-2025,Söhns,Sin clasificar,0.315308,4,2,253
+2025,Söhns,Electrónica y dance,0.315308,4,2,253
 2025,Los Pibes Chorros,Cumbia y tropical,0.312626,10,9,254
 2025,Philip Bailey,"R&B, soul, funk y jazz",0.312427,7,1,255
 2025,Foo Fighters,Rock y alternativo,0.308629,17,6,256
@@ -11881,13 +11881,13 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Michael Kiwanuka,"R&B, soul, funk y jazz",0.299160,14,4,261
 2025,NTO,Electrónica y dance,0.298594,3,2,262
 2025,Frankie Valli,Rock y alternativo,0.298261,71,1,263
-2025,Christian Smith,Sin clasificar,0.297644,3,3,264
+2025,Christian Smith,Electrónica y dance,0.297644,3,3,264
 2025,Henry Saiz,Sin clasificar,0.297547,6,4,265
 2025,Astrix,Rock y alternativo,0.293634,5,1,266
 2025,Gusty dj,Urbano latino,0.293551,3,2,267
 2025,Howlin' Wolf,Otros,0.287575,11,2,268
 2025,Luck Ra,Hip-hop y rap,0.286935,7,6,269
-2025,Karina,Sin clasificar,0.285881,5,5,270
+2025,Karina,Cumbia y tropical,0.285881,5,5,270
 2025,Dee Montero,Sin clasificar,0.282824,3,1,271
 2025,Albert Cummings,Sin clasificar,0.282451,4,1,272
 2025,Lelio Luttazzi,Sin clasificar,0.281779,79,3,273
@@ -11914,7 +11914,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Marvin Gaye,"R&B, soul, funk y jazz",0.252000,27,6,294
 2025,Electric Light Orchestra,Rock y alternativo,0.250279,10,3,295
 2025,Vinícius de Moraes,Sin clasificar,0.250191,6,2,296
-2025,Eli Nissan,Sin clasificar,0.249232,9,5,297
+2025,Eli Nissan,Electrónica y dance,0.249232,9,5,297
 2025,Rush,Rock y alternativo,0.246296,28,3,298
 2025,Fito Paez,Rock y alternativo,0.245300,7,3,299
 2025,Canserbero,Hip-hop y rap,0.242685,7,6,300
@@ -11922,7 +11922,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,"Emerson, Lake & Palmer",Rock y alternativo,0.241596,11,2,302
 2025,Don Omar,Urbano latino,0.240687,15,9,303
 2025,Diana Krall,"R&B, soul, funk y jazz",0.240418,5,3,304
-2025,Somelee,Sin clasificar,0.239306,5,2,305
+2025,Somelee,Electrónica y dance,0.239306,5,2,305
 2025,Robilardo,Sin clasificar,0.238226,6,2,306
 2025,Zion & Lennox,Urbano latino,0.236078,14,5,307
 2025,Tigerblind,Sin clasificar,0.236076,4,2,308
@@ -11964,13 +11964,13 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Moontalk,Sin clasificar,0.202192,10,10,344
 2025,Julieta Venegas,Rock y alternativo,0.201673,4,2,345
 2025,Gab Rhome,Sin clasificar,0.201519,3,3,346
-2025,Los Auténticos Decadentes,Sin clasificar,0.197968,5,2,347
+2025,Los Auténticos Decadentes,Rock y alternativo,0.197968,5,2,347
 2025,Gary Moore,Rock y alternativo,0.197645,17,6,348
 2025,Peter Frampton,Rock y alternativo,0.197063,16,4,349
 2025,Audio Junkies,Electrónica y dance,0.197029,6,2,350
 2025,Anthrax,Metal,0.196844,26,2,351
 2025,Shai T,Sin clasificar,0.194408,4,4,352
-2025,Kreech,Sin clasificar,0.194257,6,2,353
+2025,Kreech,Electrónica y dance,0.194257,6,2,353
 2025,McCoy Tyner,"R&B, soul, funk y jazz",0.193657,8,3,354
 2025,dublon,Sin clasificar,0.193555,5,5,355
 2025,Shakira,Pop,0.193477,6,5,356
@@ -11990,7 +11990,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Bersuit Vergarabat,Rock y alternativo,0.180196,8,4,370
 2025,La Factoria,Urbano latino,0.179764,4,2,371
 2025,La Renga,Rock y alternativo,0.177185,5,4,372
-2025,Mind Against,Sin clasificar,0.176099,4,3,373
+2025,Mind Against,Electrónica y dance,0.176099,4,3,373
 2025,Roberta Flack,"R&B, soul, funk y jazz",0.175956,13,3,374
 2025,Tomy DJ,Urbano latino,0.175492,7,7,375
 2025,Coldplay,Rock y alternativo,0.174934,20,9,376
@@ -12100,23 +12100,23 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Moshic,Sin clasificar,0.132866,3,2,480
 2025,Jon Dasilva,Sin clasificar,0.131480,2,1,481
 2025,Los Rodriguez,Rock y alternativo,0.131009,7,2,482
-2025,Franky Wah,Sin clasificar,0.130771,4,2,483
+2025,Franky Wah,Electrónica y dance,0.130771,4,2,483
 2025,Tracy Chapman,Otros,0.130304,12,3,484
 2025,Testament,Metal,0.129907,8,5,485
 2025,Jean Carlos,Sin clasificar,0.129887,3,3,486
-2025,Jan Blomqvist,Sin clasificar,0.129732,4,3,487
+2025,Jan Blomqvist,Electrónica y dance,0.129732,4,3,487
 2025,The Vaughan Brothers,Rock y alternativo,0.129679,5,2,488
 2025,Nichols+Roark,Sin clasificar,0.129637,1,1,489
 2025,Foletto,Sin clasificar,0.128897,4,2,490
 2025,Wisin & Yandel,Urbano latino,0.128363,5,5,491
 2025,La Repandilla,Sin clasificar,0.128007,2,2,492
-2025,Jimmy Y Su Combo Negro,Sin clasificar,0.127618,2,2,493
+2025,Jimmy Y Su Combo Negro,Cumbia y tropical,0.127618,2,2,493
 2025,Nio Garcia,Urbano latino,0.127602,5,2,494
 2025,Mick Taylor,Otros,0.127512,4,1,495
 2025,Coyu,Electrónica y dance,0.127391,2,1,496
 2025,BLOND:ISH,Electrónica y dance,0.127368,3,3,497
 2025,Coleman Hawkins Quartet,"R&B, soul, funk y jazz",0.127227,3,1,498
-2025,Kaz James,Sin clasificar,0.127038,3,3,499
+2025,Kaz James,Electrónica y dance,0.127038,3,3,499
 2025,Space 92,Electrónica y dance,0.126953,2,2,500
 2025,Gerry Rafferty,Rock y alternativo,0.126710,6,2,501
 2025,Chick Corea,"R&B, soul, funk y jazz",0.126342,3,2,502
@@ -12197,7 +12197,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Kollektiv Turmstrasse,Electrónica y dance,0.103153,3,1,577
 2025,Ann Hampton Callaway,"R&B, soul, funk y jazz",0.103146,5,1,578
 2025,Dave Seaman,Electrónica y dance,0.103123,4,2,579
-2025,Freakme,Sin clasificar,0.102933,1,1,580
+2025,Freakme,Electrónica y dance,0.102933,1,1,580
 2025,Natalie Cole,"R&B, soul, funk y jazz",0.102894,5,2,581
 2025,Leaman,Sin clasificar,0.102148,1,1,582
 2025,Stereophonics,Rock y alternativo,0.101989,7,1,583
@@ -12215,7 +12215,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Tedeschi Trucks Band,Rock y alternativo,0.099456,2,1,595
 2025,Audioslave,Rock y alternativo,0.099054,22,6,596
 2025,Sam Paganini,Electrónica y dance,0.098726,3,2,597
-2025,Teho,Sin clasificar,0.098676,2,2,598
+2025,Teho,Electrónica y dance,0.098676,2,2,598
 2025,Almighty,Urbano latino,0.098525,5,2,599
 2025,Snirco,Sin clasificar,0.098510,4,2,600
 2025,Bobby Hebb,"R&B, soul, funk y jazz",0.098276,7,1,601
@@ -12224,7 +12224,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Tainy,Urbano latino,0.097727,8,3,604
 2025,Fabian Krooss,Sin clasificar,0.097719,1,1,605
 2025,The Mills Brothers,"R&B, soul, funk y jazz",0.097710,4,3,606
-2025,Parallelle,Sin clasificar,0.097398,4,2,607
+2025,Parallelle,Electrónica y dance,0.097398,4,2,607
 2025,HUGEL,Electrónica y dance,0.097292,10,5,608
 2025,Amelita Baltar,Sin clasificar,0.097004,2,2,609
 2025,Tony Di Bart,Pop,0.096640,2,1,610
@@ -12265,7 +12265,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,The Doobie Brothers,Rock y alternativo,0.087514,16,3,645
 2025,Samaran,Sin clasificar,0.087164,2,1,646
 2025,Dr. Mirzoyan,Sin clasificar,0.086684,1,1,647
-2025,Hector Couto,Sin clasificar,0.086571,1,1,648
+2025,Hector Couto,Electrónica y dance,0.086571,1,1,648
 2025,Namatjira,Sin clasificar,0.086481,1,1,649
 2025,Mazzy Star,Rock y alternativo,0.086253,4,1,650
 2025,Paul Hazendonk,Sin clasificar,0.085828,2,1,651
@@ -12309,7 +12309,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Tash Sultana,Otros,0.079004,2,1,689
 2025,Michael Hooker,Sin clasificar,0.078927,1,1,690
 2025,Zankee Gulati,Sin clasificar,0.078578,1,1,691
-2025,DJ Luc14no Antileo,Sin clasificar,0.078129,2,2,692
+2025,DJ Luc14no Antileo,Urbano latino,0.078129,2,2,692
 2025,Joris Voorn,Electrónica y dance,0.077582,5,3,693
 2025,DEFLEE,Sin clasificar,0.077176,3,2,694
 2025,Billy Joel,Rock y alternativo,0.076982,12,5,695
@@ -12358,7 +12358,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Yotto,Electrónica y dance,0.070309,2,2,738
 2025,Rezident,Electrónica y dance,0.070014,2,1,739
 2025,Lunar Plane,Electrónica y dance,0.069982,1,1,740
-2025,Banda XXI,Sin clasificar,0.069667,1,1,741
+2025,Banda XXI,Cumbia y tropical,0.069667,1,1,741
 2025,This & That,Sin clasificar,0.069541,1,1,742
 2025,Gregory Isaacs,Rock y alternativo,0.069315,1,1,743
 2025,Opus,Sin clasificar,0.069306,1,1,744
@@ -12444,7 +12444,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Bacilos,Pop,0.059972,1,1,824
 2025,Fally Y Su Gran Sonora Barulera,Sin clasificar,0.059922,1,1,825
 2025,Akmaral,Sin clasificar,0.059850,1,1,826
-2025,Andrew Azara,Sin clasificar,0.059706,2,2,827
+2025,Andrew Azara,Electrónica y dance,0.059706,2,2,827
 2025,Henri Bergmann,Sin clasificar,0.059664,1,1,828
 2025,La Sonora Master,Cumbia y tropical,0.059613,1,1,829
 2025,稲垣次郎とソウル・メディア,"R&B, soul, funk y jazz",0.059052,1,1,830
@@ -12472,7 +12472,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Ricchi E Poveri,Pop,0.056450,2,1,852
 2025,El Polaco,Cumbia y tropical,0.056396,1,1,853
 2025,Djuma Soundsystem,Electrónica y dance,0.056368,1,1,854
-2025,Rayito Colombiano,Sin clasificar,0.056281,1,1,855
+2025,Rayito Colombiano,Cumbia y tropical,0.056281,1,1,855
 2025,Sven Väth,Electrónica y dance,0.056065,2,1,856
 2025,Pink Martini,Pop,0.056044,2,1,857
 2025,Gianni´s Humble,Sin clasificar,0.055952,1,1,858
@@ -12481,7 +12481,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Ten Walls,Electrónica y dance,0.055674,2,2,861
 2025,Cleo Sol,"R&B, soul, funk y jazz",0.055449,1,1,862
 2025,Aldo Saralegui,Sin clasificar,0.055444,1,1,863
-2025,Ben Sterling,Sin clasificar,0.055427,3,2,864
+2025,Ben Sterling,Electrónica y dance,0.055427,3,2,864
 2025,Ost & Kjex,Electrónica y dance,0.055191,1,1,865
 2025,Erin Boheme,Sin clasificar,0.055170,2,1,866
 2025,Romain Garcia,Sin clasificar,0.055129,1,1,867
@@ -12498,11 +12498,11 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Johnny Nash,Pop,0.054280,3,1,878
 2025,Gilberto Gil,Otros,0.054222,1,1,879
 2025,Grupo Frontera,Cumbia y tropical,0.054045,1,1,880
-2025,Tambó Tambó,Sin clasificar,0.054037,1,1,881
+2025,Tambó Tambó,Cumbia y tropical,0.054037,1,1,881
 2025,Dizzy Gillespie,"R&B, soul, funk y jazz",0.053945,2,1,882
 2025,The White Stripes,Rock y alternativo,0.053764,6,1,883
 2025,Anyma,Electrónica y dance,0.053702,6,6,884
-2025,Cris Mj,Sin clasificar,0.053654,3,3,885
+2025,Cris Mj,Urbano latino,0.053654,3,3,885
 2025,Amélie Renaud,Sin clasificar,0.053602,1,1,886
 2025,Kenny Dorham,"R&B, soul, funk y jazz",0.053476,2,1,887
 2025,La Banda De Lechuga,Sin clasificar,0.053316,2,1,888
@@ -12511,8 +12511,8 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Commanche,Sin clasificar,0.053148,1,1,891
 2025,Pete Oak,Electrónica y dance,0.053055,1,1,892
 2025,Blur,Rock y alternativo,0.052961,12,5,893
-2025,Delirio Mix,Sin clasificar,0.052672,1,1,894
-2025,Los Wachiturros,Sin clasificar,0.052541,1,1,895
+2025,Delirio Mix,Cumbia y tropical,0.052672,1,1,894
+2025,Los Wachiturros,Cumbia y tropical,0.052541,1,1,895
 2025,"Gladys ""La bomba tucumana""",Sin clasificar,0.052529,1,1,896
 2025,Kansas,Rock y alternativo,0.052418,14,2,897
 2025,SYNTRA (UK),Sin clasificar,0.052367,1,1,898
@@ -12529,7 +12529,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Big Yamo,Urbano latino,0.051410,1,1,909
 2025,Pale Jay,Rock y alternativo,0.051389,1,1,910
 2025,D-Nox,Sin clasificar,0.051298,1,1,911
-2025,Weird Sounding Dude,Sin clasificar,0.051212,1,1,912
+2025,Weird Sounding Dude,Electrónica y dance,0.051212,1,1,912
 2025,Jorge Ben Jor,Otros,0.051137,1,1,913
 2025,Members Of The Glenn Miller Orchestra,Sin clasificar,0.051133,1,1,914
 2025,Amigo de Artistas,Sin clasificar,0.051132,1,1,915
@@ -12663,7 +12663,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,MichaelBM,Sin clasificar,0.038569,18,17,1043
 2025,La Kuppe,Cumbia y tropical,0.038477,1,1,1044
 2025,JUNO ( DE ),Sin clasificar,0.038127,2,1,1045
-2025,Angel Y Khriz,Sin clasificar,0.038029,1,1,1046
+2025,Angel Y Khriz,Urbano latino,0.038029,1,1,1046
 2025,John Creamer,Sin clasificar,0.038009,1,1,1047
 2025,DJ German Ginestet,Sin clasificar,0.037992,1,1,1048
 2025,Tego Calderón,Urbano latino,0.037899,8,4,1049
@@ -12732,7 +12732,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,sheafiell,Sin clasificar,0.030450,1,1,1112
 2025,Alaan fonseca DJ,Sin clasificar,0.030422,1,1,1113
 2025,James Brown,"R&B, soul, funk y jazz",0.030112,3,1,1114
-2025,El Reja,Sin clasificar,0.029452,1,1,1115
+2025,El Reja,Cumbia y tropical,0.029452,1,1,1115
 2025,Eva Cassidy,Otros,0.028983,2,1,1116
 2025,Los Panchos,Otros,0.028918,1,1,1117
 2025,St Germain,Electrónica y dance,0.028662,3,1,1118
@@ -12754,7 +12754,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Tomi Lago,Sin clasificar,0.026659,1,1,1134
 2025,Mishell,Sin clasificar,0.026540,6,2,1135
 2025,Eric Prydz,Electrónica y dance,0.026431,4,1,1136
-2025,Mochakk,Sin clasificar,0.026430,4,2,1137
+2025,Mochakk,Electrónica y dance,0.026430,4,2,1137
 2025,La Tropicolombiana,Sin clasificar,0.026267,1,1,1138
 2025,Ñejo & Dalmata,Urbano latino,0.026218,1,1,1139
 2025,Tuti DJ,Sin clasificar,0.026085,1,1,1140
@@ -12806,7 +12806,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Jossef,Sin clasificar,0.022406,1,1,1186
 2025,Air Supply,Rock y alternativo,0.022382,2,2,1187
 2025,Javiielo,Urbano latino,0.022358,4,2,1188
-2025,Mambo DJ,Sin clasificar,0.022317,1,1,1189
+2025,Mambo DJ,Urbano latino,0.022317,1,1,1189
 2025,Six Sex,Urbano latino,0.022264,1,1,1190
 2025,Rauw Alejandro,Urbano latino,0.022161,6,6,1191
 2025,Vintage Culture,Electrónica y dance,0.022147,6,6,1192
@@ -12995,7 +12995,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Juanes,Rock y alternativo,0.009588,3,3,1375
 2025,Ritchie Valens,Rock y alternativo,0.009362,4,1,1376
 2025,Layton Giordani,Sin clasificar,0.009327,6,6,1377
-2025,LondonGround,Sin clasificar,0.009310,3,3,1378
+2025,LondonGround,Electrónica y dance,0.009310,3,3,1378
 2025,Paul Carrack,Rock y alternativo,0.009309,5,1,1379
 2025,Tal Fussman,Sin clasificar,0.009285,1,1,1380
 2025,Booker T. & the M.G.'s,Sin clasificar,0.009278,2,1,1381
@@ -13013,7 +13013,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Domshe,Sin clasificar,0.008829,4,1,1393
 2025,Sonicvibe,Sin clasificar,0.008812,2,1,1394
 2025,Latimore,"R&B, soul, funk y jazz",0.008588,1,1,1395
-2025,Patrice Bäumel,Sin clasificar,0.008517,1,1,1396
+2025,Patrice Bäumel,Electrónica y dance,0.008517,1,1,1396
 2025,Danny Ocean,Urbano latino,0.008499,3,1,1397
 2025,Gordon Lightfoot,Otros,0.008450,1,1,1398
 2025,Frank Sinatra Jr.,Sin clasificar,0.008444,1,1,1399
@@ -13076,7 +13076,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,The Cars,Rock y alternativo,0.006436,7,1,1456
 2025,Trap Capos,Urbano latino,0.006429,3,1,1457
 2025,The Smiths,Rock y alternativo,0.006412,3,2,1458
-2025,Golan Zocher,Sin clasificar,0.006251,1,1,1459
+2025,Golan Zocher,Electrónica y dance,0.006251,1,1,1459
 2025,Max Styler,Electrónica y dance,0.006207,2,2,1460
 2025,Alphaville,Pop,0.006189,1,1,1461
 2025,Neverdogs,Electrónica y dance,0.006186,1,1,1462
@@ -13195,7 +13195,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,AnnenMayKantereit,Rock y alternativo,0.003783,1,1,1575
 2025,Luther Allison,Otros,0.003754,1,1,1576
 2025,George Thorogood & The Destroyers,Rock y alternativo,0.003738,3,1,1577
-2025,Luuk Van Dijk,Sin clasificar,0.003677,2,2,1578
+2025,Luuk Van Dijk,Electrónica y dance,0.003677,2,2,1578
 2025,The Zombies,Rock y alternativo,0.003673,1,1,1579
 2025,K I F F,Sin clasificar,0.003614,1,1,1580
 2025,Primal Scream,Rock y alternativo,0.003591,1,1,1581
@@ -13264,7 +13264,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Myke Towers,Urbano latino,0.002832,2,1,1644
 2025,Silvano Del Gado,Sin clasificar,0.002832,1,1,1645
 2025,Gojira,Metal,0.002816,1,1,1646
-2025,Shakedown,Sin clasificar,0.002815,1,1,1647
+2025,Shakedown,Electrónica y dance,0.002815,1,1,1647
 2025,Ry Cooder,Rock y alternativo,0.002799,2,1,1648
 2025,Lee Walker,Sin clasificar,0.002796,1,1,1649
 2025,Rahsaan Roland Kirk,"R&B, soul, funk y jazz",0.002791,2,1,1650
@@ -13276,7 +13276,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Los Fabulosos Cadillacs,Cumbia y tropical,0.002763,2,1,1656
 2025,Kings of Convenience,Rock y alternativo,0.002761,1,1,1657
 2025,Flo Rida,Hip-hop y rap,0.002756,1,1,1658
-2025,Varese,Rock y alternativo,0.002751,1,1,1659
+2025,Varese,Electrónica y dance,0.002751,1,1,1659
 2025,Ed Sheeran,Pop,0.002733,3,3,1660
 2025,Nail,Sin clasificar,0.002733,1,1,1661
 2025,Sharon Attar,Sin clasificar,0.002722,1,1,1662
@@ -13323,7 +13323,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Peter Gabriel,Rock y alternativo,0.002228,1,1,1703
 2025,Los De La Nazza,Urbano latino,0.002216,2,1,1704
 2025,Sonny Clark,"R&B, soul, funk y jazz",0.002216,2,1,1705
-2025,Stryke,Sin clasificar,0.002196,1,1,1706
+2025,Stryke,Electrónica y dance,0.002196,1,1,1706
 2025,Joshwa,Sin clasificar,0.002193,1,1,1707
 2025,Arctic Monkeys,Rock y alternativo,0.002185,2,2,1708
 2025,Fallon,Sin clasificar,0.002171,1,1,1709
@@ -13366,7 +13366,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Roger Waters,Rock y alternativo,0.001867,1,1,1746
 2025,The Human League,Pop,0.001855,1,1,1747
 2025,AVIRA,Sin clasificar,0.001841,1,1,1748
-2025,ANNA,Sin clasificar,0.001819,1,1,1749
+2025,ANNA,Electrónica y dance,0.001819,1,1,1749
 2025,The La's,Rock y alternativo,0.001802,1,1,1750
 2025,Joe Satriani,Rock y alternativo,0.001799,1,1,1751
 2025,Sidney Charles,Electrónica y dance,0.001798,3,3,1752
@@ -13415,7 +13415,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Hozier,Rock y alternativo,0.001446,1,1,1795
 2025,Marsolo,Sin clasificar,0.001436,1,1,1796
 2025,Arodes,Sin clasificar,0.001432,1,1,1797
-2025,S.A.M.,Sin clasificar,0.001432,1,1,1798
+2025,S.A.M.,Electrónica y dance,0.001432,1,1,1798
 2025,Patrick Topping,Electrónica y dance,0.001428,1,1,1799
 2025,Talking Heads,Rock y alternativo,0.001428,1,1,1800
 2025,Selena Gomez,Pop,0.001422,1,1,1801
@@ -13504,7 +13504,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Pete Heller's Big Love,Sin clasificar,0.000957,1,1,1884
 2025,Camila,Pop,0.000954,1,1,1885
 2025,Flora Martinez,Sin clasificar,0.000954,1,1,1886
-2025,Kevin de Vries,Sin clasificar,0.000954,1,1,1887
+2025,Kevin de Vries,Electrónica y dance,0.000954,1,1,1887
 2025,Ian Vale,Electrónica y dance,0.000942,1,1,1888
 2025,DumitrEscu,Sin clasificar,0.000939,1,1,1889
 2025,Elvin Bishop,Rock y alternativo,0.000919,1,1,1890
@@ -13555,7 +13555,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Mutado Pintado,Sin clasificar,0.000709,1,1,1935
 2025,Bier & Bier,Sin clasificar,0.000690,1,1,1936
 2025,Dalmata,Urbano latino,0.000681,1,1,1937
-2025,Ric Niels,Sin clasificar,0.000681,1,1,1938
+2025,Ric Niels,Electrónica y dance,0.000681,1,1,1938
 2025,LOST AT SEA,Sin clasificar,0.000676,1,1,1939
 2025,Joshlane,Sin clasificar,0.000673,1,1,1940
 2025,Luedji Luna,Sin clasificar,0.000669,1,1,1941
@@ -13604,7 +13604,7 @@ Año,Artista,Género,Horas escuchadas,Reproducciones,Canciones distintas,Posici�
 2025,Archie Hamilton,Sin clasificar,0.000476,1,1,1984
 2025,Jerëmie.,Hip-hop y rap,0.000475,1,1,1985
 2025,Raul Carreiro,Sin clasificar,0.000456,2,1,1986
-2025,M83,Pop,0.000438,1,1,1987
+2025,M83,Electrónica y dance,0.000438,1,1,1987
 2025,Lou Reed,Rock y alternativo,0.000432,1,1,1988
 2025,HILLS,Rock y alternativo,0.000384,1,1,1989
 2025,Manowar,Metal,0.000383,1,1,1990
