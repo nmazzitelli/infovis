@@ -8,10 +8,11 @@ Historial personal de Spotify del 1 de diciembre de 2015 al 9 de agosto de 2026.
 - `escucha_por_artista_y_anio.csv`: horas, reproducciones y canciones por artista y año (2017–2025).
 - `artistas_generos_musicbrainz.json`: artistas y etiquetas originales de MusicBrainz, sin agrupar.
 - `generos_musicbrainz_sin_clasificar.csv`: las mismas etiquetas en formato tabular.
+- `clasificacion_generos_manual.csv`: excepciones revisadas para artistas sin etiquetas claras.
 - `generos_por_anio_flourish.csv`: horas anuales por macro-género para Flourish.
 - `artistas_por_anio_tableau.csv`: horas, reproducciones, canciones distintas y género por artista y año para Tableau.
 - `fuente_anonimizada/spotify_extended/`: 19 archivos JSON del historial extendido.
 
-Cada artista se asignó a un único macro-género; los casos sin etiquetas claras quedaron como `Sin clasificar`.
+Cada artista se asignó a un único macro-género con etiquetas de MusicBrainz y una revisión manual de los casos principales. Los casos dudosos quedaron como `Sin clasificar`.
 
 Los CSV excluyen 125 registros exactamente duplicados. En los JSON publicados solo se eliminaron las direcciones IP.

@@ -5,6 +5,10 @@ const projectDirectory = path.resolve(import.meta.dirname, "..");
 const dataDirectory = path.join(projectDirectory, "data");
 const listeningPath = path.join(dataDirectory, "escucha_por_artista_y_anio.csv");
 const tagsPath = path.join(dataDirectory, "artistas_generos_musicbrainz.json");
+const manualGenresPath = path.join(
+  dataDirectory,
+  "clasificacion_generos_manual.csv",
+);
 const outputPath = path.join(dataDirectory, "generos_por_anio_flourish.csv");
 
 const startYear = 2017;
@@ -107,6 +111,14 @@ const csvCell = (value) => {
 
 const categoryForTag = (tagName) => {
   const normalized = String(tagName ?? "").toLocaleLowerCase("es").trim();
+  if (
+    /\b(progressive house|melodic house|minimal house|tech house)\b/.test(
+      normalized,
+    )
+  ) {
+    return "Electrónica y dance";
+  }
+  if (/\bprogressive rock\b/.test(normalized)) return "Rock y alternativo";
   return rules.find(([, pattern]) => pattern.test(normalized))?.[0] ?? null;
 };
 
@@ -134,10 +146,32 @@ const classifyArtist = (artist) => {
 };
 
 const tagsData = JSON.parse(await fs.readFile(tagsPath, "utf8"));
+const manualRows = parseCsv(await fs.readFile(manualGenresPath, "utf8"));
+const [manualHeader, ...manualBody] = manualRows;
+const manualColumn = Object.fromEntries(
+  manualHeader.map((name, index) => [name, index]),
+);
+const manualCategories = new Map(
+  manualBody
+    .filter((row) => row.length === manualHeader.length)
+    .map((row) => [
+      row[manualColumn.artist_name],
+      row[manualColumn.macro_genero],
+    ]),
+);
+
+for (const [artistName, category] of manualCategories) {
+  if (!categories.includes(category) || category === "Sin clasificar") {
+    throw new Error(
+      `Categoría manual inválida para ${artistName}: ${category}`,
+    );
+  }
+}
+
 const artistCategory = new Map(
   tagsData.artists.map((artist) => [
     artist.source_artist_name,
-    classifyArtist(artist),
+    manualCategories.get(artist.source_artist_name) ?? classifyArtist(artist),
   ]),
 );
 
@@ -186,6 +220,7 @@ for (const yearly of totals.values()) {
 const allHours = [...overall.values()].reduce((sum, value) => sum + value, 0);
 
 console.log(`Artistas clasificados: ${artistCategory.size}`);
+console.log(`Clasificaciones manuales: ${manualCategories.size}`);
 console.log(`Años: ${startYear}-${endYear}`);
 for (const category of categories) {
   const hours = overall.get(category);

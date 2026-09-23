@@ -5,6 +5,10 @@ const projectDirectory = path.resolve(import.meta.dirname, "..");
 const dataDirectory = path.join(projectDirectory, "data");
 const listeningPath = path.join(dataDirectory, "escucha_por_artista_y_anio.csv");
 const tagsPath = path.join(dataDirectory, "artistas_generos_musicbrainz.json");
+const manualGenresPath = path.join(
+  dataDirectory,
+  "clasificacion_generos_manual.csv",
+);
 const outputPath = path.join(dataDirectory, "artistas_por_anio_tableau.csv");
 
 const categories = [
@@ -105,6 +109,14 @@ const csvCell = (value) => {
 
 const categoryForTag = (tagName) => {
   const normalized = String(tagName ?? "").toLocaleLowerCase("es").trim();
+  if (
+    /\b(progressive house|melodic house|minimal house|tech house)\b/.test(
+      normalized,
+    )
+  ) {
+    return "Electrónica y dance";
+  }
+  if (/\bprogressive rock\b/.test(normalized)) return "Rock y alternativo";
   return rules.find(([, pattern]) => pattern.test(normalized))?.[0] ?? null;
 };
 
@@ -132,10 +144,32 @@ const classifyArtist = (artist) => {
 };
 
 const tagsData = JSON.parse(await fs.readFile(tagsPath, "utf8"));
+const manualRows = parseCsv(await fs.readFile(manualGenresPath, "utf8"));
+const [manualHeader, ...manualBody] = manualRows;
+const manualColumn = Object.fromEntries(
+  manualHeader.map((name, index) => [name, index]),
+);
+const manualCategories = new Map(
+  manualBody
+    .filter((row) => row.length === manualHeader.length)
+    .map((row) => [
+      row[manualColumn.artist_name],
+      row[manualColumn.macro_genero],
+    ]),
+);
+
+for (const [artistName, category] of manualCategories) {
+  if (!categories.includes(category) || category === "Sin clasificar") {
+    throw new Error(
+      `Categoría manual inválida para ${artistName}: ${category}`,
+    );
+  }
+}
+
 const artistCategory = new Map(
   tagsData.artists.map((artist) => [
     artist.source_artist_name,
-    classifyArtist(artist),
+    manualCategories.get(artist.source_artist_name) ?? classifyArtist(artist),
   ]),
 );
 
@@ -211,6 +245,7 @@ await fs.writeFile(
 
 console.log(`Filas: ${rows.length}`);
 console.log(`Artistas: ${new Set(rows.map((row) => row.artist)).size}`);
+console.log(`Clasificaciones manuales: ${manualCategories.size}`);
 console.log(`Años: ${Math.min(...rows.map((row) => row.year))}-${Math.max(...rows.map((row) => row.year))}`);
 console.log(`Horas: ${rows.reduce((sum, row) => sum + row.hours, 0).toFixed(6)}`);
 console.log(`Salida: ${outputPath}`);
