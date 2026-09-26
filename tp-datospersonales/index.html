@@ -31,10 +31,7 @@
       font-size: 16px;
       line-height: 1.55;
       color: var(--tinta);
-      background:
-        linear-gradient(rgba(78, 65, 96, 0.035) 1px, transparent 1px),
-        var(--fondo);
-      background-size: 100% 28px;
+      background: var(--fondo);
     }
 
     main {
@@ -49,25 +46,27 @@
       padding: 48px 48px 44px;
       color: #fff;
       background: #27222f;
-      border: 1px solid #1c1822;
-      border-radius: 6px;
+      border-radius: 4px;
     }
 
     .encabezado::after {
       position: absolute;
-      top: -68px;
-      right: 28px;
-      width: 340px;
+      top: 42px;
+      right: 48px;
+      width: 138px;
       aspect-ratio: 1;
       content: "";
       background:
-        radial-gradient(circle at center, #b6b0be 0 2%, #211d27 2.5% 15%, #0e0c12 15.5% 18%, transparent 18.5%),
-        repeating-radial-gradient(circle at center, #100e14 0 4px, #282430 5px 8px);
-      border: 7px solid #0d0b10;
+        radial-gradient(circle at center,
+          #8c8495 0 2px,
+          #1b1820 3px 18px,
+          rgba(255, 255, 255, 0.12) 19px 20px,
+          #131116 21px 42px,
+          rgba(255, 255, 255, 0.09) 43px 44px,
+          #131116 45px 100%);
+      border: 1px solid #4d4753;
       border-radius: 50%;
-      box-shadow: 0 20px 34px rgba(0, 0, 0, 0.34), inset 0 0 0 1px rgba(255, 255, 255, 0.08);
-      opacity: 1;
-      transform: rotate(-10deg);
+      opacity: 0.78;
     }
 
     .encabezado > * {
@@ -79,12 +78,12 @@
     .encabezado .introduccion,
     .encabezado .indice,
     .encabezado .sobrelinea {
-      max-width: 680px;
+      max-width: 780px;
     }
 
     .sobrelinea {
       margin: 0 0 14px;
-      color: #f0b65c;
+      color: #bcaaf2;
       font-size: 12px;
       font-weight: bold;
       letter-spacing: 0.13em;
@@ -133,8 +132,8 @@
 
     .indice a:hover,
     .indice a:focus-visible {
-      color: #f0b65c;
-      border-color: #f0b65c;
+      color: #c9b9f7;
+      border-color: #c9b9f7;
     }
 
     .visualizacion {
@@ -143,9 +142,8 @@
       padding: 38px;
       background: var(--papel);
       border: 1px solid var(--borde);
-      border-top: 5px solid var(--color-seccion);
-      border-radius: 6px;
-      box-shadow: 6px 7px 0 rgba(74, 62, 88, 0.07);
+      border-top: 3px solid var(--color-seccion);
+      border-radius: 4px;
       scroll-margin-top: 24px;
     }
 
@@ -214,9 +212,10 @@
       }
 
       .encabezado::after {
-        top: -78px;
-        right: -100px;
-        width: 280px;
+        top: 24px;
+        right: 22px;
+        width: 82px;
+        opacity: 0.42;
       }
 
       h1 {
